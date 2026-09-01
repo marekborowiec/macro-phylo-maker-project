@@ -212,6 +212,8 @@ extract_ingroup_by_anchors <- function(tree, anchors) {
 #' @param seed Optional integer seed.
 #' @param strict If `TRUE`, stop on first error; otherwise continue with warnings.
 #' @param return_log If `TRUE`, return list with `tree` and `log`; else just the tree.
+#' @param verbose Logical. If `TRUE`, print progress and diagnostic messages
+#'   while applying grafting operations.
 #' @return `list(tree=phylo, log=data.frame)` or `phylo`.
 #' @export
 apply_grafts_from_table <- function(tree,
