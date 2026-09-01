@@ -448,70 +448,138 @@ Do not mix operating-system environments. For example:
 - R running inside WSL should use a Linux Python executable such as `.venv-chronosta/bin/python`.
 - R running inside the MacroPhyloMaker Docker container should use the executable specified by `CHRONOSTA_PYTHON`.
 
-## Verify Python from the R console before Chrono-STA
+### Verify Python from the R console before Chrono-STA
 
-This is an important step. Do this before running `run_chronosta_grafting()`.
+Before running `run_chronosta_grafting()`, verify that R can start the selected Python executable and that this exact Python environment contains all packages required by Chrono-STA.
+
+This verification is a **test**, not an installation or environment-activation step. It does not create a virtual environment, install packages, or permanently configure R. It only confirms that:
+
+1. the object `py` contains a valid Python executable path;
+2. R can launch that executable;
+3. the required Python packages are installed in that environment; and
+4. those packages can be imported successfully.
+
+First confirm that the selected executable exists:
+
+```r
+py
+file.exists(py)
+```
+
+`file.exists(py)` must return:
+
+```text
+TRUE
+```
+
+Next, write and run a temporary Python test script:
 
 ```r
 tf <- tempfile(fileext = ".py")
 
 writeLines(
   c(
+    "import sys",
+    "print('Python executable:', sys.executable)",
+    "print('Python version:', sys.version)",
     "import Bio",
     "import pandas",
     "import numpy",
     "import scipy",
     "import matplotlib",
-    "print('Python deps OK')"
+    "print('Chrono-STA Python dependencies OK')"
   ),
   tf
 )
 
-system2(
+python_test <- system2(
   py,
   tf,
   stdout = TRUE,
   stderr = TRUE
 )
+
+cat(python_test, sep = "\n")
+
+python_status <- attr(python_test, "status")
+
+if (!is.null(python_status) && python_status != 0L) {
+  stop(
+    "Chrono-STA Python verification failed with status ",
+    python_status,
+    ". Fix the Python environment before running run_chronosta_grafting().",
+    call. = FALSE
+  )
+}
 ```
 
-Expected output:
+Successful output should include:
 
 ```text
-Python deps OK
+Chrono-STA Python dependencies OK
 ```
 
-If this fails, `run_chronosta_grafting()` will likely fail. Fix Python first.
+The reported Python executable should match the value of `py`. If the test fails, do not run `run_chronosta_grafting()` yet.
 
-### Relationship to `setup_chronosta_env()` and `check_chronosta_python()`
+#### Local installation workflow
 
-`setup_chronosta_env(python = py)` can install or check Python-side dependencies depending on your local setup, and `check_chronosta_python(py)` is intended to verify them. However, on some systems an inline `python -c` check can fail because of shell quoting, even when the Python environment itself is fine. The temporary-script verification above is the most reliable check from R.
+For a piecemeal local installation, the complete sequence is:
 
-Recommended local pattern:
+1. Create or choose a Python environment.
+2. Install the required packages into that environment.
+3. Set `py` to that environment's Python executable.
+4. Optionally run MacroPhyloMaker's setup and check helpers.
+5. Run the robust temporary-script verification.
+6. Pass the same `py` object to `run_chronosta_grafting()`.
+
+For example:
 
 ```r
-py <- "/home/marek/anaconda3/bin/python3"
+# Linux, macOS, or WSL virtual environment:
+py <- here::here(".venv-chronosta", "bin", "python")
+
+# Native Windows alternative:
+# py <- here::here(".venv-chronosta", "Scripts", "python.exe")
+
+py <- normalizePath(py, mustWork = TRUE)
 
 setup_chronosta_env(python = py)
 check_chronosta_python(py)
 
-# Robust verification. If this fails, do not run Chrono-STA yet.
 tf <- tempfile(fileext = ".py")
+
 writeLines(
   c(
+    "import sys",
+    "print('Python executable:', sys.executable)",
     "import Bio",
     "import pandas",
     "import numpy",
     "import scipy",
     "import matplotlib",
-    "print('Python deps OK')"
+    "print('Chrono-STA Python dependencies OK')"
   ),
   tf
 )
-system2(py, tf, stdout = TRUE, stderr = TRUE)
+
+python_test <- system2(
+  py,
+  tf,
+  stdout = TRUE,
+  stderr = TRUE
+)
+
+cat(python_test, sep = "\n")
+
+if (!is.null(attr(python_test, "status"))) {
+  stop(
+    "Python verification failed. Do not run Chrono-STA yet.",
+    call. = FALSE
+  )
+}
 ```
 
-Then pass the same `py` to `run_chronosta_grafting()`:
+`setup_chronosta_env()` and `check_chronosta_python()` are package helpers. The temporary-script test is an additional, direct confirmation that R can use the chosen Python executable. Running the test does not activate the environment or make later Chrono-STA calls work by itself. The important action is passing the same verified executable to the wrapper:
 
 ```r
 res_chronosta <- run_chronosta_grafting(
@@ -520,15 +588,39 @@ res_chronosta <- run_chronosta_grafting(
 )
 ```
 
-### Docker-specific Python pattern
+#### Docker installation workflow
 
-Inside the Docker environment, use:
+The MacroPhyloMaker Docker image already contains a Python virtual environment and the required packages. Therefore, users normally should **not** run `setup_chronosta_env()` inside the Docker container.
+
+Inside the Docker R session, select the packaged Python executable with:
 
 ```r
 py <- Sys.getenv("CHRONOSTA_PYTHON")
+
+if (!nzchar(py)) {
+  stop(
+    "CHRONOSTA_PYTHON is not set in this Docker container.",
+    call. = FALSE
+  )
+}
+
+py <- normalizePath(py, mustWork = TRUE)
+py
 ```
 
-Then run the same temporary-script verification. In Docker, you normally do not need `setup_chronosta_env()` because the image already contains the Python virtual environment.
+Then run the same temporary-script verification shown above. If it succeeds, pass the same object to Chrono-STA:
+
+```r
+res_chronosta <- run_chronosta_grafting(
+  ...,
+  python = py
+)
+```
+
+The temporary-script verification is useful in both Docker and local installations. The difference is how the Python environment is created:
+
+- In Docker, the environment is built into the image and selected through `CHRONOSTA_PYTHON`.
+- In a local installation, the user creates or selects the environment, installs the dependencies, and assigns its executable path to `py`.
 
 ## Install or access TACT locally
 
@@ -966,7 +1058,7 @@ Barba-Montoya, J., Craig, J. M., & Kumar, S. (2025). Integrating phylogenies wit
 In order for this step to work, Python environment has to be set up in a way R can see it. See [Verify the Python environment for Chrono-STA](#verify-the-python-environment-for-chrono-sta) and [Set up Python for Chrono-STA locally](#set-up-python-for-chrono-sta-locally) sections above for steps necessary for this function to work under Docker and local installations.
 
 ```r
-res <- run_chronosta_grafting(
+res_chronosta <- run_chronosta_grafting(
   reference_tree = here::here(
     "project", "results", "grafted",
     "genus-reconstituted-2Aug2026-rescaled-for-chronosta.tre"
@@ -989,7 +1081,8 @@ res <- run_chronosta_grafting(
   "Camponotus",
   "Colobopsis",
   "Eurhophalothrix",
-  "Syllophopsis")
+  "Syllophopsis"),
+  python = py
 )
 ```
 
@@ -1472,12 +1565,56 @@ Then in R:
 devtools::load_all("MacroPhyloMaker")
 ```
 
-If using the Chrono-STA-enabled grafting step, also set up Python dependencies. Use an explicit Python executable so that setup, checks, and run all use the same environment:
+If the workflow will include the Chrono-STA-enabled step, select and verify Python before running Step 4.
+
+When running inside the MacroPhyloMaker Docker container:
 
 ```r
-py <- "/home/marek/anaconda3/bin/python3"
-setup_chronosta_env(python = py)
-check_chronosta_python(py)
+py <- Sys.getenv("CHRONOSTA_PYTHON")
+py <- normalizePath(py, mustWork = TRUE)
+```
+
+For a local virtual environment, use the operating-system-appropriate location:
+
+```r
+python_candidates <- c(
+  here::here(".venv-chronosta", "bin", "python"),
+  here::here(".venv-chronosta", "Scripts", "python.exe")
+)
+
+existing_python <- python_candidates[file.exists(python_candidates)]
+
+if (!length(existing_python)) {
+  stop(
+    "Could not locate the local Chrono-STA Python environment.",
+    call. = FALSE
+  )
+}
+
+py <- normalizePath(existing_python[1], mustWork = TRUE)
+```
+
+For an existing Anaconda or Miniconda installation, set `py` directly to its Python executable, for example:
+
+```r
+py <- "/home/user/anaconda3/bin/python3"
+```
+
+or on native Windows:
+
+```r
+py <- "C:/Users/username/anaconda3/python.exe"
+```
+
+Run the Python verification described in
+#verify-python-from-the-r-console-before-chrono-sta
+before running Step 4. Always pass the verified executable explicitly:
+
+```r
+res_chronosta <- run_chronosta_grafting(
+  ...,
+  python = py
+)
 ```
 
 ### Step 1. Graft missing genera onto the genus-level backbone
@@ -1786,7 +1923,7 @@ res_chronosta <- run_chronosta_grafting(
   monoph_restore = TRUE,
   paraph_exc = c(
     "Camponotus",
-    "Colobopsis"
+    "Colobopsis",
     "Syllophopsis",
     "Lasius",
     "Eurhopalothrix"
