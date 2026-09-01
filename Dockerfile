@@ -4,8 +4,8 @@ ENV DOCKER_API_VERSION=1.43
 ENV DEBIAN_FRONTEND=noninteractive
 ENV R_REMOTES_NO_ERRORS_FROM_WARNINGS=true
 
-# System dependencies for R packages, plotting, devtools, ChronoSTA Python support,
-# and Docker CLI access from inside the container.
+# System dependencies for R packages, plotting, development tools,
+# Chrono-STA Python support, and Docker CLI access.
 RUN apt-get update && apt-get install -y --no-install-recommends \
     bash \
     git \
@@ -40,9 +40,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     docker.io \
     && rm -rf /var/lib/apt/lists/*
 
-# R packages used across the MacroPhyloMaker workflow.
-# The README already lists devtools, ape, phytools, here, readr and additional
-# workflow packages such as phangorn, stringr, progress, igraph, and MonoPhy.
+# R packages used by the MacroPhyloMaker workflow.
 RUN Rscript -e 'install.packages(c( \
     "devtools", \
     "ape", \
@@ -53,19 +51,16 @@ RUN Rscript -e 'install.packages(c( \
     "igraph", \
     "MonoPhy", \
     "here", \
-    "readr", \
-    "data.table", \
-    "dplyr", \
-    "tidyr", \
-    "tibble", \
+    "rappdirs", \
+    "testthat", \
     "ggplot2", \
     "remotes" \
   ), repos = "https://cloud.r-project.org", Ncpus = parallel::detectCores())'
 
-# Python packages needed for the ChronoSTA-enabled step.
-# Install them into an isolated virtual environment to avoid system-Python issues.
+# Create an isolated Python environment for Chrono-STA.
 RUN python3 -m venv /opt/chronosta-venv && \
-    /opt/chronosta-venv/bin/python -m pip install --upgrade pip setuptools wheel && \
+    /opt/chronosta-venv/bin/python -m pip install --upgrade \
+      pip setuptools wheel && \
     /opt/chronosta-venv/bin/python -m pip install --no-cache-dir \
       biopython \
       pandas \
@@ -75,6 +70,12 @@ RUN python3 -m venv /opt/chronosta-venv && \
 
 ENV PATH="/opt/chronosta-venv/bin:${PATH}"
 ENV CHRONOSTA_PYTHON="/opt/chronosta-venv/bin/python"
+
+# Copy and install MacroPhyloMaker.
+COPY MacroPhyloMaker /opt/MacroPhyloMaker
+
+RUN R CMD INSTALL --clean /opt/MacroPhyloMaker && \
+    rm -rf /opt/MacroPhyloMaker
 
 WORKDIR /work
 
