@@ -752,7 +752,7 @@ prepare_tact_backbone_labels <- function(tree,
 #' @keywords internal
 .tact_read_country_realm_map <- function(country_realm_map, logger = NULL) {
   if (is.null(country_realm_map)) {
-    return(setNames(character(0), character(0)))
+    return(stats::setNames(character(0), character(0)))
   }
 
   rm <- if (is.data.frame(country_realm_map)) {
@@ -798,7 +798,7 @@ prepare_tact_backbone_labels <- function(tree,
     realm <- realm[!dup]
   }
 
-  out <- setNames(realm, country)
+  out <- stats::setNames(realm, country)
   .tact_msg("Country-realm map entries loaded: ", length(out), logger = logger)
   out
 }
@@ -911,7 +911,7 @@ prepare_tact_backbone_labels <- function(tree,
   realm <- unname(realm_map[country])
   realm[is.na(realm) | !nzchar(realm)] <- unknown_realm
 
-  realm_lookup <- setNames(realm, species_underscore)
+  realm_lookup <- stats::setNames(realm, species_underscore)
   idx <- match(tax$species_underscore, names(realm_lookup))
   hit <- !is.na(idx)
   tax$realm[hit] <- realm_lookup[idx[hit]]
@@ -944,9 +944,9 @@ prepare_tact_backbone_labels <- function(tree,
 #' @keywords internal
 .tact_write_realm_labelled_tree <- function(tree, tax, file, unknown_realm = "Unknown") {
   realm_lookup <- if ("realm" %in% names(tax)) {
-    setNames(tax$realm, tax$species_underscore)
+    stats::setNames(tax$realm, tax$species_underscore)
   } else {
-    setNames(rep(unknown_realm, nrow(tax)), tax$species_underscore)
+    stats::setNames(rep(unknown_realm, nrow(tax)), tax$species_underscore)
   }
 
   append_one <- function(tr) {
@@ -1071,7 +1071,7 @@ split_nonmono_genera_for_tact <- function(tree,
     stringsAsFactors = FALSE
   )
   labels <- tree$tip.label
-  realm_lookup <- setNames(tax[[realm_col]], tax$species_underscore)
+  realm_lookup <- stats::setNames(tax[[realm_col]], tax$species_underscore)
 
   for (g in nonmono_g) {
     species_in_tax <- tax$species_underscore[tax$genus == g]
@@ -1330,7 +1330,7 @@ run_tact_build_taxonomy_external <- function(work_dir,
 
   if (!identical(status, 0L)) {
     err <- if (file.exists(stderr_file)) {
-      paste(tail(readLines(stderr_file, warn = FALSE), 80), collapse = "\n")
+      paste(utils::tail(readLines(stderr_file, warn = FALSE), 80), collapse = "\n")
     } else {
       "<no stderr>"
     }
@@ -1409,7 +1409,7 @@ run_tact_external <- function(work_dir,
 
   if (!identical(status, 0L)) {
     err <- if (file.exists(stderr_file)) {
-      paste(tail(readLines(stderr_file, warn = FALSE), 80), collapse = "\n")
+      paste(utils::tail(readLines(stderr_file, warn = FALSE), 80), collapse = "\n")
     } else {
       "<no stderr>"
     }

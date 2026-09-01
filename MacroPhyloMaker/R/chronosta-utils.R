@@ -127,7 +127,7 @@ filter_consistent_calibrations <- function(tree, calib, min_margin = 0.5) {
   
   if (nrow(calib) <= 1) return(calib)
   
-  node_to_row <- setNames(seq_len(nrow(calib)), calib$node)
+  node_to_row <- stats::setNames(seq_len(nrow(calib)), calib$node)
   
   get_parent <- function(nd) {
     row <- which(tree$edge[, 2] == nd)
@@ -560,7 +560,7 @@ recalibrate_with_chronos <- function(tree_ref,
 
 restore_monophyly <- function(final_tree,
                                  ref_tree,
-                                 source_trees = list_tre,
+                                 source_trees = list(),
                                  genus_sep = "_",
                                  min_tips_per_genus = 1,
                                  max_passes = 1000,
