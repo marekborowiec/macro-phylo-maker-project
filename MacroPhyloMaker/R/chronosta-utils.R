@@ -29,7 +29,6 @@ nodeHeights      <- phytools::nodeHeights
 force.ultrametric <- phytools::force.ultrametric
 getDescendants   <- phytools::getDescendants
 
-AssessMonophyly  <- MonoPhy::AssessMonophyly
 GetResultMonophyly <- MonoPhy::GetResultMonophyly
 PlotMonophyly    <- MonoPhy::PlotMonophyly
 
