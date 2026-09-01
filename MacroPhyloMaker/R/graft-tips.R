@@ -460,7 +460,6 @@ pipeline_write_outputs <- function(
 #' @param seed_mode "fixed", "random", or an integer.
 #' @param ingroup_anchors Character vector of at least two tips present in each backbone to define an MRCA.
 #' @param prefer_tree_index Ignored (kept for compatibility).
-#' @param keep_only,drop_tips Optional character vectors for pruning.
 #' @param plot_pdf,pdf_width,pdf_height,pdf_auto,plot_cex,plot_fn Plotting controls.
 #' @return Invisibly returns `TRUE` (side effects: writes tree(s), logs, optional PDF).
 #' @examples
