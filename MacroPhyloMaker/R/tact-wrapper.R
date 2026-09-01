@@ -1,4 +1,3 @@
-
 # tact_wrapper.R
 # MacroPhyloMaker TACT integration wrapper
 #
@@ -591,24 +590,13 @@ detect_nonmono_genera_for_tact <- function(tree, exclude_tips = character(0), ge
   tree$tip.label[dd[dd <= ape::Ntip(tree)]]
 }
 
-#' Partition a non-monophyletic genus by MRCA child branches
-#'
-#' @param tree An object of class `phylo`.
-#' @param genus Character genus name.
-#' @param exclude_tips Character vector of protected tips that should not receive
-#'   missing species.
-#'
-#' @return A list of character vectors, each containing graftable tips for one
-#'   temporary pseudo-genus.
-#' @keywords internal
 #' Partition a non-monophyletic genus into TACT-safe singleton pseudo-genera
 #'
 #' The earlier MRCA-child partitioning strategy can create pseudo-genera whose
-#' local placement is too broad in large trees. For TACT completion, the safest
-#' treatment of a non-monophyletic genus is to make each existing graftable
-#' backbone representative its own temporary pseudo-genus. Missing species are
-#' then allocated across these single-tip anchors, which prevents TACT from
-#' placing missing species on unrelated high-level branches.
+#' local placement is too broad in large trees. For TACT completion, each
+#' existing graftable backbone representative is therefore treated as its own
+#' temporary pseudo-genus. Missing species can then be allocated across these
+#' single-tip anchors without allowing placement on unrelated high-level branches.
 #'
 #' @param tree An object of class `phylo`.
 #' @param genus Character genus name.
@@ -1002,6 +990,17 @@ prepare_tact_backbone_labels <- function(tree,
 #' @param exclude_tips Character vector of backbone tips to protect from grafting.
 #' @param seed Integer random seed.
 #' @param logger Optional logger object.
+#' @param biogeo Logical. If `TRUE`, preferentially allocate missing species to
+#'   temporary anchors assigned to the same biogeographic realm.
+#' @param realm_col Character. Name of the taxonomy column containing
+#'   biogeographic realm assignments. If absent, the column is created and
+#'   populated with `biogeo_unknown_realm`.
+#' @param biogeo_unknown_realm Character. Label used for missing or unknown
+#'   realm assignments.
+#' @param biogeo_apply_to_all_genera Logical. If `TRUE` and `biogeo = TRUE`,
+#'   create realm-aware singleton anchors for all genera represented in the
+#'   backbone that also have missing species in the taxonomy, rather than only
+#'   for genera detected as non-monophyletic.
 #'
 #' @return A list with `tree`, `taxonomy`, `map`, `nonmono`, and `skipped`.
 #' @export

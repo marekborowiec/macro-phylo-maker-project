@@ -1245,7 +1245,7 @@ find_python <- function(python = NULL) {
 #' checks for Biopython, pandas, NumPy, SciPy, and Matplotlib.
 #'
 #' @param python Character. Optional path or command name for a Python
-#'   executable. If `NULL`, [find_python()] searches for `python3` and then
+#'   executable. If `NULL`, `find_python()` searches for `python3` and then
 #'   `python` on the system path.
 #' @param packages Character vector of Python import names to check. The default
 #'   values correspond to Biopython (`Bio`), pandas, NumPy, SciPy, and
@@ -1339,17 +1339,17 @@ check_chronosta_python <- function(
 #' locate all required dependencies.
 #'
 #' @param python Character. Optional path or command name for a Python
-#'   executable. If `NULL`, [find_python()] searches for `python3` and then
+#'   executable. If `NULL`, `find_python()` searches for `python3` and then
 #'   `python` on the system path.
 #' @param install Logical. If `TRUE`, install Biopython, pandas, NumPy, SciPy,
 #'   and Matplotlib into the environment associated with `python` using
 #'   `python -m pip install`.
 #' @param download Logical. If `TRUE`, download `chronosta.py` into `dest_dir`.
-#'   If `FALSE`, use [find_chronosta_script()] to locate an existing script
+#'   If `FALSE`, use `find_chronosta_script()` to locate an existing script
 #'   without downloading it.
 #' @param dest_dir Character. Directory in which `chronosta.py` is stored when
 #'   `download = TRUE`. Defaults to the user-writable ChronoSTA directory
-#'   returned by [chronosta_default_dir()].
+#'   returned by `chronosta_default_dir()`.
 #'
 #' @return Invisibly returns a list with two elements: `python`, the resolved
 #'   Python executable path, and `chronosta_script`, the resolved path to
@@ -1363,7 +1363,7 @@ check_chronosta_python <- function(
 #'
 #' Set `install = FALSE` when the Python dependencies are already installed. Set
 #' `download = FALSE` only when an existing `chronosta.py` can be located by
-#' [find_chronosta_script()].
+#' `find_chronosta_script()`.
 #'
 #' @examples
 #' \dontrun{
