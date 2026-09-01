@@ -543,6 +543,14 @@ resolve_authority_binomials <- function(authority) {
 #' @param donor_tree A rooted \code{phylo} donor tree (phylogram or chronogram).
 #' @param ingroup_tips Character vector of donor tips belonging to the ingroup.
 #'   These may be expanded depending on \code{expand_ingroup_to_full_donor}.
+#' @param template_path Optional character path for the prepared donor-tree
+#'   template.
+#' @param write_template Logical. If `TRUE`, write the prepared template to
+#'   `template_path`.
+#' @param reuse_template Logical. If `TRUE` and an existing template is
+#'   available at `template_path`, reuse it rather than rebuilding it.
+#' @param stem_mode Character. Controls how donor-tree stem information is
+#'   represented when preparing the grafting template.
 #' @param authority Optional species authority data accepted by
 #'   \code{resolve_authority_binomials()}.
 #' @param chronos_select One of \code{"auto"}, \code{"fixed"}, or \code{"off"}.
