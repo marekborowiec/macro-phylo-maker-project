@@ -144,7 +144,7 @@ safe_drop_tips <- function(tree, tips) {
   ape::drop.tip(tree, drop)
 }
 
-#' Extract ingroup defined by MRCA of available anchors (if ≥ 2 present)
+#' Extract ingroup defined by MRCA of available anchors (if at least 2 present)
 #' @keywords internal
 #' @noRd
 extract_ingroup_by_anchors <- function(tree, anchors) {
@@ -344,7 +344,7 @@ apply_grafts_from_table <- function(tree,
     etype <- if (!is.null(res$edge_type) && !is.na(res$edge_type)) paste0(" edge=", res$edge_type) else ""
     if (isTRUE(verbose)) {
       cat(sprintf(
-        "[%d/%d] %s: %s  ⟂  %s  at pos=%s (attach_age=%s)%s%s\n",
+        "[%d/%d] %s: %s  |  %s  at pos=%s (attach_age=%s)%s%s\n",
         i, n_total, res$mode_txt, new_label, res$target_txt, pos_str, age_str, etype, drop_str
       ))
     }
@@ -462,6 +462,9 @@ pipeline_write_outputs <- function(
 #' @param seed_mode "fixed", "random", or an integer.
 #' @param ingroup_anchors Character vector of at least two tips present in each backbone to define an MRCA.
 #' @param prefer_tree_index Ignored (kept for compatibility).
+#' @param drop_tips Optional character vector of tip labels to remove from each
+#'   backbone tree before applying the grafting plan. The default is `NULL`,
+#'   which retains all original backbone tips.
 #' @param plot_pdf,pdf_width,pdf_height,pdf_auto,plot_cex,plot_fn Plotting controls.
 #' @return Invisibly returns `TRUE` (side effects: writes tree(s), logs, optional PDF).
 #' @examples

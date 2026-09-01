@@ -154,7 +154,7 @@ filter_consistent_calibrations <- function(tree, calib, min_margin = 0.5) {
   removed_tight <- character(0)
   
   # ---------------------------------------------------------------------------
-  # PASS 1 — remove HARD conflicts (child age.min > parent age.max)
+  # PASS 1 - remove HARD conflicts (child age.min > parent age.max)
   # (unchanged behaviour from the original function)
   # ---------------------------------------------------------------------------
   max_iter <- nrow(calib)
@@ -182,7 +182,7 @@ filter_consistent_calibrations <- function(tree, calib, min_margin = 0.5) {
   }
   
   # ---------------------------------------------------------------------------
-  # PASS 2 — enforce minimum ordering margin between nested calibrations
+  # PASS 2 - enforce minimum ordering margin between nested calibrations
   # Remove the CHILD of any parent-child calibrated pair whose midpoints are
   # closer than min_margin. Iterate until all nested pairs have enough margin.
   # ---------------------------------------------------------------------------
@@ -248,7 +248,7 @@ get_shared_nodes <- function(tree_ref, tree_target,
   shared_tips <- intersect(tips_ref, tips_target)
   
   if (length(shared_tips) < 2) {
-    message("  fewer than 2 shared taxa — recalibration skipped.")
+    message("  fewer than 2 shared taxa - recalibration skipped.")
     return(NULL)
   }
   
@@ -306,7 +306,7 @@ get_shared_nodes <- function(tree_ref, tree_target,
             " candidates ( ratio = ", ratio,
             ", n_internal = ", n_internal, ")")
   } else {
-    message("  calibration nodes: ", n_candidates, " (all retained — below cap of ",
+    message("  calibration nodes: ", n_candidates, " (all retained - below cap of ",
             n_cap)
   }
   
@@ -468,7 +468,7 @@ recalibrate_with_chronos <- function(tree_ref,
   shared <- shared_nodes
   
   if (is.null(shared) || nrow(shared) == 0) {
-    warning("  no shared nodes found — tree returned without recalibration.")
+    warning("  no shared nodes found - tree returned without recalibration.")
     return(tree_target)
   }
   
@@ -488,7 +488,7 @@ recalibrate_with_chronos <- function(tree_ref,
   
   if (nrow(calib) < 2) {
     warning("  fewer than 2 consistent calibration nodes remain after ",
-            "conflict filtering — tree returned without recalibration.")
+            "conflict filtering - tree returned without recalibration.")
     return(tree_target)
   }
   
@@ -506,7 +506,7 @@ recalibrate_with_chronos <- function(tree_ref,
   best_lambda <- lambda
   result      <- try_chronos(tree_target, calib, best_lambda)
   if (!is.null(result)) return(result)
-  message("  fallback 1 failed — trying soft bounds...")
+  message("  fallback 1 failed - trying soft bounds...")
   
   # --- Fallback 2: soft bounds, same constraints and lambda -------------------
   calib_soft              <- calib
@@ -516,11 +516,11 @@ recalibrate_with_chronos <- function(tree_ref,
     message("  fallback 2 succeeded (soft bounds).")
     return(result)
   }
-  message("  fallback 2 failed — trying deepest nodes only...")
+  message("  fallback 2 failed - trying deepest nodes only...")
   
   # --- Fallback 3: keep only the calib_min_nodes deepest calibration nodes ---
   # Deep nodes span the largest clades and are least likely to conflict.
-  # Use age_ref (reference age) as proxy for depth — older = deeper.
+  # Use age_ref (reference age) as proxy for depth - older = deeper.
   calib_deep <- calib[order(-shared$age_ref[match(calib$node,
                                                   shared$node_target)]), ]
   calib_deep <- calib_deep[seq_len(min(calib_min_nodes, nrow(calib_deep))), ]
@@ -535,7 +535,7 @@ recalibrate_with_chronos <- function(tree_ref,
   
   # --- Fallback 4: give up, return uncalibrated tree -------------------------
   warning("  all chronos() fallbacks failed for this tree.\n",
-          "  Returning uncalibrated tree — CHECK THIS TREE MANUALLY.\n",
+          "  Returning uncalibrated tree - CHECK THIS TREE MANUALLY.\n",
           "  n_calib = ", nrow(calib), ", lambda tried = ", best_lambda)
   return(tree_target)
 }

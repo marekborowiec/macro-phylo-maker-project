@@ -71,9 +71,23 @@
 #' @noRd
 .box_chars <- function(ascii = .ascii_logging_enabled()) {
   if (isTRUE(ascii)) {
-    list(h = "-", tl = "+", tr = "+", bl = "+", br = "+", v = "|")
+    list(
+      h = "-",
+      tl = "+",
+      tr = "+",
+      bl = "+",
+      br = "+",
+      v = "|"
+    )
   } else {
-    list(h = "─", tl = "┌", tr = "┐", bl = "└", br = "┘", v = "│")
+    list(
+      h = "\u2500",
+      tl = "\u250c",
+      tr = "\u2510",
+      bl = "\u2514",
+      br = "\u2518",
+      v = "\u2502"
+    )
   }
 }
 
