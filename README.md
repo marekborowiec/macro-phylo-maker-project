@@ -101,16 +101,28 @@ docker run --rm -it \
   -v "$PWD":"$PWD" \
   -w "$PWD" \
   -v /var/run/docker.sock:/var/run/docker.sock \
-  macrophylomaker:latest
+  marekborowiec/macrophylomaker:latest
 ```
 
-Alternatively (on Windows computers), you can use this command line. Just adapt "add_your_pathway"
+Alternatively, on Windows PowerShell use this command from the cloned repository root:
 
 ```bash
-docker run --rm -it -v "%cd%":/c/add_your_pathway/macro-phylo-maker-project -w /c/add_our_pathway/macro-phylo-maker-project -v /var/run/docker.sock:/var/run/docker.sock macrophylomaker:latest
+docker run --rm -it `
+  --mount "type=bind,source=$($PWD.Path),target=/work" `
+  --workdir /work `
+  -v /var/run/docker.sock:/var/run/docker.sock `
+  marekborowiec/macrophylomaker:latest
+```
+
+On Windows Command Prompt:
+```bash
+docker run --rm -it --mount "type=bind,source=%cd%,target=/work" --workdir /work -v /var/run/docker.sock:/var/run/docker.sock marekborowiec
 ```
 
 This starts R inside the container.
+
+### Important TACT caveat on Windows
+Native Windows PowerShell and Command Prompt commands are suitable for running MacroPhyloMaker and Chrono-STA. For the TACT workflow, which launches an additional Docker container, running the MacroPhyloMaker image from WSL is recommended because the repository can be mounted at the same absolute path on the host and inside the container.
 
 The mount:
 
@@ -144,7 +156,7 @@ docker run --rm -it \
 Inside the R session started by Docker:
 
 ```r
-devtools::load_all("MacroPhyloMaker")
+library("MacroPhyloMaker")
 ```
 
 ## Verify the Python environment for Chrono-STA
