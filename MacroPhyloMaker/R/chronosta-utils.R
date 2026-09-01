@@ -1238,6 +1238,45 @@ find_python <- function(python = NULL) {
   unname(p)
 }
 
+#' Check the Python environment for ChronoSTA
+#'
+#' Verifies that a selected Python executable can locate the Python packages
+#' required by the ChronoSTA-enabled grafting workflow. By default, the function
+#' checks for Biopython, pandas, NumPy, SciPy, and Matplotlib.
+#'
+#' @param python Character. Optional path or command name for a Python
+#'   executable. If `NULL`, [find_python()] searches for `python3` and then
+#'   `python` on the system path.
+#' @param packages Character vector of Python import names to check. The default
+#'   values correspond to Biopython (`Bio`), pandas, NumPy, SciPy, and
+#'   Matplotlib.
+#'
+#' @return Invisibly returns the resolved path to the Python executable when all
+#'   requested packages are available. Stops with an informative error if the
+#'   executable cannot be found or one or more packages are unavailable.
+#'
+#' @details
+#' This function only checks an existing Python environment. It does not create
+#' a virtual environment, install packages, activate an environment, or change
+#' the Python executable used by later calls. Pass the returned executable, or
+#' the same value supplied to `python`, to [run_chronosta_grafting()].
+#'
+#' Each package is checked in a separate temporary Python script using
+#' `importlib.util.find_spec()`.
+#'
+#' @examples
+#' \dontrun{
+#' # Automatically locate Python.
+#' check_chronosta_python()
+#'
+#' # Check a project-specific virtual environment on Unix-like systems.
+#' check_chronosta_python(".venv-chronosta/bin/python")
+#'
+#' # Native Windows example.
+#' check_chronosta_python(".venv-chronosta/Scripts/python.exe")
+#' }
+#'
+#' @export
 check_chronosta_python <- function(
   python = NULL,
   packages = c("Bio", "pandas", "numpy", "scipy", "matplotlib")
@@ -1292,6 +1331,63 @@ check_chronosta_python <- function(
   invisible(py)
 }
 
+#' Set up the Python environment and script for ChronoSTA
+#'
+#' Prepares the external Python components required by the ChronoSTA-enabled
+#' grafting workflow. The function can install the required Python packages,
+#' download `chronosta.py`, and verify that the selected Python executable can
+#' locate all required dependencies.
+#'
+#' @param python Character. Optional path or command name for a Python
+#'   executable. If `NULL`, [find_python()] searches for `python3` and then
+#'   `python` on the system path.
+#' @param install Logical. If `TRUE`, install Biopython, pandas, NumPy, SciPy,
+#'   and Matplotlib into the environment associated with `python` using
+#'   `python -m pip install`.
+#' @param download Logical. If `TRUE`, download `chronosta.py` into `dest_dir`.
+#'   If `FALSE`, use [find_chronosta_script()] to locate an existing script
+#'   without downloading it.
+#' @param dest_dir Character. Directory in which `chronosta.py` is stored when
+#'   `download = TRUE`. Defaults to the user-writable ChronoSTA directory
+#'   returned by [chronosta_default_dir()].
+#'
+#' @return Invisibly returns a list with two elements: `python`, the resolved
+#'   Python executable path, and `chronosta_script`, the resolved path to
+#'   `chronosta.py`.
+#'
+#' @details
+#' The function operates on the Python environment associated with the selected
+#' executable. It does not activate that environment or permanently configure R.
+#' Use the same Python executable for setup, verification with
+#' [check_chronosta_python()], and [run_chronosta_grafting()].
+#'
+#' Set `install = FALSE` when the Python dependencies are already installed. Set
+#' `download = FALSE` only when an existing `chronosta.py` can be located by
+#' [find_chronosta_script()].
+#'
+#' @examples
+#' \dontrun{
+#' # Automatically locate Python, install dependencies, and download ChronoSTA.
+#' env <- setup_chronosta_env()
+#'
+#' # Use a project-specific virtual environment on Unix-like systems.
+#' env <- setup_chronosta_env(
+#'   python = ".venv-chronosta/bin/python"
+#' )
+#'
+#' # Native Windows example.
+#' env <- setup_chronosta_env(
+#'   python = ".venv-chronosta/Scripts/python.exe"
+#' )
+#'
+#' # Verify an environment without reinstalling its Python packages.
+#' env <- setup_chronosta_env(
+#'   python = ".venv-chronosta/bin/python",
+#'   install = FALSE
+#' )
+#' }
+#'
+#' @export
 setup_chronosta_env <- function(
   python = NULL,
   install = TRUE,
