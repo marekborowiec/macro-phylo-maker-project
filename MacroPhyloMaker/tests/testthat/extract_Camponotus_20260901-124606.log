@@ -1,0 +1,129 @@
+=== Genus extraction log: Camponotus | 2026-09-01 12:46:06 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: genus_species
+nonmono: error
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 4
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (genus=Camponotus) identified: 2 tips
+Genus monophyly: FALSE
+=== Genus extraction log: Camponotus | 2026-09-01 12:46:06 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: genus_species
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 4
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (genus=Camponotus) identified: 2 tips
+Genus monophyly: FALSE
+Pruned non-genus tips inside MRCA (prune_extras).
+MRCA at root or no parent; outgroup skipped.
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 2
+tips_out (final tree): 2
+Wrote renames TSV: ./extract_Camponotus_20260901-124606_renamed.tsv
+=== Genus extraction log: Camponotus | 2026-09-01 12:46:06 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: genus_species
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 4
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (genus=Camponotus) identified: 2 tips
+Genus monophyly: TRUE
+Outgroup (sister_one): Formica_c (min distance=4.000000)
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 2
+tips_out (final tree): 3
+Wrote renames TSV: ./extract_Camponotus_20260901-124606_renamed.tsv
+=== Genus extraction log: Camponotus | 2026-09-01 12:46:06 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: genus_species
+nonmono: prune_extras
+outgroup: none
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 4
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (genus=Camponotus) identified: 2 tips
+Genus monophyly: TRUE
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 2
+tips_out (final tree): 2
+Wrote renames TSV: ./extract_Camponotus_20260901-124606_renamed.tsv
+=== Genus extraction log: Camponotus | 2026-09-01 12:46:06 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: genus_species
+nonmono: prune_extras
+outgroup: none
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 4
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (genus=Camponotus) identified: 1 tips
+Single-tip genus after cleaning/collapse; skipping MRCA extraction.
+Genus monophyly: TRUE
+Single-tip genus after cleaning/collapse; extracting directly without MRCA.
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 1
+tips_out (final tree): 1
+Wrote renames TSV: ./extract_Camponotus_20260901-124606_renamed.tsv
+Wrote drops TSV: ./extract_Camponotus_20260901-124606_dropped.tsv

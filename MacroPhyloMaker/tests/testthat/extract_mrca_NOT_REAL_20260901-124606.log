@@ -1,0 +1,17 @@
+=== Genus extraction log: clade | 2026-09-01 12:46:06 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: none
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 4
+Preprocess: polytomies=TRUE, positive_lengths=TRUE

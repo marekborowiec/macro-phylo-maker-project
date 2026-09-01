@@ -1,0 +1,25 @@
+=== Genus extraction log: Camponotus | 2026-09-01 12:46:05 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: genus_species
+nonmono: prune_extras
+outgroup: none
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 4
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (genus=Camponotus) identified: 2 tips
+Genus monophyly: TRUE
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 2
+tips_out (final tree): 2
