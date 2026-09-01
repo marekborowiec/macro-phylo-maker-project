@@ -15,6 +15,49 @@
 #' topology disturbance, runs ChronoSTA, and optionally restores genus-level
 #' monophyly introduced by the final merge.
 #'
+#' @param tree_ref Legacy alias for `reference_tree`. Use `reference_tree` in
+#'   new code.
+#' @param tree_folder Legacy alias for `donor_tree_dir`. Use `donor_tree_dir`
+#'   in new code.
+#' @param recalibrate Logical. If `TRUE`, recalibrate eligible donor trees to
+#'   the timescale of the reference tree before Chrono-STA merging.
+#' @param split_gen Logical. If `TRUE`, split donor trees into genus-level
+#'   subtrees before identifying missing-species subtrees.
+#' @param split_sbt Logical. If `TRUE`, extract minimal donor subtrees that
+#'   contain missing species and sufficient overlap with the reference tree.
+#' @param monoph_restore Logical. If `TRUE`, apply genus-level monophyly
+#'   restoration after Chrono-STA grafting.
+#' @param plot_monoph Logical. If `TRUE`, produce diagnostic monophyly plots
+#'   when monophyly restoration is requested.
+#' @param prefuse Logical. If `TRUE`, merge compatible or overlapping donor
+#'   subtrees with Chrono-STA before merging them with the reference tree.
+#' @param ultr_tol Numeric tolerance used when testing whether donor trees are
+#'   ultrametric.
+#' @param calib_ratio Numeric proportion used when selecting the number of
+#'   shared calibration nodes for donor-tree recalibration.
+#' @param calib_min_nodes Integer minimum number of shared calibration nodes
+#'   targeted during donor-tree recalibration.
+#' @param calib_max_nodes Integer maximum number of shared calibration nodes
+#'   retained during donor-tree recalibration.
+#' @param margin_nod Numeric minimum temporal separation required between
+#'   nested calibration constraints.
+#' @param tolerance_pct Numeric proportional tolerance applied around
+#'   reference-tree calibration ages.
+#' @param tolerance_min Numeric minimum absolute tolerance applied to
+#'   calibration ages.
+#' @param lambda Numeric smoothing parameter passed to [ape::chronos()] during
+#'   donor-tree recalibration.
+#' @param split_seed Integer random seed used during donor-subtree splitting
+#'   and other stochastic preprocessing.
+#' @param ref_weight Integer weighting assigned to the reference tree during
+#'   Chrono-STA merging.
+#' @param paraph_exc Optional character vector of genera that should not be
+#'   protected as baseline non-monophyletic genera during post-grafting
+#'   monophyly restoration.
+#' @param download_chronosta Logical. If `TRUE`, download `chronosta.py` when
+#'   no local script can be found.
+#' @param keep_temp Logical. If `TRUE`, retain temporary Chrono-STA run
+#'   directories and intermediate files.
 #' @param reference_tree A phylo object or path to a Newick tree. Alias: tree_ref.
 #' @param donor_tree_dir Folder containing donor .nwk/.tre trees. Alias: tree_folder.
 #' @param out_prefix Output file prefix. If omitted, output_folder is used.
