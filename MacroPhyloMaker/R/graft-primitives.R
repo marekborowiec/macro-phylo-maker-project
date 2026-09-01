@@ -238,6 +238,8 @@ graft_sister_to_clade <- function(tr, new_label, clade_tips,
 #' edge) with probability proportional to the edge length, then attaches the new tip at a random
 #' position along that edge.
 #'
+#' @param clade_tips Character vector of backbone tip labels defining the
+#'   clade within which the new taxon is grafted.
 #' @param include_terminal Logical; if `FALSE`, excludes terminal edges.
 #' @param include_stem Logical; if `TRUE`, allows grafting on the edge entering the MRCA (stem).
 #' @param return_log If `TRUE`, returns `list(tree, log=list(...))` with details.
