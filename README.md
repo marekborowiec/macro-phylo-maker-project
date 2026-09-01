@@ -360,21 +360,93 @@ or using pip:
 /home/marek/anaconda3/bin/python3 -m pip install biopython pandas numpy scipy matplotlib
 ```
 
-### Option B: Python virtual environment
+#### Option B: Python virtual environment
 
-From the shell:
+A Python virtual environment keeps the packages required by Chrono-STA separate from other Python installations. Create the environment from a terminal in the repository root:
 
 ```bash
 python3 -m venv .venv-chronosta
+```
+
+On native Windows, the Python launcher may be named `python` or `py` rather than `python3`. For example:
+
+```powershell
+python -m venv .venv-chronosta
+```
+
+or:
+
+```powershell
+py -m venv .venv-chronosta
+```
+
+The location of the Python executable inside the virtual environment depends on the operating system:
+
+- Linux, macOS, WSL, and other Unix-like systems:
+
+  ```text
+  .venv-chronosta/bin/python
+  ```
+
+- Native Windows:
+
+  ```text
+  .venv-chronosta/Scripts/python.exe
+  ```
+
+Install the required packages using the Python executable inside the virtual environment.
+
+On Linux, macOS, or WSL:
+
+```bash
 .venv-chronosta/bin/python -m pip install --upgrade pip setuptools wheel
 .venv-chronosta/bin/python -m pip install biopython pandas numpy scipy matplotlib
 ```
 
-Then in R:
+On native Windows Command Prompt or PowerShell:
+
+```powershell
+.venv-chronosta\Scripts\python.exe -m pip install --upgrade pip setuptools wheel
+.venv-chronosta\Scripts\python.exe -m pip install biopython pandas numpy scipy matplotlib
+```
+
+Then select the corresponding Python executable in R. The following code checks the Docker environment variable first, followed by the standard Unix and Windows virtual-environment locations:
 
 ```r
-py <- here::here(".venv-chronosta", "bin", "python")
+python_candidates <- c(
+  Sys.getenv("CHRONOSTA_PYTHON"),
+  here::here(".venv-chronosta", "bin", "python"),
+  here::here(".venv-chronosta", "Scripts", "python.exe")
+)
+
+# Remove empty values, such as an unset CHRONOSTA_PYTHON variable.
+python_candidates <- python_candidates[nzchar(python_candidates)]
+
+existing_python <- python_candidates[file.exists(python_candidates)]
+
+if (!length(existing_python)) {
+  stop(
+    paste(
+      "Could not find a Python executable for Chrono-STA.",
+      "Expected CHRONOSTA_PYTHON,",
+      ".venv-chronosta/bin/python, or",
+      ".venv-chronosta/Scripts/python.exe."
+    ),
+    call. = FALSE
+  )
+}
+
+py <- normalizePath(existing_python[1], mustWork = TRUE)
+py
 ```
+
+The selected path should point to the exact Python executable into which the required packages were installed.
+
+Do not mix operating-system environments. For example:
+
+- Native Windows R should use a native Windows Python executable such as `.venv-chronosta/Scripts/python.exe`.
+- R running inside WSL should use a Linux Python executable such as `.venv-chronosta/bin/python`.
+- R running inside the MacroPhyloMaker Docker container should use the executable specified by `CHRONOSTA_PYTHON`.
 
 ## Verify Python from the R console before Chrono-STA
 
