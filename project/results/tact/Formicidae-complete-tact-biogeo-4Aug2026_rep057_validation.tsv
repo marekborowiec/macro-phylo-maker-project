@@ -1,0 +1,2 @@
+output_tree raw_output_path raw_n_tips cleaned_n_tips remaining_temp_labels dropped_code_species expected_taxonomy_species taxonomy_tip_count_match taxonomy_species_rows_after_tact_preprocessing backbone_tips
+1 /home/marek/new-ant-megatree/macro-phylo-maker-project/project/results/tact/Formicidae-complete-tact-biogeo-4Aug2026_rep057_tact_work/tact_output.newick.tre 14669 14640 0 29 14636 FALSE 14669 4181
