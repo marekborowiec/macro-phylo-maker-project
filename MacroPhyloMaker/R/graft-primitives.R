@@ -63,6 +63,17 @@ bind_tip_at <- function(tr, new_label, where_node, position, attach_age) {
   phytools::bind.tip(tr, tip.label = new_label, where = where_node, position = pos, edge.length = newlen)
 }
 
+#' Find the incoming edge of a node
+#'
+#' @param tr An object of class `phylo`.
+#' @param node Integer node number.
+#'
+#' @return The row index of the incoming edge, or `integer(0)` for the root.
+#' @keywords internal
+incoming_edge_index <- function(tr, node) {
+  which(tr$edge[, 2] == node)
+}
+
 # ---- exported primitives ----------------------------------------------------
 
 #' Graft a new tip as sister to an existing tip
