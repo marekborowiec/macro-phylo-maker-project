@@ -29,13 +29,15 @@ run_tip_grafting(
 
 \item{seed_mode}{"fixed", "random", or an integer.}
 
-\item{ingroup_anchors}{Character vector of \u22652 tips present in each backbone to define an MRCA.}
+\item{ingroup_anchors}{Character vector of at least two tips present in each backbone to define an MRCA.}
 
 \item{prefer_tree_index}{Ignored (kept for compatibility).}
 
-\item{plot_pdf, pdf_width, pdf_height, pdf_auto, plot_cex, plot_fn}{Plotting controls.}
+\item{drop_tips}{Optional character vector of tip labels to remove from each
+backbone tree before applying the grafting plan. The default is \code{NULL},
+which retains all original backbone tips.}
 
-\item{keep_only, drop_tips}{Optional character vectors for pruning.}
+\item{plot_pdf, pdf_width, pdf_height, pdf_auto, plot_cex, plot_fn}{Plotting controls.}
 }
 \value{
 Invisibly returns \code{TRUE} (side effects: writes tree(s), logs, optional PDF).

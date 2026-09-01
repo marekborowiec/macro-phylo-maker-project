@@ -35,6 +35,9 @@ apply_grafts_from_table(
 \item{strict}{If \code{TRUE}, stop on first error; otherwise continue with warnings.}
 
 \item{return_log}{If \code{TRUE}, return list with \code{tree} and \code{log}; else just the tree.}
+
+\item{verbose}{Logical. If \code{TRUE}, print progress and diagnostic messages
+while applying grafting operations.}
 }
 \value{
 \code{list(tree=phylo, log=data.frame)} or \code{phylo}.

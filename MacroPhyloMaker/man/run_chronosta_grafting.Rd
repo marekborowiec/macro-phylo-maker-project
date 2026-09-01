@@ -46,6 +46,12 @@ run_chronosta_grafting(
 
 \item{output_folder}{Output folder for legacy compatibility.}
 
+\item{tree_ref}{Legacy alias for \code{reference_tree}. Use \code{reference_tree} in
+new code.}
+
+\item{tree_folder}{Legacy alias for \code{donor_tree_dir}. Use \code{donor_tree_dir}
+in new code.}
+
 \item{csta_folder}{Optional folder containing chronosta.py. If missing and
 download_chronosta = TRUE, chronosta.py is downloaded there.}
 
@@ -56,7 +62,65 @@ download_chronosta = TRUE, chronosta.py is downloaded there.}
 \item{include_trees}{Optional character vector of donor tree names to include.
 Names are file basenames without extension. NULL means all eligible trees.}
 
+\item{recalibrate}{Logical. If \code{TRUE}, recalibrate eligible donor trees to
+the timescale of the reference tree before Chrono-STA merging.}
+
+\item{split_gen}{Logical. If \code{TRUE}, split donor trees into genus-level
+subtrees before identifying missing-species subtrees.}
+
+\item{split_sbt}{Logical. If \code{TRUE}, extract minimal donor subtrees that
+contain missing species and sufficient overlap with the reference tree.}
+
+\item{monoph_restore}{Logical. If \code{TRUE}, apply genus-level monophyly
+restoration after Chrono-STA grafting.}
+
+\item{plot_monoph}{Logical. If \code{TRUE}, produce diagnostic monophyly plots
+when monophyly restoration is requested.}
+
+\item{prefuse}{Logical. If \code{TRUE}, merge compatible or overlapping donor
+subtrees with Chrono-STA before merging them with the reference tree.}
+
+\item{ultr_tol}{Numeric tolerance used when testing whether donor trees are
+ultrametric.}
+
+\item{calib_ratio}{Numeric proportion used when selecting the number of
+shared calibration nodes for donor-tree recalibration.}
+
+\item{calib_min_nodes}{Integer minimum number of shared calibration nodes
+targeted during donor-tree recalibration.}
+
+\item{calib_max_nodes}{Integer maximum number of shared calibration nodes
+retained during donor-tree recalibration.}
+
+\item{margin_nod}{Numeric minimum temporal separation required between
+nested calibration constraints.}
+
+\item{tolerance_pct}{Numeric proportional tolerance applied around
+reference-tree calibration ages.}
+
+\item{tolerance_min}{Numeric minimum absolute tolerance applied to
+calibration ages.}
+
+\item{lambda}{Numeric smoothing parameter passed to \code{\link[ape:chronos]{ape::chronos()}} during
+donor-tree recalibration.}
+
+\item{split_seed}{Integer random seed used during donor-subtree splitting
+and other stochastic preprocessing.}
+
+\item{ref_weight}{Integer weighting assigned to the reference tree during
+Chrono-STA merging.}
+
+\item{paraph_exc}{Optional character vector of genera that should not be
+protected as baseline non-monophyletic genera during post-grafting
+monophyly restoration.}
+
 \item{logger}{Optional MacroPhyloMaker logger. If NULL, a simple logfile is made.}
+
+\item{download_chronosta}{Logical. If \code{TRUE}, download \code{chronosta.py} when
+no local script can be found.}
+
+\item{keep_temp}{Logical. If \code{TRUE}, retain temporary Chrono-STA run
+directories and intermediate files.}
 }
 \value{
 A list with final tree, logs, and output paths. The final usable tree is

@@ -22,6 +22,9 @@ graft_within_clade_random(
 
 \item{new_label}{New tip label to add.}
 
+\item{clade_tips}{Character vector of backbone tip labels defining the
+clade within which the new taxon is grafted.}
+
 \item{include_terminal}{Logical; if \code{FALSE}, excludes terminal edges.}
 
 \item{include_stem}{Logical; if \code{TRUE}, allows grafting on the edge entering the MRCA (stem).}

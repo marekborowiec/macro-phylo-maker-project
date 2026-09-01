@@ -33,8 +33,20 @@ prepare_clade_template(
 \item{ingroup_tips}{Character vector of donor tips belonging to the ingroup.
 These may be expanded depending on \code{expand_ingroup_to_full_donor}.}
 
+\item{template_path}{Optional character path for the prepared donor-tree
+template.}
+
+\item{write_template}{Logical. If \code{TRUE}, write the prepared template to
+\code{template_path}.}
+
+\item{reuse_template}{Logical. If \code{TRUE} and an existing template is
+available at \code{template_path}, reuse it rather than rebuilding it.}
+
 \item{authority}{Optional species authority data accepted by
 \code{resolve_authority_binomials()}.}
+
+\item{stem_mode}{Character. Controls how donor-tree stem information is
+represented when preparing the grafting template.}
 
 \item{chronos_select}{One of \code{"auto"}, \code{"fixed"}, or \code{"off"}.
 In \code{"auto"} mode, chronos is only applied if the donor is not already

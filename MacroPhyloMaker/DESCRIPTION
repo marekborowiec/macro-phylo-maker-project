@@ -1,6 +1,6 @@
 Package: MacroPhyloMaker
 Title: Tools for Extracting, Grafting, and Assembling Large Phylogenies
-Version: 2026.06.29
+Version: 2026.09.01
 Authors@R: 
     person("Marek", "Borowiec", role = c("aut", "cre"),
            email = "marek.borowiec@colostate.edu",
@@ -19,9 +19,7 @@ Imports:
     ape,
     phytools,
     phangorn,
-    data.table,
-    readr,
-    dplyr,
+    here,
     stringr,
     progress,
     igraph,
@@ -33,6 +31,7 @@ Imports:
     grDevices
 Suggests:
     optparse,
+    rappdirs,
     testthat,
     knitr,
     rmarkdown,
