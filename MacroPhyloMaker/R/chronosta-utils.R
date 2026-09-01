@@ -1191,7 +1191,11 @@ chronosta_default_dir <- function() {
 #' @return Normalized path to chronosta.py.
 download_chronosta <- function(
   dest_dir = chronosta_default_dir(),
-  url = "https://raw.githubusercontent.com/josebarbamontoya/chrono-sta/main/code/chronosta.py",
+  url = paste0(
+  "https://raw.githubusercontent.com/",
+  "josebarbamontoya/chrono-sta/",
+  "main/code/chronosta.py"
+  ),
   overwrite = FALSE
 ) {
   dir.create(dest_dir, recursive = TRUE, showWarnings = FALSE)
