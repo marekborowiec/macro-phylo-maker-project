@@ -458,7 +458,7 @@ pipeline_write_outputs <- function(
 #' @param plan_path TSV with columns like `Function`, `GraftedTip`, `Sister`, etc.
 #' @param out_prefix Optional prefix for outputs (per backbone).
 #' @param seed_mode "fixed", "random", or an integer.
-#' @param ingroup_anchors Character vector of \u22652 tips present in each backbone to define an MRCA.
+#' @param ingroup_anchors Character vector of at least two tips present in each backbone to define an MRCA.
 #' @param prefer_tree_index Ignored (kept for compatibility).
 #' @param keep_only,drop_tips Optional character vectors for pruning.
 #' @param plot_pdf,pdf_width,pdf_height,pdf_auto,plot_cex,plot_fn Plotting controls.
