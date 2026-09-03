@@ -483,6 +483,11 @@ file.exists(py)
 ```text
 TRUE
 ```
+Setup Chrono-STA environment in R:
+```r
+setup_chronosta_env(python = py)
+check_chronosta_python(py)
+```
 
 Next, write and run a temporary Python test script:
 
