@@ -10,7 +10,7 @@ The goal is to allow fully reproducible construction of large phylogenies by:
 2. Preparing donor templates
 3. Grafting clades and tips onto a backbone chronogram
 
-This file first provides installation instructions followed by a general overview of code functionality. The final portion provides code to reproduce the latest versions of ant trees published at [ant-tree.org](www.ant-tree.org).
+This file first provides installation instructions followed by a general overview of code functionality. The final portion provides code to reproduce the latest versions of ant trees published at [ant-tree.org](https://www.ant-tree.org).
 
 This workflow was developed by Marek Borowiec [marek.borowiec@colostate.edu](mailto:marek.borowiec@colostate.edu) and Eddie Pérochon [eddie.perochon@hotmail.com](mailto:eddie.perochon@hotmail.com).
 
