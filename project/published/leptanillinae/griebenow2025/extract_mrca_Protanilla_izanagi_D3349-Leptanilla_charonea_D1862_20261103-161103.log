@@ -1,0 +1,26 @@
+=== Genus extraction log: clade | 2026-11-03 16:11:03 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: none
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 85
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (MRCA of anchors) size: 83
+Outgroup (sister_one): Opamyrma_hungvuong_D0734 (min distance=0.253948)
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 83
+tips_out (final tree): 84
+Wrote tree: /home/marek/macro-phylo-maker-project/project/published/leptanillinae/griebenow2025/extract_mrca_Protanilla_izanagi_D3349-Leptanilla_charonea_D1862_20261103-161103_with_outgroup.tre

@@ -1,0 +1,26 @@
+=== Genus extraction log: clade | 2026-11-03 16:16:18 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: none
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 84
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (MRCA of anchors) size: 77
+Outgroup (sister_one): Gnamptogenys_volcano_EX1409 (min distance=0.103557)
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 77
+tips_out (final tree): 78
+Wrote tree: /home/marek/macro-phylo-maker-project/project/published/gnamptogenys/longino2026/extract_mrca_Gnamptogenys_alfaroi_EX3659-Gnamptogenys_andersoni_EX1288_20261103-161618_with_outgroup.tre
