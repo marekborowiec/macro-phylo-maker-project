@@ -1,0 +1,26 @@
+=== Genus extraction log: clade | 2026-11-05 14:26:28 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: none
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 39
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (MRCA of anchors) size: 33
+Outgroup (sister_one): Axinidris_lignicola_RA0253atMCZ (min distance=1.036329)
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 33
+tips_out (final tree): 34
+Wrote tree: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/technomyrmex/hsu2025/extract_mrca_Technomyrmex_reductus_D42-34-Technomyrmex_tatius_D34-28_20261105-142628_with_outgroup.tre
