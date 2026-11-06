@@ -6,7 +6,7 @@ atti_Lenomyrmex_s0	Colobostruma_biconvexa	2	1	1
 atti_Acromyrmex_s1	Acromyrmex_heyeri	1	2	1
 atti_Sericomyrmex_s1	Sericomyrmex_amabilis	1	2	1
 atti_Myrmicocrypta_s1	Myrmicocrypta_buenzlii	1	1	1
-atti_Blepharidatta_s0	Blepharidatta_conops	1	1	1
+atti_Allomerus_s0	Wasmannia_auropunctata	1	1	1
 atti_Basiceros_s0	Eurhopalothrix_gravis	1	1	1
 atti_Pilotrochus_s0	Phalacromyrmex_fugax	1	1	1
 atti_Tranopelta_s0	Lachnomyrmex_scrobiculatus	2	1	1
@@ -64,7 +64,7 @@ cren_Crematogaster_s1	Crematogaster_rossi	1	2	1
 cres_Crematogaster_s0	Crematogaster_sewardi	8	5	1
 cret_Crematogaster_s1	Crematogaster_aberrans	1	2	1
 cret_Crematogaster_s2	Crematogaster_latuka	1	2	1
-doli_Technomyrmex_s1	Axinidris_mlalu	2	1	1
+doli_Technomyrmex_s0	Axinidris_mlalu	4	1	1
 doli_Bothriomyrmex_s1	Ravavy_miafina	3	1	1
 doli_Azteca_s1	Gracilidris_pombero	1	1	1
 doli_Linepithema_s0	Linepithema_humile	1	1	1
@@ -76,6 +76,8 @@ dory_Dorylus_s3	Aenictogiton_ZM02	2	1	4
 dory_Ooceraea_s1	Eusphinctus_TH	1	1	1
 dory_Parasyscia_s1	Lividopone_MG	1	1	1
 ecta_Poneracantha_s1	Poneracantha_wilsoni	1	2	1
+ecta_Gnamptogenys_s1	Gnamptogenys_interrupta	1	2	1
+ecta_Gnamptogenys_s2	Gnamptogenys_alfaroi	1	2	1
 fori_Bajcaridris_s0	Proformica_mongolica	3	1	1
 fori_Formica_s1	Polyergus_breviceps	1	1	1
 fori_Acropyga_s0	Agraulomyrmex_sp	1	1	1
@@ -104,9 +106,8 @@ mami_Simopone_s0	Lividopone_livida	14	3	1
 mami_Tetraponera_s2	Tetraponera_diana	1	2	3
 mami_Tetraponera_s3	Tetraponera_longula	1	2	3
 mami_Tetraponera_s4	Tetraponera_exasciata	1	2	3
-mami_Technomyrmex_s1	Technomyrmex_curiosus	1	2	1
-mami_Technomyrmex_s3	Technomyrmex_docens	1	2	2
-mami_Technomyrmex_s4	Ravavy_miafina	1	1	2
+mami_Technomyrmex_s1	Technomyrmex_anterops	2	2	1
+mami_Technomyrmex_s2	Technomyrmex_docens	5	3	1
 mami_Camponotus_s0	Camponotus_christi	56	9	1
 mami_Lepisiota_s0	Plagiolepis_madecassa	2	1	1
 mami_Nylanderia_s0	Nylanderia_madagascarensis	4	1	1
@@ -210,7 +211,6 @@ temn_Temnothorax_s6	Temnothorax_peninsularis	1	2	7
 temn_Temnothorax_s7	Temnothorax_cabrerae	3	4	7
 vero_Veromessor_s2	Veromessor_pseudolariversi	1	2	3
 vero_Veromessor_s3	Veromessor_stoddardi	1	2	3
-zalla_Protanilla_s0	Leptanilla_argamani	1	1	1
 zalla_Discothyrea_s0	Proceratium_stictum	2	1	1
 zalla_Amblyopone_s0	Amblyopone_australis	1	1	1
 zalla_Stigmatomma_s1	Stigmatomma_zwaluwenburgi	1	2	1
@@ -244,7 +244,9 @@ zalla_Dorylus_s1	Dorylus_affinis	2	2	1
 zalla_Dorylus_s2	Dorylus_nigricans	4	4	1
 zalla_Eciton_s1	Eciton_dulcium	1	2	1
 zalla_Neivamyrmex_s0	Neivamyrmex_pilosus	7	3	1
-zalla_Technomyrmex_s1	Axinidris_murielae	2	1	1
+zalla_Technomyrmex_s2	Technomyrmex_anterops	3	3	4
+zalla_Technomyrmex_s3	Technomyrmex_voeltzkowi	1	2	4
+zalla_Technomyrmex_s4	Axinidris_mlalu	3	1	4
 zalla_Bothriomyrmex_s1	Ravavy_miafina	3	1	1
 zalla_Azteca_s1	Gracilidris_pombero	1	1	1
 zalla_Dorymyrmex_s1	Dorymyrmex_grandulus	1	2	1
@@ -297,8 +299,12 @@ zalla_Polyrhachis_s9	Polyrhachis_cleopatra	1	2	3
 zalla_Polyrhachis_s10	Polyrhachis_shixingensis	1	2	3
 zalla_Polyrhachis_s11	Polyrhachis_loweryi	1	2	5
 zalla_Polyrhachis_s12	Polyrhachis_ammon	1	2	5
-zalla_Camponotus_s2	Camponotus_mocquerysi	5	2	31
-zalla_Camponotus_s3	Camponotus_setosus	57	27	31
+zalla_Camponotus_s2	Camponotus_hildebrandti	5	2	16
+zalla_Camponotus_s4	Camponotus_rectangularis	1	2	28
+zalla_Camponotus_s6	Camponotus_janeti	1	2	42
+zalla_Camponotus_s8	Camponotus_albicoxis	1	2	60
+zalla_Camponotus_s10	Camponotus_dimorphus	3	3	71
+zalla_Camponotus_s11	Camponotus_maritimus	50	20	71
 zalla_Rhytidoponera_s0	Rhytidoponera_chalybaea	1	1	1
 zalla_Ectatomma_s1	Ectatomma_vizottoi	2	2	1
 zalla_Myrmica_s2	Myrmica_nearctica	1	2	2
@@ -357,8 +363,8 @@ zalla_Solenopsis_s2	Solenopsis_abdita	1	2	4
 zalla_Solenopsis_s3	Tropidomyrmex_elianae	2	1	4
 zalla_Syllophopsis_s1	Erromyrma_latinodis	9	1	1
 zalla_Tranopelta_s0	Tranopelta_gilva	1	1	1
-zalla_Blepharidatta_s0	Diaphoromyrma_sofiae	3	1	1
-zalla_Allomerus_s0	Allomerus_decemarticulatus	1	1	1
+zalla_Blepharidatta_s1	Diaphoromyrma_sofiae	2	1	1
+zalla_Allomerus_s1	Wasmannia_auropunctata	1	1	1
 zalla_Daceton_s0	Lenomyrmex_colwelli	6	1	1
 zalla_Apterostigma_s1	Apterostigma_steigeri	1	2	1
 zalla_Myrmicocrypta_s1	Myrmicocrypta_infuscata	2	1	1
