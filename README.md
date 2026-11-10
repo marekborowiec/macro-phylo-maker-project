@@ -1872,7 +1872,7 @@ In the tree from the previous step some terminals are represented only by genus 
 # Read clade-grafted tree
 gent2ag <- read.tree(here::here(
   "project", "results", "grafted",
-  "genus-reconstituted-2Aug2026-rescaled.tre"
+  "genus_reconstituted_10nov2026.tre"
 ))
 
 # Read initial Borowiec et al. 2025 species-level tree
@@ -1891,7 +1891,7 @@ for(i in 1:length(list_reps))
 #Save output
 write.tree(phy=gent2ag, here::here(
   "project", "results", "grafted",
-  "genus-reconstituted-2Aug2026-rescaled-for-chronosta.tre"))
+  "genus_reconstituted_10nov_for_chronosta.tre"))
 ``` 
 
 ### Step 4. Add remaining species using Chrono-STA-enabled time-informed grafting
@@ -1904,7 +1904,7 @@ Be sure to follow setup instructions before running this function.
 res_chronosta <- run_chronosta_grafting(
   reference_tree = here::here(
     "project", "results", "grafted",
-    "genus-reconstituted-2Aug2026-rescaled-for-chronosta.tre"
+    "genus_reconstituted_10nov_for_chronosta.tre"
   ),
   donor_tree_dir = here::here(
     "project", "chronosta", "source_trees"
