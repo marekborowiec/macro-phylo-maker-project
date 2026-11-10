@@ -1636,6 +1636,8 @@ res_chronosta <- run_chronosta_grafting(
 
 ### Step 1. Graft missing genera onto the genus-level backbone
 
+The original backbone chronogram used here had branch length units expressed as 0.01 = 1Mya. Before we proceed, we need to rescale trees for downstream analyses such that branch length 1 = 1Mya. We also want to remove genera that have since been recently synonymized (Wasmannia) and ones that are likely nested within other genera (Chimaeridris):  
+
 ```r
 backbone_genus_tree_path <- here::here("project", "backbones", "genus.tre")
 backbone_genus_tree <- ape::read.tree(backbone_genus_tree_path)
@@ -1650,6 +1652,23 @@ run_tip_grafting(
   seed_mode     = 42,
   ingroup_anchors = c("Martialis", "Camponotus")
 )
+
+grafted_genera_tree_path <- here::here("project", "results", "grafted", "genus-2Aug2026.tre")
+grafted_genera_tree <- ape::read.tree(grafted_genera_tree_path)
+grafted_noChimaeridris <- ape::drop.tip(grafted_genera_tree, c("Chimaeridris","Wasmannia")) # dropping "Chimaeridris" tip nested in Pheidole (Longino pers. comm.) and Wasmannia is now synonym of Allomerus
+grafted_noWasmannia <- ape::drop.tip(grafted_genera_tree, "Wasmannia") # now synonym of Allomerus
+grafted_genera_noChimaeridris_path <- here::here("project", "results", "grafted", "genus-no-wasmannia.tre")
+ape::write.tree(grafted_noChimaeridris, grafted_genera_noChimaeridris_path)
+
+# This rescales complete genus-level tree
+complete_genus <- read.tree(here::here("project", "results", "grafted", 
+  "genus-no-wasmannia.tre"))
+cg_rescaled <- rescale_tree_time_units(
+  complete_genus,
+  factor = 100,
+  out_path = here::here("project", "results", "grafted",
+    "genus-rescaled-no-wasmannia.tre")
+)
 ```
 
 This creates a complete genus-level backbone by inserting genera missing from the backbone chronogram according to the table in `project/tables/grafted_genera.tsv`. See that table for placements, assumptions, and sources.
@@ -1661,7 +1680,7 @@ After this step, confirm that the genus-level grafting tree and graft log exist,
 ```r
 genus_tree_path <- here::here(
   "project", "results", "grafted",
-  "genus-2Aug2026.tre"
+  "genus-rescaled-no-wasmannia.tre"
 )
 
 genus_log_path <- here::here(
@@ -1690,24 +1709,12 @@ Useful checks at this stage are:
 ### Step 2. Graft published clade-level phylogenies
 
 ```r
-grafted_genera_tree_path <- here::here("project", "results", "grafted", "genus-2Aug2026.tre")
-grafted_genera_tree <- ape::read.tree(grafted_genera_tree_path)
-grafted_noChimaeridris <- ape::drop.tip(grafted_genera_tree, "Chimaeridris") # dropping "Chimaeridris" tip nested in Pheidole (Longino pers. comm.)
-grafted_genera_noChimaeridris_path <- here::here("project", "results", "grafted", "genus-2Aug2026-noChimaeridris.tre")
-ape::write.tree(grafted_noChimaeridris, grafted_genera_noChimaeridris_path)
-
-
 run_clade_grafting(
-  backbone_path = here::here("project", "results", "grafted", "genus-2Aug2026-noChimaeridris.tre"),
+  backbone_path = here::here("project", "backbones", "genus-rescaled-no-wasmannia.tre"),
   plan_path = here::here("project", "tables", "clades-to-graft-clean.tsv"),
-  authority = here::here(
-    "project", "tables",
-    "antwiki-valid-species-2Aug2026.txt"
-  ),
-  out_prefix = here::here(
-    "project", "results", "grafted",
-    "backbone-clade-grafted-2Aug2026"
-  ),
+  authority = here::here("project", "tables", "antwiki-valid-species-2Sep2026.txt"),
+  out_prefix = here::here("project", "results", "grafted",
+                          "backbone_clade_grafted_10nov26"),
   seed_mode = 42,
   chronos_select = "auto",
   ultrametric_final = "none",
@@ -1769,17 +1776,17 @@ The clade-grafting step writes the grafted tree, a graft log, and, if `plot_pdf 
 ```r
 clade_tree_path <- here::here(
   "project", "results", "grafted",
-  "backbone-clade-grafted-2Aug2026.tre"
+  "backbone_clade_grafted_10nov26.tre"
 )
 
 clade_log_path <- here::here(
   "project", "results", "grafted",
-  "backbone-clade-grafted-2Aug2026_graft_log.tsv"
+  "backbone_clade_grafted_10nov26_graft_log.tsv"
 )
 
 clade_pdf_path <- here::here(
   "project", "results", "grafted",
-  "backbone-clade-grafted-2Aug2026.pdf"
+  "backbone_clade_grafted_10nov26.pdf"
 )
 
 file.exists(clade_tree_path)
@@ -1812,7 +1819,7 @@ We removed some genus-level terminals in the previous steps, and others are over
 run_tip_grafting(
   backbone_path = here::here(
     "project", "results", "grafted",
-    "backbone-clade-grafted-2Aug2026.tre"
+    "backbone_clade_grafted_10nov26.tre"
   ),
   plan_path = here::here(
     "project", "tables",
@@ -1820,7 +1827,7 @@ run_tip_grafting(
   ),
   out_prefix = here::here(
     "project", "results", "grafted",
-    "genus-reconstituted-2Aug2026"
+    "genus_reconstituted_10nov2026"
   ),
   seed_mode = 42,
   plot_cex = 0.35
@@ -1836,12 +1843,12 @@ Check that the file exists, read it into R, and confirm that the genera you inte
 ```r
 reconstituted_tree_path <- here::here(
   "project", "results", "grafted",
-  "genus-reconstituted-2Aug2026.tre"
+  "backbone_clade_grafted_10nov26.tre"
 )
 
 reconstituted_log_path <- here::here(
   "project", "results", "grafted",
-  "genus-reconstituted-2Aug2026_graft_log.tsv"
+  "genus_reconstituted_10nov2026_graft_log.tsv"
 )
 
 file.exists(reconstituted_tree_path)
@@ -1860,32 +1867,7 @@ This tree is the immediate input to Chrono-STA-enabled gap filling. If the tree 
 
 #### Rescale trees and input species names before next steps
 
-The original backbone chronogram used here had branch length units expressed as 0.01 = 1Mya. Before we proceed, we need to rescale trees for downstream analyses such that branch length 1 = 1Mya:
-
-```r
-# This rescales complete genus-level tree
-complete_genus <- read.tree(here::here("project", "results", "grafted", 
-  "genus-2Aug2026.tre"))
-cg_rescaled <- rescale_tree_time_units(
-  complete_genus,
-  factor = 100,
-  out_path = here::here("project", "results", "grafted",
-    "genus-2Aug2026-rescaled.tre")
-)
-
-# This rescales species tree produced by clade grafting, 
-# to be used in Chrono-STA step
-clade_grafted <- read.tree(here::here("project", "results", "grafted",
-  "genus-reconstituted-2Aug2026.tre"))
-clg_rescaled <- rescale_tree_time_units(
-  clade_grafted,
-  factor = 100,
-  out_path = here::here("project", "results", "grafted",
-    "genus-reconstituted-2Aug2026-rescaled.tre")
-)
-``` 
-
-In the resulting trees some terminals are represented only by genus name. It is necessary to add species names to those before using Chrono-STA. We take them from the original Borowiec et al. 2025 chronogram:
+In the tree from the previous step some terminals are represented only by genus name. It is necessary to add species names to those before using Chrono-STA. We take them from the original Borowiec et al. 2025 chronogram:
 ```r
 # Read clade-grafted tree
 gent2ag <- read.tree(here::here(

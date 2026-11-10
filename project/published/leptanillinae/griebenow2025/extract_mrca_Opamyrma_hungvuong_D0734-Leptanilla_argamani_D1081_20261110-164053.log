@@ -1,0 +1,26 @@
+=== Genus extraction log: clade | 2026-11-10 16:40:53 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: none
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 85
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (MRCA of anchors) size: 85
+MRCA at root or no parent; outgroup skipped.
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 85
+tips_out (final tree): 85
+Wrote tree: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/leptanillinae/griebenow2025/extract_mrca_Opamyrma_hungvuong_D0734-Leptanilla_argamani_D1081_20261110-164053_no_outgroup.tre
