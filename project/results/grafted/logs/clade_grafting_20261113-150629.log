@@ -1,0 +1,236 @@
+=== Genus grafting log: CladeGraft | 2026-11-13 15:06:29 ===
+
+┌───────────┐
+│ load plan │
+└───────────┘
+Plan rows: 75
+
+┌──────────────────────────────┐
+│ assemble donors & placements │
+└──────────────────────────────┘
+Row 1: Input_tree_type = phylogram
+Row 2: Input_tree_type = phylogram
+Row 3: Input_tree_type = phylogram
+Row 4: Input_tree_type = phylogram
+Row 5: Input_tree_type = chronogram
+Row 6: Input_tree_type = chronogram
+Row 7: Input_tree_type = chronogram
+Row 8: Input_tree_type = chronogram
+Row 9: Input_tree_type = chronogram
+Row 10: Input_tree_type = chronogram
+Row 11: Input_tree_type = chronogram
+Row 12: Input_tree_type = chronogram
+Row 13: Input_tree_type = chronogram
+Row 14: Input_tree_type = chronogram
+Row 15: Input_tree_type = phylogram
+Row 16: Input_tree_type = chronogram
+Row 17: Input_tree_type = chronogram
+Row 18: Input_tree_type = chronogram
+Row 19: Input_tree_type = chronogram
+Row 20: Input_tree_type = chronogram
+Row 21: Input_tree_type = chronogram
+Row 22: Input_tree_type = chronogram
+Row 23: Input_tree_type = chronogram
+Row 24: Input_tree_type = chronogram
+Row 25: Input_tree_type = chronogram
+Row 26: Input_tree_type = phylogram
+Row 27: Input_tree_type = chronogram
+Row 28: Input_tree_type = chronogram
+Row 29: Input_tree_type = chronogram
+Row 30: Input_tree_type = chronogram
+Row 31: Input_tree_type = chronogram
+Row 32: Input_tree_type = chronogram
+Row 33: Input_tree_type = chronogram
+Row 34: Input_tree_type = chronogram
+Row 35: Input_tree_type = phylogram
+Row 36: Input_tree_type = chronogram
+Row 37: Input_tree_type = phylogram
+Row 38: Input_tree_type = chronogram
+Row 39: Input_tree_type = chronogram
+Row 40: Input_tree_type = chronogram
+Row 41: Input_tree_type = chronogram
+Row 42: Input_tree_type = chronogram
+Row 43: Input_tree_type = chronogram
+Row 44: Input_tree_type = chronogram
+Row 45: Input_tree_type = chronogram
+Row 46: Input_tree_type = chronogram
+Row 47: Input_tree_type = chronogram
+Row 48: Input_tree_type = chronogram
+Row 49: Input_tree_type = phylogram
+Row 50: Input_tree_type = chronogram
+Row 51: Input_tree_type = chronogram
+Row 52: Input_tree_type = chronogram
+Row 53: Input_tree_type = chronogram
+Row 54: Input_tree_type = phylogram
+Row 55: Input_tree_type = chronogram
+Row 56: Input_tree_type = chronogram
+Row 57: Input_tree_type = chronogram
+Row 58: Input_tree_type = chronogram
+Row 59: Input_tree_type = chronogram
+Row 60: Input_tree_type = chronogram
+Row 61: Input_tree_type = chronogram
+Row 62: Input_tree_type = chronogram
+Row 63: Input_tree_type = chronogram
+Row 64: Input_tree_type = chronogram
+Row 65: Input_tree_type = chronogram
+Row 66: Input_tree_type = chronogram
+Row 67: Input_tree_type = chronogram
+Row 68: Input_tree_type = chronogram
+Row 69: Input_tree_type = chronogram
+Row 70: Input_tree_type = chronogram
+Row 71: Input_tree_type = chronogram
+Row 72: Input_tree_type = chronogram
+Row 73: Input_tree_type = chronogram
+Row 74: Input_tree_type = chronogram
+Row 75: Input_tree_type = chronogram
+Donors ready: 75 (skipped: 0)
+
+┌────────────────┐
+│ load backbones │
+└────────────────┘
+Backbones: 1
+
+┌───────────────────┐
+│ graft many clades │
+└───────────────────┘
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/leptanillinae/griebenow2025/extract_mrca_Protanilla_izanagi_D3349-Leptanilla_charonea_D1862_20261103-161103_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/ectatomminae/extract_mrca_Bazboltonia_microps_GPC15-Gnamptogenys_boliviensis_GAB98_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/gnamptogenys/longino2026/extract_mrca_Gnamptogenys_alfaroi_EX3659-Gnamptogenys_andersoni_EX1288_20261103-161618_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/ponerinae/fisher2025/extract_mrca_Anochetus_afr01_EX2929_CASENT0845774-Platythyrea_arnoldi_D2118_CASENT0842276_20260311-154558_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/crematogastrini/blaimer2022/extract_mrca_Rostromyrmex_pasohensis-Atopomyrmex_cryptoceroides_20260404-132251_with_outgroup-no-orphans.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/acropyga/blaimer2016/extract_mrca_Acropyga_donisthorpei_ACR86-Acropyga_arnoldi_ACR22_20260404-165022_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/camponotini/ward2025/extracted_genera/Calomyrmex/extract_Calomyrmex_20260410-123025_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/camponotini/ward2025/extracted_genera/Colobopsis/extract_Colobopsis_20260410-123025_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/camponotini/ward2025/extracted_genera/Camponotus/extract_Camponotus_20260410-123025_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/camponotini/ward2025/extracted_genera/Echinopla/extract_Echinopla_20260410-123025_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/camponotini/ward2025/extracted_genera/Overbeckia/extract_Overbeckia_20260410-123025_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/camponotini/ward2025/extracted_genera/Opisthopsis/extract_Opisthopsis_20260410-123025_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/camponotini/ward2025/extracted_genera/Lathidris/extract_Lathidris_20260410-123026_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/polyrhachis/blanchard2023/Polyrhachis_BEAST_154taxa_ultrametric_tree.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/cephalotes/price2022/Cephalotes_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/crematogaster/blaimer2012/extract_mrca_Crematogaster_emeryi-Crematogaster_hova_complex_20260404-133421_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/crematogaster/ward2022/extract_mrca_Crematogaster_scutellaris_BBX611-Crematogaster_ashmeadi_D1839_20260404-134141_with_outgroup.template.rds
+
+┌─────────────────────────┐
+│ Template: input summary │
+└─────────────────────────┘
+Outgroup inferred as root singleton: Aneuretus_simoni
+
+┌────────────────────────────┐
+│ Template: authority filter │
+└────────────────────────────┘
+Valid ingroup species kept: 116; dropped absent: 8
+
+┌────────────────────────────────────────┐
+│ Template: donor ultrametric conversion │
+└────────────────────────────────────────┘
+Donor tree type: chronogram; ultrametric: FALSE
+Input tree declared as chronogram; skipping chronos.
+Chronogram not ultrametric (likely numerical jitter); enforcing ultrametricity using 'extend'.
+
+┌──────────────────┐
+│ Template: output │
+└──────────────────┘
+Donor stem_fraction=0.290485 crown_fraction=0.709515
+Saved donor template to: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/dolichoderinae/lieberman2026/extract_mrca_Loweriella_boltoni_D0664-Iridomyrmex_neocaledonica_D3452_20261113-142328_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/dorymyrmex/oberski2025/extract_mrca_Dorymyrmex_ebeninus_D1537-Dorymyrmex_ce01_D2967_20260404-192925_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/technomyrmex/hsu2025/extract_mrca_Technomyrmex_reductus_D42-34-Technomyrmex_tatius_D34-28_20261105-142628_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2018/extract_mrca_Tapinoma_opacum-Tapinoma_nigerrimum_20260529-211713_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Liometopum/extract_Liometopum_20260411-115328_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Froggattella/extract_Froggattella_20260411-115329_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Linepithema/extract_Linepithema_20260411-115329_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formica/borowiec2021/extract_mrca_Formica_gagates_F0120-Formica_nevadensis_F0079_20260404-181141_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/lasius/boudinot2022/Lasius_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/myrmecocystus/vanelst2021/myrmecocystus-concattop-renamed.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/brachymyrmex/probst2024/extract_mrca_Brachymyrmex_heeri_EXRP182-Brachymyrmex_admotus_EXRP163_20260411-120339_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/myrmelachista/probst2024/extract_mrca_Myrmelachista_hoffmanni_EXRP103-Myrmelachista_lauropacifica_EXRP74_20260411-120339_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/cataglyphis/pletincx2024/extract_mrca_Rossomyrmex_minuchae-Cataglyphis_rosenhaueri_20260418-152208_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/myrmecia/mera-rodriguez2023/extract_mrca_Myrmecia_flammicollis_11550-Myrmecia_inquilina_13405_20260409-145529_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/myrmicini/prebus2025/extract_mrca_Manica_hunteri_OR_S_Mattheiu_Lake_P861-Pogonomyrmex_maricopa_P882_20260404-165809_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/pogonomyrmex/graber2026/extract_mrca_Pogonomyrmex_mayri_COL_MG_RA1054-Pogonomyrmex_maricopa_USA_AZ_RA1020_20260413-132202_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/prenolepis/matos-maravi2018/extract_mrca_Zatania_albimaculata-Nylanderia_NYLA026_20260404-171052_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/nylanderia/williams2022/Nylanderia_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/pheidole/economo2019/extract_Pheidole_20260604-170322_with_outgroup_Pheidole_nemoralis_CASENT0283759_removed.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/pseudomyrmex/chomicki2015/Pseudomyrmex_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/pseudomyrmex/ward2022/extract_mrca_Pseudomyrmex_salvini_D1236-Pseudomyrmex_apache_D0155_20260409-144547_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/pseudomyrmex/ward2017/extract_mrca_Pseudomyrmex_particeps_D1307-Pseudomyrmex_janzeni_D0620_20260404-173038_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/allomerus/longino2026/extract_mrca_Blepharidatta_conops_1441_HymV1-Allomerus_williamsoni_CASX0688_lcWGS1kb_20261103-162312_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/stenammini/branstetter2022/extract_mrca_Novomessor_albisetosus_EX376-Stenamma_punctiventre_EX309_20260404-124915_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/messor/juve2025/extract_mrca_Messor_asmaae_sp1_PAKISTAN_AWEY-Messor_picturatus_maurus_TUNISIA_WGS_SH02-03_20260404-174036_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/strumigenys/booher2021/strumigenys-chronogram-original.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/temnothorax/prebus2017/extract_mrca_Temnothorax_nitens_P017-Temnothorax_mpala_P010_20260408-155341_with_outgroup_no_aztecus.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/temnothorax/prebus2021/filtered_data_beast_output_renamed.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/temnothorax/csosz2024/Csosz_et_al_unifasciatus_no_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/attini/hanisch2022/extract_mrca_Mycocepurus_goeldii_1495-Pseudoatta_sp_nov_1478_20260530-141054_with_outgroup-no-orphans.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/dorylinae/borowiec2019/dorylinae-orignal-chronogram-rapax-removed-no-orphans.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/syscia/longino2021/extract_mrca_Syscia_JTL060_EX1872-Syscia_transisthmica_EX1867_20260708-143338_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/ocymyrmex/mbanyana2024/extract_mrca_Ocymyrmex_sp_2_HYM_C027808_Ocy103-Ocymyrmex_celer_BBC660_20260409-142001_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/sericomyrmex/jesovnik2017/extract_mrca_Sericomyrmex_saramama_938_1526_PE-Sericomyrmex_saussurei_921_1524_PE_20260413-140222_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/atta/barrera2021/extract_mrca_Amoimyrmex_silvestrii_3851_PR-Atta_opaciceps_10720_BR-BA_20260530-142641_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/myrmicocrypta/sosa-calvo2018/extract_mrca_Myrmicocrypta_JSC048_1214-Myrmicocrypta_tuberculata_1278_20260429-200139_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/basiceros/probst2019/extract_mrca_Basiceros_convexiceps_BCOBA1-Basiceros_disciger_BDISP10_20260413-133141_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extract_mrca_Onychomyrmex_hedleyi-Mystrium_mirror_20260411-115038_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Tetraponera/extract_Tetraponera_20260411-115329_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Oecophylla/extract_Oecophylla_20260411-115329_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Myrmica/extract_Myrmica_20260411-115330_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Tetramorium/extract_Tetramorium_20260411-115330_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Cardiocondyla/extract_Cardiocondyla_20260411-115330_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Megalomyrmex/extract_Megalomyrmex_20260411-115330_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Syllophopsis/extract_Syllophopsis_20260411-115330_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Myrmicaria/extract_Myrmicaria_20260411-115331_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2023/extracted_genera/Ochetomyrmex/extract_Ochetomyrmex_20260411-115331_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2018/extract_mrca_Monomorium_chnodes-Monomorium_junodi_20260529-211713_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2018/extract_mrca_Solenopsis_papuana-Solenopsis_xyloni_20260529-211713_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/formicidae/nelsen2018/extract_mrca_Chelaner_decuria-Chelaner_bicornis_20260529-211713_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extracted_genera/Malagidris/extract_Malagidris_20260411-114011_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extracted_genera/Metapone/extract_Metapone_20260411-114011_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extracted_genera/Royidris/extract_Royidris_20260411-114011_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extracted_genera/Tanipone/extract_Tanipone_20260411-114012_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extracted_genera/Vitsika/extract_Vitsika_20260411-114012_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extract_Mystrium_20260420-115036_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extracted_genera/Adetomyrma/extract_mrca_Adetomyrma_aureocuprea-Adetomyrma_goblin_20260413-102316_with_outgroup.template.rds
+Reusing cached donor template: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/mami-madagascar/camacho2024/extract_Eutetramorium_20260420-144251_with_outgroup.template.rds
+Collapsing MRCA(Leptanilla,Protanilla) by retaining backbone tip Leptanilla and grafting donor as terminal replacement.
+Collapsing MRCA(Bazboltonia,Gnamptogenys) by retaining backbone tip Acanthoponera and grafting donor as terminal replacement.
+Collapsing MRCA(Gnamptogenys_boliviensis,Gnamptogenys_alfaroi) by retaining backbone tip Gnamptogenys_alfaroi and grafting donor as terminal replacement.
+Collapsing MRCA(Platythyrea,Leptogenys) by retaining backbone tip Anochetus and grafting donor as terminal replacement.
+Collapsing MRCA(Rostromyrmex,Leptothorax) by retaining backbone tip Acanthomyrmex and grafting donor as terminal replacement.
+Collapsing MRCA(Crematogaster_macracantha,Crematogaster_kelleri) by retaining backbone tip Crematogaster_aberrans and grafting donor as terminal replacement.
+Collapsing MRCA(Crematogaster_scutellaris,Crematogaster_pilosa) by retaining backbone tip Crematogaster_coarctata and grafting donor as terminal replacement.
+Collapsing MRCA(Bothriomyrmex,Iridomyrmex) by retaining backbone tip Anillidris and grafting donor as terminal replacement.
+Collapsing MRCA(Dorymyrmex_ensifer,Dorymyrmex_biconis) by retaining backbone tip Dorymyrmex_biconis and grafting donor as terminal replacement.
+Collapsing MRCA(Technomyrmex_pratensis,Technomyrmex_difficilis) by retaining backbone tip Technomyrmex_albicoxis and grafting donor as terminal replacement.
+Collapsing MRCA(Tapinoma_annandalei,Tapinoma_sessile) by retaining backbone tip Tapinoma_annandalei and grafting donor as terminal replacement.
+Collapsing MRCA(Liometopum_apiculatum,Liometopum_occidentale) by retaining backbone tip Liometopum_apiculatum and grafting donor as terminal replacement.
+Collapsing MRCA(Linepithema_keiteli,Linepithema_humile) by retaining backbone tip Linepithema_humile and grafting donor as terminal replacement.
+Collapsing MRCA(Cataglyphis,Rossomyrmex) by retaining backbone tip Cataglyphis and grafting donor as terminal replacement.
+Collapsing MRCA(Manica,Pogonomyrmex) by retaining backbone tip Hylomyrma and grafting donor as terminal replacement.
+Collapsing MRCA(Pogonomyrmex_striatinodus,Pogonomyrmex_apache) by retaining backbone tip Pogonomyrmex_apache and grafting donor as terminal replacement.
+Collapsing MRCA(Zatania,Nylanderia) by retaining backbone tip Euprenolepis and grafting donor as terminal replacement.
+Collapsing MRCA(Nylanderia_helleri,Nylanderia_obscura) by retaining backbone tip Nylanderia_amblyops and grafting donor as terminal replacement.
+Collapsing MRCA(Pseudomyrmex_salvini,Pseudomyrmex_elongatulus) by retaining backbone tip Pseudomyrmex_apache and grafting donor as terminal replacement.
+Collapsing MRCA(Pseudomyrmex_particeps,Pseudomyrmex_janzeni) by retaining backbone tip Pseudomyrmex_ferrugineus and grafting donor as terminal replacement.
+Collapsing MRCA(Allomerus,Blepharidatta) by retaining backbone tip Allomerus and grafting donor as terminal replacement.
+Collapsing MRCA(Novomessor,Stenamma) by retaining backbone tip Aphaenogaster and grafting donor as terminal replacement.
+Collapsing MRCA(Messor_aciculatus,Messor_denticornis) by retaining backbone tip Messor_aciculatus and grafting donor as terminal replacement.
+Collapsing MRCA(Temnothorax_poeyi,Temnothorax_bernardi) by retaining backbone tip Temnothorax_bernardi and grafting donor as terminal replacement.
+Collapsing MRCA(Apterostigma,Acromyrmex) by retaining backbone tip Acromyrmex and grafting donor as terminal replacement.
+Collapsing MRCA(Dorylus,Eciton) by retaining backbone tip Acanthostichus and grafting donor as terminal replacement.
+Collapsing MRCA(Ocymyrmex_celer,Ocymyrmex_picardi) by retaining backbone tip Ocymyrmex_celer and grafting donor as terminal replacement.
+Collapsing MRCA(Sericomyrmex_scrobifer,Sericomyrmex_mayri) by retaining backbone tip Sericomyrmex_amabilis and grafting donor as terminal replacement.
+Collapsing MRCA(Atta_texana,Amoimyrmex_striatus) by retaining backbone tip Acromyrmex_balzani and grafting donor as terminal replacement.
+Collapsing MRCA(Myrmicocrypta_tuberculata,Myrmicocrypta_ednaella) by retaining backbone tip Myrmicocrypta_buenzlii and grafting donor as terminal replacement.
+Collapsing MRCA(Amblyopone,Myopopone) by retaining backbone tip Adetomyrma and grafting donor as terminal replacement.
+Collapsing MRCA(Myrmica_wheeleri,Myrmica_fracticornis) by retaining backbone tip Myrmica_americana and grafting donor as terminal replacement.
+Collapsing MRCA(Tetramorium_taylori,Tetramorium_validiusculum) by retaining backbone tip Strongylognathus_testaceus and grafting donor as terminal replacement.
+Collapsing MRCA(Cardiocondyla_mauritanica,Cardiocondyla_thoracica) by retaining backbone tip Cardiocondyla_mauritanica and grafting donor as terminal replacement.
+Collapsing MRCA(Malagidris_belti,Malagidris_jugum) by retaining backbone tip Malagidris_belti and grafting donor as terminal replacement.
+Collapsing MRCA(Royidris_longiseta,Royidris_notorthotenes) by retaining backbone tip Royidris_longiseta and grafting donor as terminal replacement.
+Collapsing MRCA(Tanipone_aglandula,Tanipone_scelesta) by retaining backbone tip Tanipone_aglandula and grafting donor as terminal replacement.
+Collapsing MRCA(Vitsika_producta,Vitsika_suspicax) by retaining backbone tip Vitsika_brevis and grafting donor as terminal replacement.
+Collapsing MRCA(Mystrium_mysticum,Mystrium_mirror) by retaining backbone tip Mystrium_barrybressleri and grafting donor as terminal replacement.
+Collapsing MRCA(Adetomyrma_bressleri,Adetomyrma_caputleae) by retaining backbone tip Adetomyrma_bressleri and grafting donor as terminal replacement.
+
+┌─────────────────────────┐
+│ write plots & tip lists │
+└─────────────────────────┘

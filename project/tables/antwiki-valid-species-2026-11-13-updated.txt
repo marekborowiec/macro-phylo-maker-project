@@ -6974,7 +6974,7 @@ Leptomyrmex pallens	Dolichoderinae	Leptomyrmecini	Leptomyrmex		pallens		Emery, 1
 Leptomyrmex pilosus	Dolichoderinae	Leptomyrmecini	Leptomyrmex		pilosus		Smith, D.J. & Shattuck, 2009	Smith, D.J. & Shattuck	2009		Australia	Present	Present	https://www.antwiki.org/wiki/Leptomyrmex pilosus
 Leptomyrmex puberulus	Dolichoderinae	Leptomyrmecini	Leptomyrmex		puberulus		Wheeler, W.M., 1934	Wheeler, W.M.	1934		New Guinea	Present		https://www.antwiki.org/wiki/Leptomyrmex puberulus
 Leptomyrmex ramorniensis	Dolichoderinae	Leptomyrmecini	Leptomyrmex		ramorniensis		Smith, D.J. & Shattuck, 2009	Smith, D.J. & Shattuck	2009		Australia	Present	Present	https://www.antwiki.org/wiki/Leptomyrmex ramorniensis
-Paranillidris relictus	Dolichoderinae	Leptomyrmecini	Paranillidris		relictus		(Boudinot, Probst, Brandão, Feitosa & Ward, 2016)	Boudinot, Probst, Brandão, Feitosa & Ward	2016		Brazil	Present	Present	https://www.antwiki.org/wiki/Leptomyrmex relictus
+Paranillidris relicta	Dolichoderinae	Leptomyrmecini	Paranillidris		relicta		(Boudinot, Probst, Brandão, Feitosa & Ward, 2016)	Boudinot, Probst, Brandão, Feitosa & Ward	2016		Brazil	Present	Present	https://www.antwiki.org/wiki/Leptomyrmex relictus
 Leptomyrmex rothneyi	Dolichoderinae	Leptomyrmecini	Leptomyrmex		rothneyi		Forel, 1902	Forel	1902		Australia	Present	Present	https://www.antwiki.org/wiki/Leptomyrmex rothneyi
 Leptomyrmex ruficeps	Dolichoderinae	Leptomyrmecini	Leptomyrmex		ruficeps		Emery, 1895	Emery	1895		Australia	Present	Present	https://www.antwiki.org/wiki/Leptomyrmex ruficeps
 Leptomyrmex rufipes	Dolichoderinae	Leptomyrmecini	Leptomyrmex		rufipes		Emery, 1895	Emery	1895		Australia	Present	Present	https://www.antwiki.org/wiki/Leptomyrmex rufipes

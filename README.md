@@ -1639,36 +1639,52 @@ res_chronosta <- run_chronosta_grafting(
 The original backbone chronogram used here had branch length units expressed as 0.01 = 1Mya. Before we proceed, we need to rescale trees for downstream analyses such that branch length 1 = 1Mya. We also want to remove genera that have since been recently synonymized (Wasmannia) and ones that are likely nested within other genera (Chimaeridris):  
 
 ```r
-backbone_genus_tree_path <- here::here("project", "backbones", "genus.tre")
+backbone_genus_tree_path <- here::here("project", "backbones", "Borowiec-129to158Ma-independent-genus-only.tre")
 backbone_genus_tree <- ape::read.tree(backbone_genus_tree_path)
-backbone_noNewGenus <- ape::drop.tip(backbone_genus_tree, "NewGenus") # dropping "NewGenus" tip representing the isolated Neoponera bucki
-backbone_noNewGenus_path <- here::here("project", "backbones", "genus-noNewGenus.tre")
-ape::write.tree(backbone_noNewGenus, backbone_noNewGenus_path)
 
-run_tip_grafting(
-  backbone_path = here::here("project", "backbones", "genus-noNewGenus.tre"),
-  plan_path     = here::here("project", "tables", "grafted_genera.tsv"),
-  out_prefix    = here::here("project", "results", "grafted", "genus-2Aug2026"),
-  seed_mode     = 42,
-  ingroup_anchors = c("Martialis", "Camponotus")
-)
-
-grafted_genera_tree_path <- here::here("project", "results", "grafted", "genus-2Aug2026.tre")
-grafted_genera_tree <- ape::read.tree(grafted_genera_tree_path)
-grafted_noChimaeridris <- ape::drop.tip(grafted_genera_tree, c("Chimaeridris","Wasmannia")) # dropping "Chimaeridris" tip nested in Pheidole (Longino pers. comm.) and Wasmannia is now synonym of Allomerus
-grafted_noWasmannia <- ape::drop.tip(grafted_genera_tree, "Wasmannia") # now synonym of Allomerus
-grafted_genera_noChimaeridris_path <- here::here("project", "results", "grafted", "genus-no-wasmannia.tre")
-ape::write.tree(grafted_noChimaeridris, grafted_genera_noChimaeridris_path)
-
-# This rescales complete genus-level tree
-complete_genus <- read.tree(here::here("project", "results", "grafted", 
-  "genus-no-wasmannia.tre"))
-cg_rescaled <- rescale_tree_time_units(
-  complete_genus,
+# Rescale genus-level tree to 1 branch length unit = 1 Ma 
+backbone_genus_rescaled <- rescale_tree_time_units(
+  backbone_genus_tree,
   factor = 100,
-  out_path = here::here("project", "results", "grafted",
-    "genus-rescaled-no-wasmannia.tre")
+  out_path = here::here("project", "backbones",
+    "Borowiec-129to158Ma-independent-genus-only-rescaled.tre")
 )
+
+backbone_genus_rescaled_tree <- read.tree(here::here("project", "backbones",
+    "Borowiec-129to158Ma-independent-genus-only-rescaled.tre")
+)
+
+# Drop outgroups
+# Drop genus duplicates
+# Drop Bothriomyrmex so it can be grafted according to new Lieberman et al. 2026 tree
+# Drop Wasmannia to recognize synonymy with Allomerus in Longino et al. 2026
+backbone_genus_rescaled_reduced <- drop.tip(backbone_genus_rescaled_tree,
+  c("Heterogyna","Evagetes","Pepsis","Chrysis","Mischocyttarus","Apis","Chyphotes",
+    "Vespula","Ampulex","Sceliphron","Dasypoda","Brachycistis",
+    "Leptanilla2","Leptanilla3","Protanilla2",
+    "Bothriomyrmex",
+    "Wasmannia")
+  )
+
+backbone_genus_rescaled_reduced_path <- here::here("project", "backbones", "genus-backbone-2026-11-13.tre")
+ape::write.tree(backbone_genus_rescaled_reduced, backbone_genus_rescaled_reduced_path)
+
+# Graft missing genera using tip grafting table
+run_tip_grafting(
+  backbone_path = here::here("project", "backbones", "genus-backbone-2026-11-13.tre"),
+  plan_path     = here::here("project", "tables", "genera-to-graft-clean.tsv"),
+  out_prefix    = here::here("project", "results", "grafted", 
+    "genus-grafted-2026-11-13"),
+  seed_mode     = 42
+)
+
+grafted_genera_tree_path <- here::here("project", "results", "grafted", 
+    "genus-grafted-2026-11-13.tre")
+grafted_genera_tree <- ape::read.tree(grafted_genera_tree_path)
+# dropping "Chimaeridris" tip nested in Pheidole (Longino pers. comm.)
+grafted_noChimaeridris <- ape::drop.tip(grafted_genera_tree, "Chimaeridris") 
+grafted_genera_noChimaeridris_path <- here::here("project", "results", "grafted", "genus-grafted-2026-11-13-no-chimaeridris.tre")
+ape::write.tree(grafted_noChimaeridris, grafted_genera_noChimaeridris_path)
 ```
 
 This creates a complete genus-level backbone by inserting genera missing from the backbone chronogram according to the table in `project/tables/grafted_genera.tsv`. See that table for placements, assumptions, and sources.
@@ -1680,12 +1696,12 @@ After this step, confirm that the genus-level grafting tree and graft log exist,
 ```r
 genus_tree_path <- here::here(
   "project", "results", "grafted",
-  "genus-rescaled-no-wasmannia.tre"
+  "genus-grafted-2026-11-13-no-chimaeridris.tre"
 )
 
 genus_log_path <- here::here(
   "project", "results", "grafted",
-  "genus_graft_log.tsv"
+  "genus-grafted-2026-11-13_graft_log.tsv"
 )
 
 file.exists(genus_tree_path)
@@ -1709,12 +1725,18 @@ Useful checks at this stage are:
 ### Step 2. Graft published clade-level phylogenies
 
 ```r
+genus_tree_path <- here::here(
+  "project", "results", "grafted",
+  "genus-grafted-2026-11-13-no-chimaeridris.tre"
+)
+
 run_clade_grafting(
-  backbone_path = here::here("project", "backbones", "genus-rescaled-no-wasmannia.tre"),
+  backbone_path = genus_tree_path,
   plan_path = here::here("project", "tables", "clades-to-graft-clean.tsv"),
-  authority = here::here("project", "tables", "antwiki-valid-species-2Sep2026.txt"),
+  authority = here::here("project", "tables",
+    "antwiki-valid-species-2026-11-13-updated.txt"),
   out_prefix = here::here("project", "results", "grafted",
-                          "backbone_clade_grafted_10nov26"),
+                          "backbone_clade_grafted_2026-11-13"),
   seed_mode = 42,
   chronos_select = "auto",
   ultrametric_final = "none",
@@ -1776,17 +1798,17 @@ The clade-grafting step writes the grafted tree, a graft log, and, if `plot_pdf 
 ```r
 clade_tree_path <- here::here(
   "project", "results", "grafted",
-  "backbone_clade_grafted_10nov26.tre"
+  "backbone_clade_grafted_2026-11-13.tre"
 )
 
 clade_log_path <- here::here(
   "project", "results", "grafted",
-  "backbone_clade_grafted_10nov26_graft_log.tsv"
+  "backbone_clade_grafted_2026-11-13_graft_log.tsv"
 )
 
 clade_pdf_path <- here::here(
   "project", "results", "grafted",
-  "backbone_clade_grafted_10nov26.pdf"
+  "backbone_clade_grafted_2026-11-13.pdf"
 )
 
 file.exists(clade_tree_path)
@@ -1819,7 +1841,7 @@ We removed some genus-level terminals in the previous steps, and others are over
 run_tip_grafting(
   backbone_path = here::here(
     "project", "results", "grafted",
-    "backbone_clade_grafted_10nov26.tre"
+    "backbone_clade_grafted_2026-11-13.tre"
   ),
   plan_path = here::here(
     "project", "tables",
@@ -1827,7 +1849,7 @@ run_tip_grafting(
   ),
   out_prefix = here::here(
     "project", "results", "grafted",
-    "genus_reconstituted_10nov2026"
+    "genus_reconstituted_2026-11-13"
   ),
   seed_mode = 42,
   plot_cex = 0.35
@@ -1843,12 +1865,12 @@ Check that the file exists, read it into R, and confirm that the genera you inte
 ```r
 reconstituted_tree_path <- here::here(
   "project", "results", "grafted",
-  "backbone_clade_grafted_10nov26.tre"
+  "genus_reconstituted_2026-11-13.tre"
 )
 
 reconstituted_log_path <- here::here(
   "project", "results", "grafted",
-  "genus_reconstituted_10nov2026_graft_log.tsv"
+  "genus_reconstituted_2026-11-13_graft_log.tsv"
 )
 
 file.exists(reconstituted_tree_path)
@@ -1872,7 +1894,7 @@ In the tree from the previous step some terminals are represented only by genus 
 # Read clade-grafted tree
 gent2ag <- read.tree(here::here(
   "project", "results", "grafted",
-  "genus_reconstituted_10nov2026.tre"
+  "genus_reconstituted_2026-11-13.tre"
 ))
 
 # Read initial Borowiec et al. 2025 species-level tree
@@ -1891,7 +1913,7 @@ for(i in 1:length(list_reps))
 #Save output
 write.tree(phy=gent2ag, here::here(
   "project", "results", "grafted",
-  "genus_reconstituted_10nov_for_chronosta.tre"))
+  "genus_reconstituted_2026-11-13_for_chronosta.tre"))
 ``` 
 
 ### Step 4. Add remaining species using Chrono-STA-enabled time-informed grafting
@@ -1904,7 +1926,7 @@ Be sure to follow setup instructions before running this function.
 res_chronosta <- run_chronosta_grafting(
   reference_tree = here::here(
     "project", "results", "grafted",
-    "genus_reconstituted_10nov_for_chronosta.tre"
+    "genus_reconstituted_2026-11-13_for_chronosta.tre"
   ),
   donor_tree_dir = here::here(
     "project", "chronosta", "source_trees"

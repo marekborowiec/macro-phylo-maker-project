@@ -1,0 +1,87 @@
+#NEXUS
+
+	Begin taxa;
+	Dimensions ntax=76;
+	Taxlabels
+		Ampulex_compressa
+		Ectatomma_ruidum
+		Leptanilla_GR03_D0965
+		Leptanilla_astylina
+		Leptanilla_charonea_D1862
+		Leptanilla_ci01
+		Leptanilla_gr01_D0969
+		Leptanilla_gr02_D0967
+		Leptanilla_gr03_cf_D1967
+		Leptanilla_havilandi_D2142
+		Leptanilla_najaphalla_D1683
+		Leptanilla_palauensis
+		Leptanilla_th01_D0679
+		Leptanilla_th07_D1051
+		Leptanilla_zaballosi_cf_D1865
+		Leptanilla_zhg_au01_D1544
+		Leptanilla_zhg_au02_D1545
+		Leptanilla_zhg_au03_D1687
+		Leptanilla_zhg_au04_D1713
+		Leptanilla_zhg_au05_D1714
+		Leptanilla_zhg_au06_D1715
+		Leptanilla_zhg_au07_D1716
+		Leptanilla_zhg_bt01_D1682
+		Leptanilla_zhg_bt02_D2137
+		Leptanilla_zhg_es01_D1864
+		Leptanilla_zhg_id01_D1754
+		Leptanilla_zhg_id02_D2140
+		Leptanilla_zhg_ke01_D2616
+		Leptanilla_zhg_ke02_D3031
+		Leptanilla_zhg_mm02_D3022
+		Leptanilla_zhg_mm05_D3023
+		Leptanilla_zhg_my03_D1686
+		Leptanilla_zhg_my04_D1684
+		Leptanilla_zhg_my05_D1685
+		Leptanilla_zhg_th01_D1679
+		Leptanilla_zhg_tr01_D3025
+		Leptomyrmex_ruficeps_D3035
+		Martialis_heureka_D0751
+		Myrmelachista_zeledoni
+		Myrmica_rubra
+		Neivamyrmex_nigrescens_D3085
+		Noonilla_copiosa_cf_D1694
+		Noonilla_zhg_my01_D1693
+		Noonilla_zhg_my02_D1691
+		Noonilla_zhg_my06_D1688
+		Noonilla_zhg_ph01_D3073
+		Opamyrma_hungvuong_D0734
+		Paraponera_clavata
+		Protanilla_TH02_D0806
+		Protanilla_TH03_D0807
+		Protanilla_lini_D1756
+		Protanilla_th01_D0678
+		Protanilla_zhg_my01_D3029
+		Protanilla_zhg_th02_D2532
+		Protanilla_zhg_vn01_D1678
+		Pseudomyrmex_pallidus
+		Scyphodon_anomalum
+		Typhoctes_peculiaris_D2617
+		Yavnella_MM01_D0876
+		Yavnella_TH02_D0677
+		Yavnella_TH03_D0800
+		Yavnella_TH04_D0801
+		Yavnella_TH06_D0803
+		Yavnella_TH08_D1052
+		Yavnella_argamani_D1081
+		Yavnella_indet_D1914
+		Yavnella_nr_indica_D1689
+		Yavnella_zhg_bt01_D1681
+		Yavnella_zhg_mm03_cf_D3075
+		Yavnella_zhg_mm04_D3077
+		Yavnella_zhg_mm06_D3078
+		Yavnella_zhg_my02_D3026
+		Yavnella_zhg_th01_D1680
+		Yavnella_zhg_th03_D2169
+		Yavnella_zhg_th04_D1906
+		Yavnella_zhg_th05_D3079
+		;
+End;
+
+Begin trees;
+tree TREE1 = [&U](((((((((((((((Yavnella_TH02_D0677[&index=39]:0.001320[&brlen_95%_HPD={0.000799,0.001886}],Yavnella_zhg_th03_D2169[&index=38]:0.009430[&brlen_95%_HPD={0.007577,0.011255}])[&index=77,posterior=1.000000]:0.000267[&brlen_95%_HPD={0,0.000627}],Yavnella_zhg_th01_D1680[&index=37]:0.001635[&brlen_95%_HPD={0.00112,0.002185}])[&index=78,posterior=1.000000]:0.010557[&brlen_95%_HPD={0.009375,0.011943}],Yavnella_zhg_th04_D1906[&index=36]:0.014164[&brlen_95%_HPD={0.012575,0.015722}])[&index=79,posterior=1.000000]:0.000738[&brlen_95%_HPD={0.000337,0.001152}],(Yavnella_TH06_D0803[&index=35]:0.011594[&brlen_95%_HPD={0.010143,0.012955}],Yavnella_zhg_th05_D3079[&index=34]:0.011290[&brlen_95%_HPD={0.009935,0.012691}])[&index=80,posterior=1.000000]:0.000361[&brlen_95%_HPD={5.8e-05,0.000707}])[&index=81,posterior=1.000000]:0.000398[&brlen_95%_HPD={0.000134,0.000677}],Yavnella_TH04_D0801[&index=33]:0.011553[&brlen_95%_HPD={0.010158,0.012899}])[&index=82,posterior=1.000000]:0.003801[&brlen_95%_HPD={0.003042,0.004588}],((Yavnella_MM01_D0876[&index=31]:0.014250[&brlen_95%_HPD={0.012376,0.01611}],Yavnella_zhg_mm06_D3078[&index=29]:0.012279[&brlen_95%_HPD={0.010125,0.014405}])[&index=83,posterior=1.000000]:0.001363[&brlen_95%_HPD={0.000441,0.002335}],(Yavnella_indet_D1914[&index=28]:0.000845[&brlen_95%_HPD={0.000487,0.001232}],Yavnella_zhg_mm03_cf_D3075[&index=27]:0.000928[&brlen_95%_HPD={0.000541,0.001334}])[&index=84,posterior=1.000000]:0.008850[&brlen_95%_HPD={0.007628,0.010109}])[&index=85,posterior=1.000000]:0.005228[&brlen_95%_HPD={0.004223,0.006213}])[&index=86,posterior=1.000000]:0.001420[&brlen_95%_HPD={0.000929,0.001972}],((Yavnella_TH08_D1052[&index=25]:0.011226[&brlen_95%_HPD={0.009521,0.013068}],Yavnella_zhg_my02_D3026[&index=26]:0.015370[&brlen_95%_HPD={0.01306,0.017649}])[&index=87,posterior=1.000000]:0.008665[&brlen_95%_HPD={0.006978,0.01026}],Yavnella_zhg_mm04_D3077[&index=24]:0.013663[&brlen_95%_HPD={0.012176,0.015159}])[&index=88,posterior=1.000000]:0.002172[&brlen_95%_HPD={0.001502,0.00288}])[&index=89,posterior=1.000000]:0.008378[&brlen_95%_HPD={0.007071,0.009713}],(Yavnella_argamani_D1081[&index=23]:0.026593[&brlen_95%_HPD={0.024033,0.029274}],Yavnella_nr_indica_D1689[&index=22]:0.031551[&brlen_95%_HPD={0.028437,0.034735}])[&index=90,posterior=1.000000]:0.009239[&brlen_95%_HPD={0.007417,0.011288}])[&index=91,posterior=1.000000]:0.002587[&brlen_95%_HPD={0.001598,0.003622}],Yavnella_zhg_bt01_D1681[&index=21]:0.026816[&brlen_95%_HPD={0.02439,0.029186}])[&index=92,posterior=1.000000]:0.030328[&brlen_95%_HPD={0.02765,0.033285}],Yavnella_TH03_D0800[&index=20]:0.063332[&brlen_95%_HPD={0.059599,0.067133}])[&index=93,posterior=0.995334]:0.026926[&brlen_95%_HPD={0.024307,0.030001}],((((((((Leptanilla_zhg_au01_D1544[&index=64]:0.005892[&brlen_95%_HPD={0.0045,0.007406}],Leptanilla_zhg_au07_D1716[&index=63]:0.006161[&brlen_95%_HPD={0.005092,0.007547}])[&index=94,posterior=0.961472]:0.000783[&brlen_95%_HPD={0.000291,0.001306}],Leptanilla_zhg_au02_D1545[&index=62]:0.013245[&brlen_95%_HPD={0.006132,0.016531}])[&index=95,posterior=0.850687]:0.000568[&brlen_95%_HPD={0.00022,0.000957}],Leptanilla_zhg_au05_D1714[&index=61]:0.004259[&brlen_95%_HPD={0.003441,0.005185}])[&index=96,posterior=0.841954]:0.000987[&brlen_95%_HPD={0.000558,0.001464}],(Leptanilla_zhg_au04_D1713[&index=60]:0.011406[&brlen_95%_HPD={0.009655,0.013652}],Leptanilla_zhg_au06_D1715[&index=59]:0.008758[&brlen_95%_HPD={0.007549,0.01025}])[&index=97,posterior=0.929476]:0.000175[&brlen_95%_HPD={0,0.000424}])[&index=98,posterior=0.783962]:0.004995[&brlen_95%_HPD={0.002244,0.007958}],Leptanilla_zhg_au03_D1687[&index=58]:0.026493[&brlen_95%_HPD={0.014502,0.036506}])[&index=99,posterior=0.687842]:0.042353[&brlen_95%_HPD={0.019339,0.050366}],(Leptanilla_zhg_id02_D2140[&index=57]:0.031461[&brlen_95%_HPD={0.028882,0.034374}],Leptanilla_zhg_mm02_D3022[&index=56]:0.040106[&brlen_95%_HPD={0.037314,0.043329}])[&index=100,posterior=0.953740]:0.012900[&brlen_95%_HPD={0.011079,0.015313}])[&index=101,posterior=0.555859]:0.002474[&brlen_95%_HPD={0.001505,0.00348}],(((((Leptanilla_GR03_D0965[&index=73]:0.004857[&brlen_95%_HPD={0.003702,0.006097}],Leptanilla_gr03_cf_D1967[&index=72]:0.005431[&brlen_95%_HPD={0.004234,0.006664}])[&index=102,posterior=0.981736]:0.009855[&brlen_95%_HPD={0.008338,0.011654}],Leptanilla_gr01_D0969[&index=71]:0.014555[&brlen_95%_HPD={0.012846,0.016485}])[&index=103,posterior=0.952140]:0.027261[&brlen_95%_HPD={0.025015,0.030461}],((Leptanilla_charonea_D1862[&index=76]:0.004689[&brlen_95%_HPD={0.003747,0.005609}],Leptanilla_zaballosi_cf_D1865[&index=75]:0.003853[&brlen_95%_HPD={0.003016,0.004706}])[&index=104,posterior=0.995667]:0.006378[&brlen_95%_HPD={0.002671,0.010325}],Leptanilla_zhg_es01_D1864[&index=74]:0.026284[&brlen_95%_HPD={0.017263,0.037317}])[&index=105,posterior=0.943541]:0.023333[&brlen_95%_HPD={0.017319,0.029946}])[&index=106,posterior=0.805359]:0.003212[&brlen_95%_HPD={0.002227,0.004227}],((Leptanilla_gr02_D0967[&index=70]:0.021391[&brlen_95%_HPD={0.018284,0.025099}],Leptanilla_zhg_tr01_D3025[&index=69]:0.011092[&brlen_95%_HPD={0.008628,0.014529}])[&index=107,posterior=0.908479]:0.025505[&brlen_95%_HPD={0.01782,0.031235}],(Leptanilla_zhg_bt01_D1682[&index=68]:0.001739[&brlen_95%_HPD={0.001048,0.00245}],Leptanilla_zhg_bt02_D2137[&index=67]:0.000574[&brlen_95%_HPD={0.000163,0.001032}])[&index=108,posterior=0.994801]:0.046133[&brlen_95%_HPD={0.041008,0.052542}])[&index=109,posterior=0.760965]:0.005047[&brlen_95%_HPD={0.003731,0.006459}])[&index=110,posterior=0.566324]:0.000785[&brlen_95%_HPD={0.000157,0.001468}],((Leptanilla_ci01[&index=30]:0.097087[&brlen_95%_HPD={0.02854,0.181337}],Leptanilla_zhg_ke02_D3031[&index=66]:0.033656[&brlen_95%_HPD={0.007533,0.044424}])[&index=111,posterior=0.113985]:0.019197[&brlen_95%_HPD={0.001824,0.038207}],Leptanilla_zhg_ke01_D2616[&index=65]:0.037488[&brlen_95%_HPD={0.012428,0.050151}])[&index=112,posterior=0.211105]:0.011740[&brlen_95%_HPD={0.004286,0.01803}])[&index=113,posterior=0.485935]:0.008480[&brlen_95%_HPD={0.007171,0.010179}])[&index=114,posterior=0.371350]:0.049203[&brlen_95%_HPD={0.01351,0.058816}],(((((((Noonilla_zhg_my01_D1693[&index=53]:0.006644[&brlen_95%_HPD={0.000945,0.010207}],Scyphodon_anomalum[&index=43]:0.071178[&brlen_95%_HPD={0.021054,0.131684}])[&index=115,posterior=0.332289]:0.003969[&brlen_95%_HPD={5.1e-05,0.007865}],(Noonilla_zhg_my02_D1691[&index=55]:0.002651[&brlen_95%_HPD={0.001621,0.003874}],Noonilla_zhg_my06_D1688[&index=54]:0.002665[&brlen_95%_HPD={0.001556,0.003935}])[&index=116,posterior=0.924343]:0.005849[&brlen_95%_HPD={0.002425,0.008407}])[&index=117,posterior=0.525263]:0.001044[&brlen_95%_HPD={0.000225,0.001959}],Noonilla_zhg_ph01_D3073[&index=52]:0.011111[&brlen_95%_HPD={0.009202,0.01346}])[&index=118,posterior=0.782562]:0.010677[&brlen_95%_HPD={0.002047,0.015129}],Noonilla_copiosa_cf_D1694[&index=51]:0.017331[&brlen_95%_HPD={0.010434,0.022129}])[&index=119,posterior=0.964005]:0.006827[&brlen_95%_HPD={0.004602,0.009077}],Leptanilla_havilandi_D2142[&index=50]:0.020839[&brlen_95%_HPD={0.018068,0.023667}])[&index=120,posterior=0.960339]:0.002277[&brlen_95%_HPD={0.00105,0.003473}],(((Leptanilla_najaphalla_D1683[&index=49]:0.069422[&brlen_95%_HPD={0.026171,0.124281}],Leptanilla_zhg_my05_D1685[&index=48]:0.004791[&brlen_95%_HPD={0.000403,0.00828}])[&index=121,posterior=1.000000]:0.003089[&brlen_95%_HPD={2e-06,0.006938}],Leptanilla_zhg_id01_D1754[&index=47]:0.010349[&brlen_95%_HPD={0.008347,0.012431}])[&index=122,posterior=1.000000]:0.003034[&brlen_95%_HPD={0.00181,0.004213}],(Leptanilla_zhg_my03_D1686[&index=46]:0.013753[&brlen_95%_HPD={0.011895,0.015608}],Leptanilla_zhg_my04_D1684[&index=45]:0.010901[&brlen_95%_HPD={0.009371,0.012601}])[&index=123,posterior=1.000000]:0.003618[&brlen_95%_HPD={0.00234,0.004909}])[&index=124,posterior=1.000000]:0.020893[&brlen_95%_HPD={0.018543,0.023214}])[&index=125,posterior=0.959672]:0.027065[&brlen_95%_HPD={0.024669,0.029847}],(((Leptanilla_astylina[&index=32]:0.023365[&brlen_95%_HPD={5e-06,0.071214}],Leptanilla_th07_D1051[&index=41]:0.017166[&brlen_95%_HPD={1e-06,0.053944}])[&index=126,posterior=0.827956]:0.041654[&brlen_95%_HPD={0.020336,0.055852}],Leptanilla_zhg_mm05_D3023[&index=40]:0.046025[&brlen_95%_HPD={0.042655,0.050147}])[&index=127,posterior=0.789628]:0.015740[&brlen_95%_HPD={0.013571,0.017921}],(Leptanilla_th01_D0679[&index=44]:0.021092[&brlen_95%_HPD={0.018995,0.023448}],Leptanilla_zhg_th01_D1679[&index=42]:0.023573[&brlen_95%_HPD={0.021227,0.026039}])[&index=128,posterior=0.999933]:0.016418[&brlen_95%_HPD={0.014202,0.018444}])[&index=129,posterior=0.781496]:0.005399[&brlen_95%_HPD={0.004118,0.006774}])[&index=130,posterior=0.741368]:0.022143[&brlen_95%_HPD={0.019745,0.024784}])[&index=131,posterior=0.499667]:0.006450[&brlen_95%_HPD={0.00485,0.008135}])[&index=132,posterior=0.500000]:0.048343[&brlen_95%_HPD={0.044382,0.052261}],((((Protanilla_TH02_D0806[&index=16]:0.005731[&brlen_95%_HPD={0.004701,0.006831}],Protanilla_th01_D0678[&index=15]:0.004445[&brlen_95%_HPD={0.003514,0.005337}])[&index=133,posterior=1.000000]:0.008044[&brlen_95%_HPD={0.006751,0.009319}],Protanilla_zhg_my01_D3029[&index=17]:0.015730[&brlen_95%_HPD={0.013994,0.017442}])[&index=134,posterior=1.000000]:0.022053[&brlen_95%_HPD={0.019981,0.024266}],(Protanilla_lini_D1756[&index=19]:0.015777[&brlen_95%_HPD={0.013775,0.017886}],Protanilla_zhg_vn01_D1678[&index=18]:0.017147[&brlen_95%_HPD={0.014752,0.019677}])[&index=135,posterior=1.000000]:0.005511[&brlen_95%_HPD={0.003867,0.007112}])[&index=136,posterior=1.000000]:0.032364[&brlen_95%_HPD={0.029596,0.035318}],(Protanilla_TH03_D0807[&index=14]:0.073000[&brlen_95%_HPD={0.068875,0.077299}],Protanilla_zhg_th02_D2532[&index=13]:0.054507[&brlen_95%_HPD={0.051018,0.058356}])[&index=137,posterior=1.000000]:0.004089[&brlen_95%_HPD={0.002384,0.00586}])[&index=138,posterior=1.000000]:0.051620[&brlen_95%_HPD={0.047725,0.055759}])[&index=139,posterior=0.500000]:0.020648[&brlen_95%_HPD={0.01703,0.024298}],Opamyrma_hungvuong_D0734[&index=12]:0.160887[&brlen_95%_HPD={0.152597,0.169718}])[&index=140,posterior=0.500000]:0.036318[&brlen_95%_HPD={0.030584,0.041609}],((((((Ectatomma_ruidum[&index=11]:0.113552[&brlen_95%_HPD={0.106023,0.121341}],Myrmica_rubra[&index=10]:0.144314[&brlen_95%_HPD={0.136195,0.152795}])[&index=141,posterior=1.000000]:0.017959[&brlen_95%_HPD={0.0131,0.022826}],Myrmelachista_zeledoni[&index=9]:0.217869[&brlen_95%_HPD={0.20826,0.228806}])[&index=142,posterior=1.000000]:0.015520[&brlen_95%_HPD={0.011222,0.019828}],(Leptomyrmex_ruficeps_D3035[&index=8]:0.163234[&brlen_95%_HPD={0.154267,0.172375}],Pseudomyrmex_pallidus[&index=7]:0.246806[&brlen_95%_HPD={0.234699,0.259392}])[&index=143,posterior=1.000000]:0.009634[&brlen_95%_HPD={0.004963,0.014605}])[&index=144,posterior=1.000000]:0.011774[&brlen_95%_HPD={0.007595,0.015745}],Neivamyrmex_nigrescens_D3085[&index=5]:0.255355[&brlen_95%_HPD={0.244254,0.267113}])[&index=145,posterior=1.000000]:0.012037[&brlen_95%_HPD={0.008078,0.016581}],Paraponera_clavata[&index=4]:0.177287[&brlen_95%_HPD={0.1668,0.187638}])[&index=146,posterior=1.000000]:0.032951[&brlen_95%_HPD={0.02724,0.038653}],(Leptanilla_palauensis[&index=6]:0.083952[&brlen_95%_HPD={0.004981,0.205169}],Martialis_heureka_D0751[&index=3]:0.168085[&brlen_95%_HPD={0.013829,0.261676}])[&index=147,posterior=0.500000]:0.162578[&brlen_95%_HPD={0.06727,0.249019}])[&index=148,posterior=0.500000]:0.009314[&brlen_95%_HPD={0.005036,0.014374}])[&index=149,posterior=1.000000]:0.102524[&brlen_95%_HPD={0.088022,0.116753}],Ampulex_compressa[&index=2]:0.466215[&brlen_95%_HPD={0.443892,0.489208}],Typhoctes_peculiaris_D2617[&index=1]:0.461607[&brlen_95%_HPD={0.439027,0.485396}])[&index=150,posterior=1.000000]:0.000000;
+End;

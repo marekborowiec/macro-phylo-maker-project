@@ -12,15 +12,15 @@ Formicinae	Retalimyrma	graft sister to clade	Camponotus,Calomyrmex	1	1	0.1	0.9	N
 Formicinae	Alloformica	graft sister to tip	Proformica	1	1	0.1	0.9	NA	NA	Agosti (1994)	NA
 Formicinae	Metalasius	graft sister to clade	Paraparatrechina,Paratrechina	1	1	0.1	0.9	NA	NA	Boudinot et al (2022)	https://doi.org/10.1111/syen.12522
 Formicinae	Bregmatomyrma	graft within clade random	Anoplolepis,Lepisiota	1	1	0.1	0.9	TRUE	TRUE	Bolton (2003)	NA
-Dolichoderinae	Chronoxenus	graft sister to tip	Bothriomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Arnoldius	graft sister to clade	Bothriomyrmex,Chronoxenus	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Loweriella	graft sister to clade	Arnoldius,Chronoxenus	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Ravavy	graft sister to tip	Loweriella	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Aptinoma	graft sister to tip	Tapinoma	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Nebothriomyrmex	graft sister to tip	Anonychomyrma	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Doleromyrma	graft sister to clade	Anonychomyrma,Nebothriomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Ecphorella	graft within clade random	Tapinoma,Technomyrmex	1	1	0.1	0.9	TRUE	TRUE	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
-Dolichoderinae	Anillidris	graft within clade random	Leptomyrmex,Froggattella	1	1	0.1	0.9	TRUE	TRUE	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Bothriomyrmex	graft sister to clade	Tapinoma,Technomyrmex	1	1	0.8	0.9	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Loweriella	graft sister to tip	Bothriomyrmex	1	1	0.6	0.7	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Ravavy	graft sister to tip	Loweriella	1	1	0.7	0.8	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Aptinoma	graft sister to clade	Liometopum,Tapinoma	1	1	0.1	0.9	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Ecphorella	graft within clade random	Aptinoma,Tapinoma	1	1	0.1	0.9	TRUE	TRUE	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Doleromyrma	graft sister to clade	Papyrius,Iridomyrmex	1	1	0.1	0.9	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Nebothriomyrmex	graft sister to clade	Doleromyrma,Iridomyrmex	1	1	0.1	0.9	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Anillidris	graft sister to tip	Leptomyrmex	1	1	0.8	0.9	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
+Dolichoderinae	Paranillidris	graft sister to tip	Anillidris	1	1	0.8	0.9	NA	NA	Lieberman et al (2026)	https://doi.org/10.1111/syen.70073
 Agroecomyrmecinae	Ankylomyrma	graft sister to tip	Tatuidris	1	1	0.4	0.6	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
 Ponerine	Belonopelta	graft sister to tip	Thaumatomyrmex	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
 Ponerine	Wadeura	graft sister to tip	Parvaponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399

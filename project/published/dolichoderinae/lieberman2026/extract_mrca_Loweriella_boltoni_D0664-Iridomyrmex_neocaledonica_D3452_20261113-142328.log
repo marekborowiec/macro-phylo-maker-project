@@ -1,0 +1,26 @@
+=== Genus extraction log: clade | 2026-11-13 14:23:28 ===
+
+┌──────────┐
+│ Settings │
+└──────────┘
+resolve_polytomies: TRUE
+force_positive_lengths: TRUE
+clean: none
+nonmono: prune_extras
+outgroup: sister_one
+seed: 42
+
+┌──────────┐
+│ Input │
+└──────────┘
+tips_in: 126
+Preprocess: polytomies=TRUE, positive_lengths=TRUE
+Ingroup (MRCA of anchors) size: 125
+Outgroup (sister_one): Aneuretus_simoni_EX1611 (min distance=1.766846)
+
+┌──────────┐
+│ Output │
+└──────────┘
+ingroup_out: 125
+tips_out (final tree): 126
+Wrote tree: /home/marek/new-ant-megatree/macro-phylo-maker-project/project/published/dolichoderinae/lieberman2026/extract_mrca_Loweriella_boltoni_D0664-Iridomyrmex_neocaledonica_D3452_20261113-142328_with_outgroup.tre
