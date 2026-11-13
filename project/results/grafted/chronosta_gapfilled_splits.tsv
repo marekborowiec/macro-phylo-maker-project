@@ -6,7 +6,6 @@ atti_Lenomyrmex_s0	Colobostruma_biconvexa	2	1	1
 atti_Acromyrmex_s1	Acromyrmex_heyeri	1	2	1
 atti_Sericomyrmex_s1	Sericomyrmex_amabilis	1	2	1
 atti_Myrmicocrypta_s1	Myrmicocrypta_buenzlii	1	1	1
-atti_Allomerus_s0	Wasmannia_auropunctata	1	1	1
 atti_Basiceros_s0	Eurhopalothrix_gravis	1	1	1
 atti_Pilotrochus_s0	Phalacromyrmex_fugax	1	1	1
 atti_Tranopelta_s0	Lachnomyrmex_scrobiculatus	2	1	1
@@ -364,10 +363,9 @@ zalla_Solenopsis_s3	Tropidomyrmex_elianae	2	1	4
 zalla_Syllophopsis_s1	Erromyrma_latinodis	9	1	1
 zalla_Tranopelta_s0	Tranopelta_gilva	1	1	1
 zalla_Blepharidatta_s1	Diaphoromyrma_sofiae	2	1	1
-zalla_Allomerus_s1	Wasmannia_auropunctata	1	1	1
 zalla_Daceton_s0	Lenomyrmex_colwelli	6	1	1
 zalla_Apterostigma_s1	Apterostigma_steigeri	1	2	1
-zalla_Myrmicocrypta_s1	Myrmicocrypta_infuscata	2	1	1
+zalla_Myrmicocrypta_s1	Myrmicocrypta_buenzlii	1	1	1
 zalla_Cyphomyrmex_s0	Cyphomyrmex_minutus	1	2	1
 zalla_Mycetomoellerius_s1	Mycetomoellerius_urichii	1	2	3
 zalla_Mycetomoellerius_s2	Mycetomoellerius_jamaicensis	1	2	3

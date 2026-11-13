@@ -5,7 +5,6 @@ ambl_Stigmatomma_s1	atti_Lenomyrmex_s0	0
 ambl_Stigmatomma_s1	atti_Acromyrmex_s1	0
 ambl_Stigmatomma_s1	atti_Sericomyrmex_s1	0
 ambl_Stigmatomma_s1	atti_Myrmicocrypta_s1	0
-ambl_Stigmatomma_s1	atti_Allomerus_s0	0
 ambl_Stigmatomma_s1	atti_Basiceros_s0	0
 ambl_Stigmatomma_s1	atti_Pilotrochus_s0	0
 ambl_Stigmatomma_s1	atti_Tranopelta_s0	0
@@ -363,7 +362,6 @@ ambl_Stigmatomma_s1	zalla_Solenopsis_s3	0
 ambl_Stigmatomma_s1	zalla_Syllophopsis_s1	0
 ambl_Stigmatomma_s1	zalla_Tranopelta_s0	0
 ambl_Stigmatomma_s1	zalla_Blepharidatta_s1	0
-ambl_Stigmatomma_s1	zalla_Allomerus_s1	0
 ambl_Stigmatomma_s1	zalla_Daceton_s0	0
 ambl_Stigmatomma_s1	zalla_Apterostigma_s1	0
 ambl_Stigmatomma_s1	zalla_Myrmicocrypta_s1	0
@@ -414,7 +412,6 @@ ambl_Stigmatomma_s2	atti_Lenomyrmex_s0	0
 ambl_Stigmatomma_s2	atti_Acromyrmex_s1	0
 ambl_Stigmatomma_s2	atti_Sericomyrmex_s1	0
 ambl_Stigmatomma_s2	atti_Myrmicocrypta_s1	0
-ambl_Stigmatomma_s2	atti_Allomerus_s0	0
 ambl_Stigmatomma_s2	atti_Basiceros_s0	0
 ambl_Stigmatomma_s2	atti_Pilotrochus_s0	0
 ambl_Stigmatomma_s2	atti_Tranopelta_s0	0
@@ -772,7 +769,6 @@ ambl_Stigmatomma_s2	zalla_Solenopsis_s3	0
 ambl_Stigmatomma_s2	zalla_Syllophopsis_s1	0
 ambl_Stigmatomma_s2	zalla_Tranopelta_s0	0
 ambl_Stigmatomma_s2	zalla_Blepharidatta_s1	0
-ambl_Stigmatomma_s2	zalla_Allomerus_s1	0
 ambl_Stigmatomma_s2	zalla_Daceton_s0	0
 ambl_Stigmatomma_s2	zalla_Apterostigma_s1	0
 ambl_Stigmatomma_s2	zalla_Myrmicocrypta_s1	0
@@ -822,7 +818,6 @@ ambl_Amblyopone_s0	atti_Lenomyrmex_s0	0
 ambl_Amblyopone_s0	atti_Acromyrmex_s1	0
 ambl_Amblyopone_s0	atti_Sericomyrmex_s1	0
 ambl_Amblyopone_s0	atti_Myrmicocrypta_s1	0
-ambl_Amblyopone_s0	atti_Allomerus_s0	0
 ambl_Amblyopone_s0	atti_Basiceros_s0	0
 ambl_Amblyopone_s0	atti_Pilotrochus_s0	0
 ambl_Amblyopone_s0	atti_Tranopelta_s0	0
@@ -1180,7 +1175,6 @@ ambl_Amblyopone_s0	zalla_Solenopsis_s3	0
 ambl_Amblyopone_s0	zalla_Syllophopsis_s1	0
 ambl_Amblyopone_s0	zalla_Tranopelta_s0	0
 ambl_Amblyopone_s0	zalla_Blepharidatta_s1	0
-ambl_Amblyopone_s0	zalla_Allomerus_s1	0
 ambl_Amblyopone_s0	zalla_Daceton_s0	0
 ambl_Amblyopone_s0	zalla_Apterostigma_s1	0
 ambl_Amblyopone_s0	zalla_Myrmicocrypta_s1	0
@@ -1229,7 +1223,6 @@ ambl_Amblyopone_s0	zalla_Pheidole_s24	0
 atti_Lenomyrmex_s0	atti_Acromyrmex_s1	0
 atti_Lenomyrmex_s0	atti_Sericomyrmex_s1	0
 atti_Lenomyrmex_s0	atti_Myrmicocrypta_s1	0
-atti_Lenomyrmex_s0	atti_Allomerus_s0	0
 atti_Lenomyrmex_s0	atti_Basiceros_s0	0
 atti_Lenomyrmex_s0	atti_Pilotrochus_s0	0
 atti_Lenomyrmex_s0	atti_Tranopelta_s0	0
@@ -1587,7 +1580,6 @@ atti_Lenomyrmex_s0	zalla_Solenopsis_s3	0
 atti_Lenomyrmex_s0	zalla_Syllophopsis_s1	0
 atti_Lenomyrmex_s0	zalla_Tranopelta_s0	0
 atti_Lenomyrmex_s0	zalla_Blepharidatta_s1	0
-atti_Lenomyrmex_s0	zalla_Allomerus_s1	0
 atti_Lenomyrmex_s0	zalla_Daceton_s0	1
 atti_Lenomyrmex_s0	zalla_Apterostigma_s1	0
 atti_Lenomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -1635,7 +1627,6 @@ atti_Lenomyrmex_s0	zalla_Pheidole_s23	0
 atti_Lenomyrmex_s0	zalla_Pheidole_s24	0
 atti_Acromyrmex_s1	atti_Sericomyrmex_s1	0
 atti_Acromyrmex_s1	atti_Myrmicocrypta_s1	0
-atti_Acromyrmex_s1	atti_Allomerus_s0	0
 atti_Acromyrmex_s1	atti_Basiceros_s0	0
 atti_Acromyrmex_s1	atti_Pilotrochus_s0	0
 atti_Acromyrmex_s1	atti_Tranopelta_s0	0
@@ -1993,7 +1984,6 @@ atti_Acromyrmex_s1	zalla_Solenopsis_s3	0
 atti_Acromyrmex_s1	zalla_Syllophopsis_s1	0
 atti_Acromyrmex_s1	zalla_Tranopelta_s0	0
 atti_Acromyrmex_s1	zalla_Blepharidatta_s1	0
-atti_Acromyrmex_s1	zalla_Allomerus_s1	0
 atti_Acromyrmex_s1	zalla_Daceton_s0	0
 atti_Acromyrmex_s1	zalla_Apterostigma_s1	0
 atti_Acromyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -2040,7 +2030,6 @@ atti_Acromyrmex_s1	zalla_Pheidole_s22	0
 atti_Acromyrmex_s1	zalla_Pheidole_s23	0
 atti_Acromyrmex_s1	zalla_Pheidole_s24	0
 atti_Sericomyrmex_s1	atti_Myrmicocrypta_s1	0
-atti_Sericomyrmex_s1	atti_Allomerus_s0	0
 atti_Sericomyrmex_s1	atti_Basiceros_s0	0
 atti_Sericomyrmex_s1	atti_Pilotrochus_s0	0
 atti_Sericomyrmex_s1	atti_Tranopelta_s0	0
@@ -2398,7 +2387,6 @@ atti_Sericomyrmex_s1	zalla_Solenopsis_s3	0
 atti_Sericomyrmex_s1	zalla_Syllophopsis_s1	0
 atti_Sericomyrmex_s1	zalla_Tranopelta_s0	0
 atti_Sericomyrmex_s1	zalla_Blepharidatta_s1	0
-atti_Sericomyrmex_s1	zalla_Allomerus_s1	0
 atti_Sericomyrmex_s1	zalla_Daceton_s0	0
 atti_Sericomyrmex_s1	zalla_Apterostigma_s1	0
 atti_Sericomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -2444,7 +2432,6 @@ atti_Sericomyrmex_s1	zalla_Pheidole_s14	0
 atti_Sericomyrmex_s1	zalla_Pheidole_s22	0
 atti_Sericomyrmex_s1	zalla_Pheidole_s23	0
 atti_Sericomyrmex_s1	zalla_Pheidole_s24	0
-atti_Myrmicocrypta_s1	atti_Allomerus_s0	0
 atti_Myrmicocrypta_s1	atti_Basiceros_s0	0
 atti_Myrmicocrypta_s1	atti_Pilotrochus_s0	0
 atti_Myrmicocrypta_s1	atti_Tranopelta_s0	0
@@ -2802,7 +2789,6 @@ atti_Myrmicocrypta_s1	zalla_Solenopsis_s3	0
 atti_Myrmicocrypta_s1	zalla_Syllophopsis_s1	0
 atti_Myrmicocrypta_s1	zalla_Tranopelta_s0	0
 atti_Myrmicocrypta_s1	zalla_Blepharidatta_s1	0
-atti_Myrmicocrypta_s1	zalla_Allomerus_s1	0
 atti_Myrmicocrypta_s1	zalla_Daceton_s0	0
 atti_Myrmicocrypta_s1	zalla_Apterostigma_s1	0
 atti_Myrmicocrypta_s1	zalla_Myrmicocrypta_s1	1
@@ -2848,409 +2834,6 @@ atti_Myrmicocrypta_s1	zalla_Pheidole_s14	0
 atti_Myrmicocrypta_s1	zalla_Pheidole_s22	0
 atti_Myrmicocrypta_s1	zalla_Pheidole_s23	0
 atti_Myrmicocrypta_s1	zalla_Pheidole_s24	0
-atti_Allomerus_s0	atti_Basiceros_s0	0
-atti_Allomerus_s0	atti_Pilotrochus_s0	0
-atti_Allomerus_s0	atti_Tranopelta_s0	0
-atti_Allomerus_s0	atti_Pheidole_s1	0
-atti_Allomerus_s0	atti_Cephalotes_s0	0
-atti_Allomerus_s0	atti2_Sericomyrmex_s0	0
-atti_Allomerus_s0	atti2_Mycetomoellerius_s1	0
-atti_Allomerus_s0	atti2_Mycetagroicus_s0	0
-atti_Allomerus_s0	atti3_Pheidole_s1	0
-atti_Allomerus_s0	atti3_Lenomyrmex_s0	0
-atti_Allomerus_s0	atti3_Myrmicocrypta_s1	0
-atti_Allomerus_s0	atti3_Sericomyrmex_s1	0
-atti_Allomerus_s0	atti3_Acromyrmex_s1	0
-atti_Allomerus_s0	bakb_Trachymyrmex_s0	0
-atti_Allomerus_s0	bakb_Solenopsis_s0	0
-atti_Allomerus_s0	bakb_Adelomyrmex_s0	0
-atti_Allomerus_s0	bakb_Ocymyrmex_s0	0
-atti_Allomerus_s0	bakb_Kartidris_s0	0
-atti_Allomerus_s0	bakb_Harpagoxenus_s0	0
-atti_Allomerus_s0	bakb_Strongylognathus_s0	0
-atti_Allomerus_s0	bakb_Diplomorium_s0	0
-atti_Allomerus_s0	bakb_Goniomma_s0	0
-atti_Allomerus_s0	bakb_Opisthopsis_s0	0
-atti_Allomerus_s0	bakb_Echinopla_s0	0
-atti_Allomerus_s0	bakb_Cataglyphis_s0	0
-atti_Allomerus_s0	bakb_Nothomyrmecia_s0	0
-atti_Allomerus_s0	bakb_Anonychomyrma_s0	0
-atti_Allomerus_s0	bakb_Dorymyrmex_s0	0
-atti_Allomerus_s0	bakb_Cheliomyrmex_s0	0
-atti_Allomerus_s0	bakb_Dinoponera_s0	0
-atti_Allomerus_s0	bakb_Onychomyrmex_s0	0
-atti_Allomerus_s0	basi_Basiceros_s1	0
-atti_Allomerus_s0	brach_Brachymyrmex_s1	0
-atti_Allomerus_s0	camp_Calomyrmex_s1	0
-atti_Allomerus_s0	camp_Polyrhachis_s2	0
-atti_Allomerus_s0	camp_Polyrhachis_s4	0
-atti_Allomerus_s0	camp_Polyrhachis_s5	0
-atti_Allomerus_s0	cata_Cataglyphis_s1	0
-atti_Allomerus_s0	ceph_Cephalotes_s1	0
-atti_Allomerus_s0	ceph_Cephalotes_s2	0
-atti_Allomerus_s0	crea_Crematogaster_s1	0
-atti_Allomerus_s0	crea_Crematogaster_s2	0
-atti_Allomerus_s0	crem_Cardiocondyla_s0	0
-atti_Allomerus_s0	crem_Poecilomyrma_s0	0
-atti_Allomerus_s0	crem_Ancyridris_s0	0
-atti_Allomerus_s0	crem_Crematogaster_s1	0
-atti_Allomerus_s0	crem_Crematogaster_s2	0
-atti_Allomerus_s0	crem_Crematogaster_s4	0
-atti_Allomerus_s0	crem_Crematogaster_s5	0
-atti_Allomerus_s0	crem_Adlerzia_s0	0
-atti_Allomerus_s0	crem_Carebara_s1	0
-atti_Allomerus_s0	crem_Tetramorium_s1	0
-atti_Allomerus_s0	crem_Cyphoidris_s0	0
-atti_Allomerus_s0	cren_Crematogaster_s1	0
-atti_Allomerus_s0	cres_Crematogaster_s0	0
-atti_Allomerus_s0	cret_Crematogaster_s1	0
-atti_Allomerus_s0	cret_Crematogaster_s2	0
-atti_Allomerus_s0	doli_Technomyrmex_s0	0
-atti_Allomerus_s0	doli_Bothriomyrmex_s1	0
-atti_Allomerus_s0	doli_Azteca_s1	0
-atti_Allomerus_s0	doli_Linepithema_s0	0
-atti_Allomerus_s0	doli_Anonychomyrma_s1	0
-atti_Allomerus_s0	dory_Acanthostichus_s0	0
-atti_Allomerus_s0	dory_Eciton_s1	0
-atti_Allomerus_s0	dory_Dorylus_s2	0
-atti_Allomerus_s0	dory_Dorylus_s3	0
-atti_Allomerus_s0	dory_Ooceraea_s1	0
-atti_Allomerus_s0	dory_Parasyscia_s1	0
-atti_Allomerus_s0	ecta_Poneracantha_s1	0
-atti_Allomerus_s0	ecta_Gnamptogenys_s1	0
-atti_Allomerus_s0	ecta_Gnamptogenys_s2	0
-atti_Allomerus_s0	fori_Bajcaridris_s0	0
-atti_Allomerus_s0	fori_Formica_s1	0
-atti_Allomerus_s0	fori_Acropyga_s0	0
-atti_Allomerus_s0	fori_Lepisiota_s0	0
-atti_Allomerus_s0	fori_Aphomomyrmex_s0	0
-atti_Allomerus_s0	fori_Anoplolepis_s0	0
-atti_Allomerus_s0	fori_Calomyrmex_s1	0
-atti_Allomerus_s0	fori_Camponotus_s1	0
-atti_Allomerus_s0	fori_Camponotus_s2	0
-atti_Allomerus_s0	fori_Colobopsis_s1	0
-atti_Allomerus_s0	fori_Teratomyrmex_s0	0
-atti_Allomerus_s0	fori_Pseudonotoncus_s0	0
-atti_Allomerus_s0	form_Polyergus_s0	0
-atti_Allomerus_s0	lasi_Paraparatrechina_s1	0
-atti_Allomerus_s0	lasi_Nylanderia_s1	0
-atti_Allomerus_s0	lasi_Nylanderia_s2	0
-atti_Allomerus_s0	lasi2_Nylanderia_s1	0
-atti_Allomerus_s0	lasi2_Nylanderia_s4	0
-atti_Allomerus_s0	lasi2_Nylanderia_s6	0
-atti_Allomerus_s0	lasi2_Nylanderia_s7	0
-atti_Allomerus_s0	lasi2_Nylanderia_s8	0
-atti_Allomerus_s0	lasi2_Nylanderia_s9	0
-atti_Allomerus_s0	mami_Prionopelta_s0	0
-atti_Allomerus_s0	mami_Mystrium_s1	0
-atti_Allomerus_s0	mami_Simopone_s0	0
-atti_Allomerus_s0	mami_Tetraponera_s2	0
-atti_Allomerus_s0	mami_Tetraponera_s3	0
-atti_Allomerus_s0	mami_Tetraponera_s4	0
-atti_Allomerus_s0	mami_Technomyrmex_s1	0
-atti_Allomerus_s0	mami_Technomyrmex_s2	0
-atti_Allomerus_s0	mami_Camponotus_s0	0
-atti_Allomerus_s0	mami_Lepisiota_s0	0
-atti_Allomerus_s0	mami_Nylanderia_s0	0
-atti_Allomerus_s0	mami_Paratrechina_s0	0
-atti_Allomerus_s0	mami_Paraparatrechina_s0	0
-atti_Allomerus_s0	mami_Aphaenogaster_s0	0
-atti_Allomerus_s0	mami_Pheidole_s1	0
-atti_Allomerus_s0	mami_Strumigenys_s1	0
-atti_Allomerus_s0	mami_Strumigenys_s2	0
-atti_Allomerus_s0	mami_Strumigenys_s3	0
-atti_Allomerus_s0	mami_Strumigenys_s4	0
-atti_Allomerus_s0	mami_Strumigenys_s5	0
-atti_Allomerus_s0	mami_Strumigenys_s7	0
-atti_Allomerus_s0	mami_Strumigenys_s9	0
-atti_Allomerus_s0	mami_Strumigenys_s10	0
-atti_Allomerus_s0	mami_Strumigenys_s12	0
-atti_Allomerus_s0	mami_Strumigenys_s14	0
-atti_Allomerus_s0	mami_Strumigenys_s16	0
-atti_Allomerus_s0	mami_Strumigenys_s17	0
-atti_Allomerus_s0	mami_Syllophopsis_s0	0
-atti_Allomerus_s0	mami_Monomorium_s4	0
-atti_Allomerus_s0	mami_Monomorium_s6	0
-atti_Allomerus_s0	mami_Monomorium_s7	0
-atti_Allomerus_s0	mami_Monomorium_s3	0
-atti_Allomerus_s0	mami_Tetramorium_s2	0
-atti_Allomerus_s0	mami_Tetramorium_s4	0
-atti_Allomerus_s0	mami_Tetramorium_s6	0
-atti_Allomerus_s0	mami_Tetramorium_s8	0
-atti_Allomerus_s0	mami_Tetramorium_s9	0
-atti_Allomerus_s0	mami_Carebara_s0	0
-atti_Allomerus_s0	mami_Nesomyrmex_s0	0
-atti_Allomerus_s0	mami_Cataulacus_s0	0
-atti_Allomerus_s0	mami_Meranoplus_s0	0
-atti_Allomerus_s0	mami_Crematogaster_s1	0
-atti_Allomerus_s0	mami_Crematogaster_s2	0
-atti_Allomerus_s0	melo_s0	0
-atti_Allomerus_s0	mycr_Mycocepurus_s0	0
-atti_Allomerus_s0	mycr_Myrmicocrypta_s1	0
-atti_Allomerus_s0	mymi_Myrmica_s5	0
-atti_Allomerus_s0	mymi_Myrmica_s6	0
-atti_Allomerus_s0	mymi_Myrmica_s9	0
-atti_Allomerus_s0	mymi_Myrmica_s10	0
-atti_Allomerus_s0	mymi_Myrmica_s8	0
-atti_Allomerus_s0	mymi_Myrmica_s11	0
-atti_Allomerus_s0	mymi_Myrmica_s13	0
-atti_Allomerus_s0	mymi_Myrmica_s14	0
-atti_Allomerus_s0	myre_Myrmecia_s2	0
-atti_Allomerus_s0	myre_Myrmecia_s3	0
-atti_Allomerus_s0	myre_Myrmecia_s4	0
-atti_Allomerus_s0	myre_Myrmecia_s5	0
-atti_Allomerus_s0	myre_Myrmecia_s6	0
-atti_Allomerus_s0	myrm_Myrmica_s2	0
-atti_Allomerus_s0	myrm_Myrmica_s3	0
-atti_Allomerus_s0	myrm_Pogonomyrmex_s1	0
-atti_Allomerus_s0	myrm_Pogonomyrmex_s2	0
-atti_Allomerus_s0	myrm_Adelomyrmex_s0	0
-atti_Allomerus_s0	myrm_Monomorium_s0	0
-atti_Allomerus_s0	myrm_Basiceros_s0	0
-atti_Allomerus_s0	myrm_Pheidole_s1	0
-atti_Allomerus_s0	myrm_Ocymyrmex_s0	0
-atti_Allomerus_s0	myrm_Nesomyrmex_s0	0
-atti_Allomerus_s0	myrm_Cataulacus_s0	0
-atti_Allomerus_s0	myrm_Carebara_s0	0
-atti_Allomerus_s0	myrm_Tetramorium_s0	0
-atti_Allomerus_s0	myrm_Crematogaster_s1	0
-atti_Allomerus_s0	myrm_Adlerzia_s0	0
-atti_Allomerus_s0	myrm_Pristomyrmex_s0	0
-atti_Allomerus_s0	myrm_Vombisidris_s0	0
-atti_Allomerus_s0	myrm_Harpagoxenus_s0	0
-atti_Allomerus_s0	ocym_Ocymyrmex_s1	0
-atti_Allomerus_s0	phei_Pheidole_s1	0
-atti_Allomerus_s0	phei_Pheidole_s3	0
-atti_Allomerus_s0	phei_Pheidole_s4	0
-atti_Allomerus_s0	pogo_Pogonomyrmex_s1	0
-atti_Allomerus_s0	pogo_Pogonomyrmex_s2	0
-atti_Allomerus_s0	pogo_Pogonomyrmex_s3	0
-atti_Allomerus_s0	pogo_Pogonomyrmex_s4	0
-atti_Allomerus_s0	polyr_Polyrhachis_s1	0
-atti_Allomerus_s0	polyr_Polyrhachis_s2	0
-atti_Allomerus_s0	polyr_Polyrhachis_s3	0
-atti_Allomerus_s0	polyr_Polyrhachis_s4	0
-atti_Allomerus_s0	polyr_Polyrhachis_s6	0
-atti_Allomerus_s0	polyr_Polyrhachis_s7	0
-atti_Allomerus_s0	pone_Leptogenys_s1	0
-atti_Allomerus_s0	pone_Leptogenys_s2	0
-atti_Allomerus_s0	pone_Hypoponera_s1	0
-atti_Allomerus_s0	pone_Simopelta_s1	0
-atti_Allomerus_s0	pseu_Tetraponera_s1	0
-atti_Allomerus_s0	pseu_Tetraponera_s2	0
-atti_Allomerus_s0	pseu_Tetraponera_s3	0
-atti_Allomerus_s0	pseu2_Pseudomyrmex_s1	0
-atti_Allomerus_s0	seco_Dilobocondyla_s0	0
-atti_Allomerus_s0	seri_Sericomyrmex_s1	0
-atti_Allomerus_s0	sten_Novomessor_s0	0
-atti_Allomerus_s0	stru_Strumigenys_s1	0
-atti_Allomerus_s0	tapi_Tapinoma_s0	0
-atti_Allomerus_s0	temn_Temnothorax_s1	0
-atti_Allomerus_s0	temn_Temnothorax_s3	0
-atti_Allomerus_s0	temn_Temnothorax_s4	0
-atti_Allomerus_s0	temn_Temnothorax_s6	0
-atti_Allomerus_s0	temn_Temnothorax_s7	0
-atti_Allomerus_s0	vero_Veromessor_s2	0
-atti_Allomerus_s0	vero_Veromessor_s3	0
-atti_Allomerus_s0	zalla_Discothyrea_s0	0
-atti_Allomerus_s0	zalla_Amblyopone_s0	0
-atti_Allomerus_s0	zalla_Stigmatomma_s1	0
-atti_Allomerus_s0	zalla_Stigmatomma_s2	0
-atti_Allomerus_s0	zalla_Mystrium_s1	0
-atti_Allomerus_s0	zalla_Paraponera_s0	0
-atti_Allomerus_s0	zalla_Platythyrea_s1	0
-atti_Allomerus_s0	zalla_Mayaponera_s0	0
-atti_Allomerus_s0	zalla_Pachycondyla_s1	0
-atti_Allomerus_s0	zalla_Harpegnathos_s0	0
-atti_Allomerus_s0	zalla_Myopias_s0	0
-atti_Allomerus_s0	zalla_Leptogenys_s2	0
-atti_Allomerus_s0	zalla_Leptogenys_s3	0
-atti_Allomerus_s0	zalla_Leptogenys_s4	0
-atti_Allomerus_s0	zalla_Brachyponera_s1	0
-atti_Allomerus_s0	zalla_Streblognathus_s0	0
-atti_Allomerus_s0	zalla_Xiphopelta_s0	0
-atti_Allomerus_s0	zalla_Odontomachus_s1	0
-atti_Allomerus_s0	zalla_Odontomachus_s2	0
-atti_Allomerus_s0	zalla_Odontomachus_s3	0
-atti_Allomerus_s0	zalla_Leptanilloides_s2	0
-atti_Allomerus_s0	zalla_Leptanilloides_s3	0
-atti_Allomerus_s0	zalla_Simopone_s1	0
-atti_Allomerus_s0	zalla_Simopone_s2	0
-atti_Allomerus_s0	zalla_Cylindromyrmex_s0	0
-atti_Allomerus_s0	zalla_Parasyscia_s0	0
-atti_Allomerus_s0	zalla_Lioponera_s0	0
-atti_Allomerus_s0	zalla_Yunodorylus_s0	0
-atti_Allomerus_s0	zalla_Aenictus_s0	0
-atti_Allomerus_s0	zalla_Dorylus_s1	0
-atti_Allomerus_s0	zalla_Dorylus_s2	0
-atti_Allomerus_s0	zalla_Eciton_s1	0
-atti_Allomerus_s0	zalla_Neivamyrmex_s0	0
-atti_Allomerus_s0	zalla_Technomyrmex_s2	0
-atti_Allomerus_s0	zalla_Technomyrmex_s3	0
-atti_Allomerus_s0	zalla_Technomyrmex_s4	0
-atti_Allomerus_s0	zalla_Bothriomyrmex_s1	0
-atti_Allomerus_s0	zalla_Azteca_s1	0
-atti_Allomerus_s0	zalla_Dorymyrmex_s1	0
-atti_Allomerus_s0	zalla_Philidris_s0	0
-atti_Allomerus_s0	zalla_Froggattella_s1	0
-atti_Allomerus_s0	zalla_Linepithema_s2	0
-atti_Allomerus_s0	zalla_Linepithema_s3	0
-atti_Allomerus_s0	zalla_Myrmecia_s8	0
-atti_Allomerus_s0	zalla_Myrmecia_s9	0
-atti_Allomerus_s0	zalla_Myrmecia_s3	0
-atti_Allomerus_s0	zalla_Myrmecia_s5	0
-atti_Allomerus_s0	zalla_Myrmecia_s6	0
-atti_Allomerus_s0	zalla_Myrmecia_s10	0
-atti_Allomerus_s0	zalla_Myrmecia_s11	0
-atti_Allomerus_s0	zalla_Myrmecia_s12	0
-atti_Allomerus_s0	zalla_Tetraponera_s1	0
-atti_Allomerus_s0	zalla_Lasius_s1	0
-atti_Allomerus_s0	zalla_Lasius_s2	0
-atti_Allomerus_s0	zalla_Myrmecocystus_s1	0
-atti_Allomerus_s0	zalla_Myrmecocystus_s2	0
-atti_Allomerus_s0	zalla_Myrmecocystus_s3	0
-atti_Allomerus_s0	zalla_Zatania_s1	0
-atti_Allomerus_s0	zalla_Paraparatrechina_s1	0
-atti_Allomerus_s0	zalla_Nylanderia_s1	0
-atti_Allomerus_s0	zalla_Nylanderia_s4	0
-atti_Allomerus_s0	zalla_Nylanderia_s5	0
-atti_Allomerus_s0	zalla_Nylanderia_s6	0
-atti_Allomerus_s0	zalla_Nylanderia_s3	0
-atti_Allomerus_s0	zalla_Teratomyrmex_s0	0
-atti_Allomerus_s0	zalla_Pseudonotoncus_s0	0
-atti_Allomerus_s0	zalla_Proformica_s0	0
-atti_Allomerus_s0	zalla_Cataglyphis_s0	0
-atti_Allomerus_s0	zalla_Iberoformica_s0	0
-atti_Allomerus_s0	zalla_Formica_s1	0
-atti_Allomerus_s0	zalla_Formica_s2	0
-atti_Allomerus_s0	zalla_Formica_s5	0
-atti_Allomerus_s0	zalla_Formica_s6	0
-atti_Allomerus_s0	zalla_Formica_s4	0
-atti_Allomerus_s0	zalla_Anoplolepis_s0	0
-atti_Allomerus_s0	zalla_Lepisiota_s0	0
-atti_Allomerus_s0	zalla_Opisthopsis_s1	0
-atti_Allomerus_s0	zalla_Colobopsis_s1	0
-atti_Allomerus_s0	zalla_Polyrhachis_s2	0
-atti_Allomerus_s0	zalla_Polyrhachis_s3	0
-atti_Allomerus_s0	zalla_Polyrhachis_s11	0
-atti_Allomerus_s0	zalla_Polyrhachis_s12	0
-atti_Allomerus_s0	zalla_Polyrhachis_s5	0
-atti_Allomerus_s0	zalla_Polyrhachis_s6	0
-atti_Allomerus_s0	zalla_Polyrhachis_s7	0
-atti_Allomerus_s0	zalla_Polyrhachis_s8	0
-atti_Allomerus_s0	zalla_Polyrhachis_s9	0
-atti_Allomerus_s0	zalla_Polyrhachis_s10	0
-atti_Allomerus_s0	zalla_Camponotus_s2	0
-atti_Allomerus_s0	zalla_Camponotus_s4	0
-atti_Allomerus_s0	zalla_Camponotus_s6	0
-atti_Allomerus_s0	zalla_Camponotus_s8	0
-atti_Allomerus_s0	zalla_Camponotus_s10	0
-atti_Allomerus_s0	zalla_Camponotus_s11	0
-atti_Allomerus_s0	zalla_Rhytidoponera_s0	0
-atti_Allomerus_s0	zalla_Ectatomma_s1	0
-atti_Allomerus_s0	zalla_Myrmica_s2	0
-atti_Allomerus_s0	zalla_Myrmica_s6	0
-atti_Allomerus_s0	zalla_Myrmica_s7	0
-atti_Allomerus_s0	zalla_Myrmica_s8	0
-atti_Allomerus_s0	zalla_Myrmica_s9	0
-atti_Allomerus_s0	zalla_Myrmica_s10	0
-atti_Allomerus_s0	zalla_Patagonomyrmex_s0	0
-atti_Allomerus_s0	zalla_Hylomyrma_s0	0
-atti_Allomerus_s0	zalla_Pogonomyrmex_s2	0
-atti_Allomerus_s0	zalla_Pogonomyrmex_s3	0
-atti_Allomerus_s0	zalla_Pogonomyrmex_s4	0
-atti_Allomerus_s0	zalla_Pogonomyrmex_s5	0
-atti_Allomerus_s0	zalla_Pogonomyrmex_s6	0
-atti_Allomerus_s0	zalla_Pogonomyrmex_s7	0
-atti_Allomerus_s0	zalla_Stenamma_s4	0
-atti_Allomerus_s0	zalla_Stenamma_s5	0
-atti_Allomerus_s0	zalla_Stenamma_s6	0
-atti_Allomerus_s0	zalla_Stenamma_s3	0
-atti_Allomerus_s0	zalla_Aphaenogaster_s4	0
-atti_Allomerus_s0	zalla_Aphaenogaster_s5	0
-atti_Allomerus_s0	zalla_Aphaenogaster_s3	0
-atti_Allomerus_s0	zalla_Oxyopomyrmex_s0	0
-atti_Allomerus_s0	zalla_Formicoxenus_s0	0
-atti_Allomerus_s0	zalla_Harpagoxenus_s0	0
-atti_Allomerus_s0	zalla_Temnothorax_s2	0
-atti_Allomerus_s0	zalla_Temnothorax_s3	0
-atti_Allomerus_s0	zalla_Terataner_s0	0
-atti_Allomerus_s0	zalla_Rhopalomastix_s0	0
-atti_Allomerus_s0	zalla_Melissotarsus_s0	0
-atti_Allomerus_s0	zalla_Calyptomyrmex_s0	0
-atti_Allomerus_s0	zalla_Tetramorium_s2	0
-atti_Allomerus_s0	zalla_Tetramorium_s3	0
-atti_Allomerus_s0	zalla_Tetramorium_s5	0
-atti_Allomerus_s0	zalla_Tetramorium_s6	0
-atti_Allomerus_s0	zalla_Mayriella_s0	0
-atti_Allomerus_s0	zalla_Lordomyrma_s0	0
-atti_Allomerus_s0	zalla_Lophomyrmex_s0	0
-atti_Allomerus_s0	zalla_Trichomyrmex_s1	0
-atti_Allomerus_s0	zalla_Carebara_s0	0
-atti_Allomerus_s0	zalla_Cataulacus_s1	0
-atti_Allomerus_s0	zalla_Cataulacus_s2	0
-atti_Allomerus_s0	zalla_Cardiocondyla_s2	0
-atti_Allomerus_s0	zalla_Cardiocondyla_s4	0
-atti_Allomerus_s0	zalla_Cardiocondyla_s5	0
-atti_Allomerus_s0	zalla_Crematogaster_s1	0
-atti_Allomerus_s0	zalla_Crematogaster_s2	0
-atti_Allomerus_s0	zalla_Crematogaster_s3	0
-atti_Allomerus_s0	zalla_Stegomyrmex_s0	0
-atti_Allomerus_s0	zalla_Dolopomyrmex_s0	0
-atti_Allomerus_s0	zalla_Monomorium_s1	0
-atti_Allomerus_s0	zalla_Chelaner_s2	0
-atti_Allomerus_s0	zalla_Chelaner_s3	0
-atti_Allomerus_s0	zalla_Solenopsis_s2	0
-atti_Allomerus_s0	zalla_Solenopsis_s3	0
-atti_Allomerus_s0	zalla_Syllophopsis_s1	0
-atti_Allomerus_s0	zalla_Tranopelta_s0	0
-atti_Allomerus_s0	zalla_Blepharidatta_s1	0
-atti_Allomerus_s0	zalla_Allomerus_s1	1
-atti_Allomerus_s0	zalla_Daceton_s0	0
-atti_Allomerus_s0	zalla_Apterostigma_s1	0
-atti_Allomerus_s0	zalla_Myrmicocrypta_s1	0
-atti_Allomerus_s0	zalla_Cyphomyrmex_s0	0
-atti_Allomerus_s0	zalla_Mycetomoellerius_s1	0
-atti_Allomerus_s0	zalla_Mycetomoellerius_s2	0
-atti_Allomerus_s0	zalla_Paratrachymyrmex_s1	0
-atti_Allomerus_s0	zalla_Acromyrmex_s1	0
-atti_Allomerus_s0	zalla_Acromyrmex_s2	0
-atti_Allomerus_s0	zalla_Rhopalothrix_s0	0
-atti_Allomerus_s0	zalla_Basiceros_s0	0
-atti_Allomerus_s0	zalla_Pilotrochus_s0	0
-atti_Allomerus_s0	zalla_Strumigenys_s1	0
-atti_Allomerus_s0	zalla_Strumigenys_s3	0
-atti_Allomerus_s0	zalla_Strumigenys_s4	0
-atti_Allomerus_s0	zalla_Strumigenys_s6	0
-atti_Allomerus_s0	zalla_Strumigenys_s8	0
-atti_Allomerus_s0	zalla_Strumigenys_s10	0
-atti_Allomerus_s0	zalla_Strumigenys_s11	0
-atti_Allomerus_s0	zalla_Cephalotes_s2	0
-atti_Allomerus_s0	zalla_Cephalotes_s6	0
-atti_Allomerus_s0	zalla_Cephalotes_s7	0
-atti_Allomerus_s0	zalla_Cephalotes_s8	0
-atti_Allomerus_s0	zalla_Cephalotes_s10	0
-atti_Allomerus_s0	zalla_Cephalotes_s12	0
-atti_Allomerus_s0	zalla_Cephalotes_s14	0
-atti_Allomerus_s0	zalla_Cephalotes_s15	0
-atti_Allomerus_s0	zalla_Pheidole_s1	0
-atti_Allomerus_s0	zalla_Pheidole_s16	0
-atti_Allomerus_s0	zalla_Pheidole_s20	0
-atti_Allomerus_s0	zalla_Pheidole_s25	0
-atti_Allomerus_s0	zalla_Pheidole_s26	0
-atti_Allomerus_s0	zalla_Pheidole_s6	0
-atti_Allomerus_s0	zalla_Pheidole_s18	0
-atti_Allomerus_s0	zalla_Pheidole_s19	0
-atti_Allomerus_s0	zalla_Pheidole_s27	0
-atti_Allomerus_s0	zalla_Pheidole_s28	0
-atti_Allomerus_s0	zalla_Pheidole_s29	0
-atti_Allomerus_s0	zalla_Pheidole_s8	0
-atti_Allomerus_s0	zalla_Pheidole_s9	0
-atti_Allomerus_s0	zalla_Pheidole_s13	0
-atti_Allomerus_s0	zalla_Pheidole_s14	0
-atti_Allomerus_s0	zalla_Pheidole_s22	0
-atti_Allomerus_s0	zalla_Pheidole_s23	0
-atti_Allomerus_s0	zalla_Pheidole_s24	0
 atti_Basiceros_s0	atti_Pilotrochus_s0	0
 atti_Basiceros_s0	atti_Tranopelta_s0	0
 atti_Basiceros_s0	atti_Pheidole_s1	0
@@ -3607,7 +3190,6 @@ atti_Basiceros_s0	zalla_Solenopsis_s3	0
 atti_Basiceros_s0	zalla_Syllophopsis_s1	0
 atti_Basiceros_s0	zalla_Tranopelta_s0	0
 atti_Basiceros_s0	zalla_Blepharidatta_s1	0
-atti_Basiceros_s0	zalla_Allomerus_s1	0
 atti_Basiceros_s0	zalla_Daceton_s0	0
 atti_Basiceros_s0	zalla_Apterostigma_s1	0
 atti_Basiceros_s0	zalla_Myrmicocrypta_s1	0
@@ -4008,7 +3590,6 @@ atti_Pilotrochus_s0	zalla_Solenopsis_s3	0
 atti_Pilotrochus_s0	zalla_Syllophopsis_s1	0
 atti_Pilotrochus_s0	zalla_Tranopelta_s0	0
 atti_Pilotrochus_s0	zalla_Blepharidatta_s1	0
-atti_Pilotrochus_s0	zalla_Allomerus_s1	0
 atti_Pilotrochus_s0	zalla_Daceton_s0	0
 atti_Pilotrochus_s0	zalla_Apterostigma_s1	0
 atti_Pilotrochus_s0	zalla_Myrmicocrypta_s1	0
@@ -4408,7 +3989,6 @@ atti_Tranopelta_s0	zalla_Solenopsis_s3	0
 atti_Tranopelta_s0	zalla_Syllophopsis_s1	0
 atti_Tranopelta_s0	zalla_Tranopelta_s0	2
 atti_Tranopelta_s0	zalla_Blepharidatta_s1	1
-atti_Tranopelta_s0	zalla_Allomerus_s1	0
 atti_Tranopelta_s0	zalla_Daceton_s0	0
 atti_Tranopelta_s0	zalla_Apterostigma_s1	0
 atti_Tranopelta_s0	zalla_Myrmicocrypta_s1	0
@@ -4807,7 +4387,6 @@ atti_Pheidole_s1	zalla_Solenopsis_s3	0
 atti_Pheidole_s1	zalla_Syllophopsis_s1	0
 atti_Pheidole_s1	zalla_Tranopelta_s0	0
 atti_Pheidole_s1	zalla_Blepharidatta_s1	0
-atti_Pheidole_s1	zalla_Allomerus_s1	0
 atti_Pheidole_s1	zalla_Daceton_s0	0
 atti_Pheidole_s1	zalla_Apterostigma_s1	0
 atti_Pheidole_s1	zalla_Myrmicocrypta_s1	0
@@ -5205,7 +4784,6 @@ atti_Cephalotes_s0	zalla_Solenopsis_s3	0
 atti_Cephalotes_s0	zalla_Syllophopsis_s1	0
 atti_Cephalotes_s0	zalla_Tranopelta_s0	0
 atti_Cephalotes_s0	zalla_Blepharidatta_s1	0
-atti_Cephalotes_s0	zalla_Allomerus_s1	0
 atti_Cephalotes_s0	zalla_Daceton_s0	0
 atti_Cephalotes_s0	zalla_Apterostigma_s1	0
 atti_Cephalotes_s0	zalla_Myrmicocrypta_s1	0
@@ -5602,7 +5180,6 @@ atti2_Sericomyrmex_s0	zalla_Solenopsis_s3	0
 atti2_Sericomyrmex_s0	zalla_Syllophopsis_s1	0
 atti2_Sericomyrmex_s0	zalla_Tranopelta_s0	0
 atti2_Sericomyrmex_s0	zalla_Blepharidatta_s1	0
-atti2_Sericomyrmex_s0	zalla_Allomerus_s1	0
 atti2_Sericomyrmex_s0	zalla_Daceton_s0	0
 atti2_Sericomyrmex_s0	zalla_Apterostigma_s1	0
 atti2_Sericomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -5998,7 +5575,6 @@ atti2_Mycetomoellerius_s1	zalla_Solenopsis_s3	0
 atti2_Mycetomoellerius_s1	zalla_Syllophopsis_s1	0
 atti2_Mycetomoellerius_s1	zalla_Tranopelta_s0	0
 atti2_Mycetomoellerius_s1	zalla_Blepharidatta_s1	0
-atti2_Mycetomoellerius_s1	zalla_Allomerus_s1	0
 atti2_Mycetomoellerius_s1	zalla_Daceton_s0	0
 atti2_Mycetomoellerius_s1	zalla_Apterostigma_s1	0
 atti2_Mycetomoellerius_s1	zalla_Myrmicocrypta_s1	0
@@ -6393,7 +5969,6 @@ atti2_Mycetagroicus_s0	zalla_Solenopsis_s3	0
 atti2_Mycetagroicus_s0	zalla_Syllophopsis_s1	0
 atti2_Mycetagroicus_s0	zalla_Tranopelta_s0	0
 atti2_Mycetagroicus_s0	zalla_Blepharidatta_s1	0
-atti2_Mycetagroicus_s0	zalla_Allomerus_s1	0
 atti2_Mycetagroicus_s0	zalla_Daceton_s0	0
 atti2_Mycetagroicus_s0	zalla_Apterostigma_s1	0
 atti2_Mycetagroicus_s0	zalla_Myrmicocrypta_s1	0
@@ -6787,7 +6362,6 @@ atti3_Pheidole_s1	zalla_Solenopsis_s3	0
 atti3_Pheidole_s1	zalla_Syllophopsis_s1	0
 atti3_Pheidole_s1	zalla_Tranopelta_s0	0
 atti3_Pheidole_s1	zalla_Blepharidatta_s1	0
-atti3_Pheidole_s1	zalla_Allomerus_s1	0
 atti3_Pheidole_s1	zalla_Daceton_s0	0
 atti3_Pheidole_s1	zalla_Apterostigma_s1	0
 atti3_Pheidole_s1	zalla_Myrmicocrypta_s1	0
@@ -7180,7 +6754,6 @@ atti3_Lenomyrmex_s0	zalla_Solenopsis_s3	0
 atti3_Lenomyrmex_s0	zalla_Syllophopsis_s1	0
 atti3_Lenomyrmex_s0	zalla_Tranopelta_s0	0
 atti3_Lenomyrmex_s0	zalla_Blepharidatta_s1	0
-atti3_Lenomyrmex_s0	zalla_Allomerus_s1	0
 atti3_Lenomyrmex_s0	zalla_Daceton_s0	1
 atti3_Lenomyrmex_s0	zalla_Apterostigma_s1	0
 atti3_Lenomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -7572,7 +7145,6 @@ atti3_Myrmicocrypta_s1	zalla_Solenopsis_s3	0
 atti3_Myrmicocrypta_s1	zalla_Syllophopsis_s1	0
 atti3_Myrmicocrypta_s1	zalla_Tranopelta_s0	0
 atti3_Myrmicocrypta_s1	zalla_Blepharidatta_s1	0
-atti3_Myrmicocrypta_s1	zalla_Allomerus_s1	0
 atti3_Myrmicocrypta_s1	zalla_Daceton_s0	0
 atti3_Myrmicocrypta_s1	zalla_Apterostigma_s1	0
 atti3_Myrmicocrypta_s1	zalla_Myrmicocrypta_s1	1
@@ -7963,7 +7535,6 @@ atti3_Sericomyrmex_s1	zalla_Solenopsis_s3	0
 atti3_Sericomyrmex_s1	zalla_Syllophopsis_s1	0
 atti3_Sericomyrmex_s1	zalla_Tranopelta_s0	0
 atti3_Sericomyrmex_s1	zalla_Blepharidatta_s1	0
-atti3_Sericomyrmex_s1	zalla_Allomerus_s1	0
 atti3_Sericomyrmex_s1	zalla_Daceton_s0	0
 atti3_Sericomyrmex_s1	zalla_Apterostigma_s1	0
 atti3_Sericomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -8353,7 +7924,6 @@ atti3_Acromyrmex_s1	zalla_Solenopsis_s3	0
 atti3_Acromyrmex_s1	zalla_Syllophopsis_s1	0
 atti3_Acromyrmex_s1	zalla_Tranopelta_s0	0
 atti3_Acromyrmex_s1	zalla_Blepharidatta_s1	0
-atti3_Acromyrmex_s1	zalla_Allomerus_s1	0
 atti3_Acromyrmex_s1	zalla_Daceton_s0	0
 atti3_Acromyrmex_s1	zalla_Apterostigma_s1	0
 atti3_Acromyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -8742,7 +8312,6 @@ bakb_Trachymyrmex_s0	zalla_Solenopsis_s3	0
 bakb_Trachymyrmex_s0	zalla_Syllophopsis_s1	0
 bakb_Trachymyrmex_s0	zalla_Tranopelta_s0	0
 bakb_Trachymyrmex_s0	zalla_Blepharidatta_s1	0
-bakb_Trachymyrmex_s0	zalla_Allomerus_s1	0
 bakb_Trachymyrmex_s0	zalla_Daceton_s0	0
 bakb_Trachymyrmex_s0	zalla_Apterostigma_s1	0
 bakb_Trachymyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -9130,7 +8699,6 @@ bakb_Solenopsis_s0	zalla_Solenopsis_s3	0
 bakb_Solenopsis_s0	zalla_Syllophopsis_s1	0
 bakb_Solenopsis_s0	zalla_Tranopelta_s0	0
 bakb_Solenopsis_s0	zalla_Blepharidatta_s1	0
-bakb_Solenopsis_s0	zalla_Allomerus_s1	0
 bakb_Solenopsis_s0	zalla_Daceton_s0	0
 bakb_Solenopsis_s0	zalla_Apterostigma_s1	0
 bakb_Solenopsis_s0	zalla_Myrmicocrypta_s1	0
@@ -9517,7 +9085,6 @@ bakb_Adelomyrmex_s0	zalla_Solenopsis_s3	0
 bakb_Adelomyrmex_s0	zalla_Syllophopsis_s1	0
 bakb_Adelomyrmex_s0	zalla_Tranopelta_s0	0
 bakb_Adelomyrmex_s0	zalla_Blepharidatta_s1	0
-bakb_Adelomyrmex_s0	zalla_Allomerus_s1	0
 bakb_Adelomyrmex_s0	zalla_Daceton_s0	0
 bakb_Adelomyrmex_s0	zalla_Apterostigma_s1	0
 bakb_Adelomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -9903,7 +9470,6 @@ bakb_Ocymyrmex_s0	zalla_Solenopsis_s3	0
 bakb_Ocymyrmex_s0	zalla_Syllophopsis_s1	0
 bakb_Ocymyrmex_s0	zalla_Tranopelta_s0	0
 bakb_Ocymyrmex_s0	zalla_Blepharidatta_s1	0
-bakb_Ocymyrmex_s0	zalla_Allomerus_s1	0
 bakb_Ocymyrmex_s0	zalla_Daceton_s0	0
 bakb_Ocymyrmex_s0	zalla_Apterostigma_s1	0
 bakb_Ocymyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -10288,7 +9854,6 @@ bakb_Kartidris_s0	zalla_Solenopsis_s3	0
 bakb_Kartidris_s0	zalla_Syllophopsis_s1	0
 bakb_Kartidris_s0	zalla_Tranopelta_s0	0
 bakb_Kartidris_s0	zalla_Blepharidatta_s1	0
-bakb_Kartidris_s0	zalla_Allomerus_s1	0
 bakb_Kartidris_s0	zalla_Daceton_s0	0
 bakb_Kartidris_s0	zalla_Apterostigma_s1	0
 bakb_Kartidris_s0	zalla_Myrmicocrypta_s1	0
@@ -10672,7 +10237,6 @@ bakb_Harpagoxenus_s0	zalla_Solenopsis_s3	0
 bakb_Harpagoxenus_s0	zalla_Syllophopsis_s1	0
 bakb_Harpagoxenus_s0	zalla_Tranopelta_s0	0
 bakb_Harpagoxenus_s0	zalla_Blepharidatta_s1	0
-bakb_Harpagoxenus_s0	zalla_Allomerus_s1	0
 bakb_Harpagoxenus_s0	zalla_Daceton_s0	0
 bakb_Harpagoxenus_s0	zalla_Apterostigma_s1	0
 bakb_Harpagoxenus_s0	zalla_Myrmicocrypta_s1	0
@@ -11055,7 +10619,6 @@ bakb_Strongylognathus_s0	zalla_Solenopsis_s3	0
 bakb_Strongylognathus_s0	zalla_Syllophopsis_s1	0
 bakb_Strongylognathus_s0	zalla_Tranopelta_s0	0
 bakb_Strongylognathus_s0	zalla_Blepharidatta_s1	0
-bakb_Strongylognathus_s0	zalla_Allomerus_s1	0
 bakb_Strongylognathus_s0	zalla_Daceton_s0	0
 bakb_Strongylognathus_s0	zalla_Apterostigma_s1	0
 bakb_Strongylognathus_s0	zalla_Myrmicocrypta_s1	0
@@ -11437,7 +11000,6 @@ bakb_Diplomorium_s0	zalla_Solenopsis_s3	0
 bakb_Diplomorium_s0	zalla_Syllophopsis_s1	0
 bakb_Diplomorium_s0	zalla_Tranopelta_s0	0
 bakb_Diplomorium_s0	zalla_Blepharidatta_s1	0
-bakb_Diplomorium_s0	zalla_Allomerus_s1	0
 bakb_Diplomorium_s0	zalla_Daceton_s0	0
 bakb_Diplomorium_s0	zalla_Apterostigma_s1	0
 bakb_Diplomorium_s0	zalla_Myrmicocrypta_s1	0
@@ -11818,7 +11380,6 @@ bakb_Goniomma_s0	zalla_Solenopsis_s3	0
 bakb_Goniomma_s0	zalla_Syllophopsis_s1	0
 bakb_Goniomma_s0	zalla_Tranopelta_s0	0
 bakb_Goniomma_s0	zalla_Blepharidatta_s1	0
-bakb_Goniomma_s0	zalla_Allomerus_s1	0
 bakb_Goniomma_s0	zalla_Daceton_s0	0
 bakb_Goniomma_s0	zalla_Apterostigma_s1	0
 bakb_Goniomma_s0	zalla_Myrmicocrypta_s1	0
@@ -12198,7 +11759,6 @@ bakb_Opisthopsis_s0	zalla_Solenopsis_s3	0
 bakb_Opisthopsis_s0	zalla_Syllophopsis_s1	0
 bakb_Opisthopsis_s0	zalla_Tranopelta_s0	0
 bakb_Opisthopsis_s0	zalla_Blepharidatta_s1	0
-bakb_Opisthopsis_s0	zalla_Allomerus_s1	0
 bakb_Opisthopsis_s0	zalla_Daceton_s0	0
 bakb_Opisthopsis_s0	zalla_Apterostigma_s1	0
 bakb_Opisthopsis_s0	zalla_Myrmicocrypta_s1	0
@@ -12577,7 +12137,6 @@ bakb_Echinopla_s0	zalla_Solenopsis_s3	0
 bakb_Echinopla_s0	zalla_Syllophopsis_s1	0
 bakb_Echinopla_s0	zalla_Tranopelta_s0	0
 bakb_Echinopla_s0	zalla_Blepharidatta_s1	0
-bakb_Echinopla_s0	zalla_Allomerus_s1	0
 bakb_Echinopla_s0	zalla_Daceton_s0	0
 bakb_Echinopla_s0	zalla_Apterostigma_s1	0
 bakb_Echinopla_s0	zalla_Myrmicocrypta_s1	0
@@ -12955,7 +12514,6 @@ bakb_Cataglyphis_s0	zalla_Solenopsis_s3	0
 bakb_Cataglyphis_s0	zalla_Syllophopsis_s1	0
 bakb_Cataglyphis_s0	zalla_Tranopelta_s0	0
 bakb_Cataglyphis_s0	zalla_Blepharidatta_s1	0
-bakb_Cataglyphis_s0	zalla_Allomerus_s1	0
 bakb_Cataglyphis_s0	zalla_Daceton_s0	0
 bakb_Cataglyphis_s0	zalla_Apterostigma_s1	0
 bakb_Cataglyphis_s0	zalla_Myrmicocrypta_s1	0
@@ -13332,7 +12890,6 @@ bakb_Nothomyrmecia_s0	zalla_Solenopsis_s3	0
 bakb_Nothomyrmecia_s0	zalla_Syllophopsis_s1	0
 bakb_Nothomyrmecia_s0	zalla_Tranopelta_s0	0
 bakb_Nothomyrmecia_s0	zalla_Blepharidatta_s1	0
-bakb_Nothomyrmecia_s0	zalla_Allomerus_s1	0
 bakb_Nothomyrmecia_s0	zalla_Daceton_s0	0
 bakb_Nothomyrmecia_s0	zalla_Apterostigma_s1	0
 bakb_Nothomyrmecia_s0	zalla_Myrmicocrypta_s1	0
@@ -13708,7 +13265,6 @@ bakb_Anonychomyrma_s0	zalla_Solenopsis_s3	0
 bakb_Anonychomyrma_s0	zalla_Syllophopsis_s1	0
 bakb_Anonychomyrma_s0	zalla_Tranopelta_s0	0
 bakb_Anonychomyrma_s0	zalla_Blepharidatta_s1	0
-bakb_Anonychomyrma_s0	zalla_Allomerus_s1	0
 bakb_Anonychomyrma_s0	zalla_Daceton_s0	0
 bakb_Anonychomyrma_s0	zalla_Apterostigma_s1	0
 bakb_Anonychomyrma_s0	zalla_Myrmicocrypta_s1	0
@@ -14083,7 +13639,6 @@ bakb_Dorymyrmex_s0	zalla_Solenopsis_s3	0
 bakb_Dorymyrmex_s0	zalla_Syllophopsis_s1	0
 bakb_Dorymyrmex_s0	zalla_Tranopelta_s0	0
 bakb_Dorymyrmex_s0	zalla_Blepharidatta_s1	0
-bakb_Dorymyrmex_s0	zalla_Allomerus_s1	0
 bakb_Dorymyrmex_s0	zalla_Daceton_s0	0
 bakb_Dorymyrmex_s0	zalla_Apterostigma_s1	0
 bakb_Dorymyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -14457,7 +14012,6 @@ bakb_Cheliomyrmex_s0	zalla_Solenopsis_s3	0
 bakb_Cheliomyrmex_s0	zalla_Syllophopsis_s1	0
 bakb_Cheliomyrmex_s0	zalla_Tranopelta_s0	0
 bakb_Cheliomyrmex_s0	zalla_Blepharidatta_s1	0
-bakb_Cheliomyrmex_s0	zalla_Allomerus_s1	0
 bakb_Cheliomyrmex_s0	zalla_Daceton_s0	0
 bakb_Cheliomyrmex_s0	zalla_Apterostigma_s1	0
 bakb_Cheliomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -14830,7 +14384,6 @@ bakb_Dinoponera_s0	zalla_Solenopsis_s3	0
 bakb_Dinoponera_s0	zalla_Syllophopsis_s1	0
 bakb_Dinoponera_s0	zalla_Tranopelta_s0	0
 bakb_Dinoponera_s0	zalla_Blepharidatta_s1	0
-bakb_Dinoponera_s0	zalla_Allomerus_s1	0
 bakb_Dinoponera_s0	zalla_Daceton_s0	0
 bakb_Dinoponera_s0	zalla_Apterostigma_s1	0
 bakb_Dinoponera_s0	zalla_Myrmicocrypta_s1	0
@@ -15202,7 +14755,6 @@ bakb_Onychomyrmex_s0	zalla_Solenopsis_s3	0
 bakb_Onychomyrmex_s0	zalla_Syllophopsis_s1	0
 bakb_Onychomyrmex_s0	zalla_Tranopelta_s0	0
 bakb_Onychomyrmex_s0	zalla_Blepharidatta_s1	0
-bakb_Onychomyrmex_s0	zalla_Allomerus_s1	0
 bakb_Onychomyrmex_s0	zalla_Daceton_s0	0
 bakb_Onychomyrmex_s0	zalla_Apterostigma_s1	0
 bakb_Onychomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -15573,7 +15125,6 @@ basi_Basiceros_s1	zalla_Solenopsis_s3	0
 basi_Basiceros_s1	zalla_Syllophopsis_s1	0
 basi_Basiceros_s1	zalla_Tranopelta_s0	0
 basi_Basiceros_s1	zalla_Blepharidatta_s1	0
-basi_Basiceros_s1	zalla_Allomerus_s1	0
 basi_Basiceros_s1	zalla_Daceton_s0	0
 basi_Basiceros_s1	zalla_Apterostigma_s1	0
 basi_Basiceros_s1	zalla_Myrmicocrypta_s1	0
@@ -15943,7 +15494,6 @@ brach_Brachymyrmex_s1	zalla_Solenopsis_s3	0
 brach_Brachymyrmex_s1	zalla_Syllophopsis_s1	0
 brach_Brachymyrmex_s1	zalla_Tranopelta_s0	0
 brach_Brachymyrmex_s1	zalla_Blepharidatta_s1	0
-brach_Brachymyrmex_s1	zalla_Allomerus_s1	0
 brach_Brachymyrmex_s1	zalla_Daceton_s0	0
 brach_Brachymyrmex_s1	zalla_Apterostigma_s1	0
 brach_Brachymyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -16312,7 +15862,6 @@ camp_Calomyrmex_s1	zalla_Solenopsis_s3	0
 camp_Calomyrmex_s1	zalla_Syllophopsis_s1	0
 camp_Calomyrmex_s1	zalla_Tranopelta_s0	0
 camp_Calomyrmex_s1	zalla_Blepharidatta_s1	0
-camp_Calomyrmex_s1	zalla_Allomerus_s1	0
 camp_Calomyrmex_s1	zalla_Daceton_s0	0
 camp_Calomyrmex_s1	zalla_Apterostigma_s1	0
 camp_Calomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -16680,7 +16229,6 @@ camp_Polyrhachis_s2	zalla_Solenopsis_s3	0
 camp_Polyrhachis_s2	zalla_Syllophopsis_s1	0
 camp_Polyrhachis_s2	zalla_Tranopelta_s0	0
 camp_Polyrhachis_s2	zalla_Blepharidatta_s1	0
-camp_Polyrhachis_s2	zalla_Allomerus_s1	0
 camp_Polyrhachis_s2	zalla_Daceton_s0	0
 camp_Polyrhachis_s2	zalla_Apterostigma_s1	0
 camp_Polyrhachis_s2	zalla_Myrmicocrypta_s1	0
@@ -17047,7 +16595,6 @@ camp_Polyrhachis_s4	zalla_Solenopsis_s3	0
 camp_Polyrhachis_s4	zalla_Syllophopsis_s1	0
 camp_Polyrhachis_s4	zalla_Tranopelta_s0	0
 camp_Polyrhachis_s4	zalla_Blepharidatta_s1	0
-camp_Polyrhachis_s4	zalla_Allomerus_s1	0
 camp_Polyrhachis_s4	zalla_Daceton_s0	0
 camp_Polyrhachis_s4	zalla_Apterostigma_s1	0
 camp_Polyrhachis_s4	zalla_Myrmicocrypta_s1	0
@@ -17413,7 +16960,6 @@ camp_Polyrhachis_s5	zalla_Solenopsis_s3	0
 camp_Polyrhachis_s5	zalla_Syllophopsis_s1	0
 camp_Polyrhachis_s5	zalla_Tranopelta_s0	0
 camp_Polyrhachis_s5	zalla_Blepharidatta_s1	0
-camp_Polyrhachis_s5	zalla_Allomerus_s1	0
 camp_Polyrhachis_s5	zalla_Daceton_s0	0
 camp_Polyrhachis_s5	zalla_Apterostigma_s1	0
 camp_Polyrhachis_s5	zalla_Myrmicocrypta_s1	0
@@ -17778,7 +17324,6 @@ cata_Cataglyphis_s1	zalla_Solenopsis_s3	0
 cata_Cataglyphis_s1	zalla_Syllophopsis_s1	0
 cata_Cataglyphis_s1	zalla_Tranopelta_s0	0
 cata_Cataglyphis_s1	zalla_Blepharidatta_s1	0
-cata_Cataglyphis_s1	zalla_Allomerus_s1	0
 cata_Cataglyphis_s1	zalla_Daceton_s0	0
 cata_Cataglyphis_s1	zalla_Apterostigma_s1	0
 cata_Cataglyphis_s1	zalla_Myrmicocrypta_s1	0
@@ -18142,7 +17687,6 @@ ceph_Cephalotes_s1	zalla_Solenopsis_s3	0
 ceph_Cephalotes_s1	zalla_Syllophopsis_s1	0
 ceph_Cephalotes_s1	zalla_Tranopelta_s0	0
 ceph_Cephalotes_s1	zalla_Blepharidatta_s1	0
-ceph_Cephalotes_s1	zalla_Allomerus_s1	0
 ceph_Cephalotes_s1	zalla_Daceton_s0	0
 ceph_Cephalotes_s1	zalla_Apterostigma_s1	0
 ceph_Cephalotes_s1	zalla_Myrmicocrypta_s1	0
@@ -18505,7 +18049,6 @@ ceph_Cephalotes_s2	zalla_Solenopsis_s3	0
 ceph_Cephalotes_s2	zalla_Syllophopsis_s1	0
 ceph_Cephalotes_s2	zalla_Tranopelta_s0	0
 ceph_Cephalotes_s2	zalla_Blepharidatta_s1	0
-ceph_Cephalotes_s2	zalla_Allomerus_s1	0
 ceph_Cephalotes_s2	zalla_Daceton_s0	0
 ceph_Cephalotes_s2	zalla_Apterostigma_s1	0
 ceph_Cephalotes_s2	zalla_Myrmicocrypta_s1	0
@@ -18867,7 +18410,6 @@ crea_Crematogaster_s1	zalla_Solenopsis_s3	0
 crea_Crematogaster_s1	zalla_Syllophopsis_s1	0
 crea_Crematogaster_s1	zalla_Tranopelta_s0	0
 crea_Crematogaster_s1	zalla_Blepharidatta_s1	0
-crea_Crematogaster_s1	zalla_Allomerus_s1	0
 crea_Crematogaster_s1	zalla_Daceton_s0	0
 crea_Crematogaster_s1	zalla_Apterostigma_s1	0
 crea_Crematogaster_s1	zalla_Myrmicocrypta_s1	0
@@ -19228,7 +18770,6 @@ crea_Crematogaster_s2	zalla_Solenopsis_s3	0
 crea_Crematogaster_s2	zalla_Syllophopsis_s1	0
 crea_Crematogaster_s2	zalla_Tranopelta_s0	0
 crea_Crematogaster_s2	zalla_Blepharidatta_s1	0
-crea_Crematogaster_s2	zalla_Allomerus_s1	0
 crea_Crematogaster_s2	zalla_Daceton_s0	0
 crea_Crematogaster_s2	zalla_Apterostigma_s1	0
 crea_Crematogaster_s2	zalla_Myrmicocrypta_s1	0
@@ -19588,7 +19129,6 @@ crem_Cardiocondyla_s0	zalla_Solenopsis_s3	0
 crem_Cardiocondyla_s0	zalla_Syllophopsis_s1	0
 crem_Cardiocondyla_s0	zalla_Tranopelta_s0	0
 crem_Cardiocondyla_s0	zalla_Blepharidatta_s1	0
-crem_Cardiocondyla_s0	zalla_Allomerus_s1	0
 crem_Cardiocondyla_s0	zalla_Daceton_s0	0
 crem_Cardiocondyla_s0	zalla_Apterostigma_s1	0
 crem_Cardiocondyla_s0	zalla_Myrmicocrypta_s1	0
@@ -19947,7 +19487,6 @@ crem_Poecilomyrma_s0	zalla_Solenopsis_s3	0
 crem_Poecilomyrma_s0	zalla_Syllophopsis_s1	0
 crem_Poecilomyrma_s0	zalla_Tranopelta_s0	0
 crem_Poecilomyrma_s0	zalla_Blepharidatta_s1	0
-crem_Poecilomyrma_s0	zalla_Allomerus_s1	0
 crem_Poecilomyrma_s0	zalla_Daceton_s0	0
 crem_Poecilomyrma_s0	zalla_Apterostigma_s1	0
 crem_Poecilomyrma_s0	zalla_Myrmicocrypta_s1	0
@@ -20305,7 +19844,6 @@ crem_Ancyridris_s0	zalla_Solenopsis_s3	0
 crem_Ancyridris_s0	zalla_Syllophopsis_s1	0
 crem_Ancyridris_s0	zalla_Tranopelta_s0	0
 crem_Ancyridris_s0	zalla_Blepharidatta_s1	0
-crem_Ancyridris_s0	zalla_Allomerus_s1	0
 crem_Ancyridris_s0	zalla_Daceton_s0	0
 crem_Ancyridris_s0	zalla_Apterostigma_s1	0
 crem_Ancyridris_s0	zalla_Myrmicocrypta_s1	0
@@ -20662,7 +20200,6 @@ crem_Crematogaster_s1	zalla_Solenopsis_s3	0
 crem_Crematogaster_s1	zalla_Syllophopsis_s1	0
 crem_Crematogaster_s1	zalla_Tranopelta_s0	0
 crem_Crematogaster_s1	zalla_Blepharidatta_s1	0
-crem_Crematogaster_s1	zalla_Allomerus_s1	0
 crem_Crematogaster_s1	zalla_Daceton_s0	0
 crem_Crematogaster_s1	zalla_Apterostigma_s1	0
 crem_Crematogaster_s1	zalla_Myrmicocrypta_s1	0
@@ -21018,7 +20555,6 @@ crem_Crematogaster_s2	zalla_Solenopsis_s3	0
 crem_Crematogaster_s2	zalla_Syllophopsis_s1	0
 crem_Crematogaster_s2	zalla_Tranopelta_s0	0
 crem_Crematogaster_s2	zalla_Blepharidatta_s1	0
-crem_Crematogaster_s2	zalla_Allomerus_s1	0
 crem_Crematogaster_s2	zalla_Daceton_s0	0
 crem_Crematogaster_s2	zalla_Apterostigma_s1	0
 crem_Crematogaster_s2	zalla_Myrmicocrypta_s1	0
@@ -21373,7 +20909,6 @@ crem_Crematogaster_s4	zalla_Solenopsis_s3	0
 crem_Crematogaster_s4	zalla_Syllophopsis_s1	0
 crem_Crematogaster_s4	zalla_Tranopelta_s0	0
 crem_Crematogaster_s4	zalla_Blepharidatta_s1	0
-crem_Crematogaster_s4	zalla_Allomerus_s1	0
 crem_Crematogaster_s4	zalla_Daceton_s0	0
 crem_Crematogaster_s4	zalla_Apterostigma_s1	0
 crem_Crematogaster_s4	zalla_Myrmicocrypta_s1	0
@@ -21727,7 +21262,6 @@ crem_Crematogaster_s5	zalla_Solenopsis_s3	0
 crem_Crematogaster_s5	zalla_Syllophopsis_s1	0
 crem_Crematogaster_s5	zalla_Tranopelta_s0	0
 crem_Crematogaster_s5	zalla_Blepharidatta_s1	0
-crem_Crematogaster_s5	zalla_Allomerus_s1	0
 crem_Crematogaster_s5	zalla_Daceton_s0	0
 crem_Crematogaster_s5	zalla_Apterostigma_s1	0
 crem_Crematogaster_s5	zalla_Myrmicocrypta_s1	0
@@ -22080,7 +21614,6 @@ crem_Adlerzia_s0	zalla_Solenopsis_s3	0
 crem_Adlerzia_s0	zalla_Syllophopsis_s1	0
 crem_Adlerzia_s0	zalla_Tranopelta_s0	0
 crem_Adlerzia_s0	zalla_Blepharidatta_s1	0
-crem_Adlerzia_s0	zalla_Allomerus_s1	0
 crem_Adlerzia_s0	zalla_Daceton_s0	0
 crem_Adlerzia_s0	zalla_Apterostigma_s1	0
 crem_Adlerzia_s0	zalla_Myrmicocrypta_s1	0
@@ -22432,7 +21965,6 @@ crem_Carebara_s1	zalla_Solenopsis_s3	0
 crem_Carebara_s1	zalla_Syllophopsis_s1	0
 crem_Carebara_s1	zalla_Tranopelta_s0	0
 crem_Carebara_s1	zalla_Blepharidatta_s1	0
-crem_Carebara_s1	zalla_Allomerus_s1	0
 crem_Carebara_s1	zalla_Daceton_s0	0
 crem_Carebara_s1	zalla_Apterostigma_s1	0
 crem_Carebara_s1	zalla_Myrmicocrypta_s1	0
@@ -22783,7 +22315,6 @@ crem_Tetramorium_s1	zalla_Solenopsis_s3	0
 crem_Tetramorium_s1	zalla_Syllophopsis_s1	0
 crem_Tetramorium_s1	zalla_Tranopelta_s0	0
 crem_Tetramorium_s1	zalla_Blepharidatta_s1	0
-crem_Tetramorium_s1	zalla_Allomerus_s1	0
 crem_Tetramorium_s1	zalla_Daceton_s0	0
 crem_Tetramorium_s1	zalla_Apterostigma_s1	0
 crem_Tetramorium_s1	zalla_Myrmicocrypta_s1	0
@@ -23133,7 +22664,6 @@ crem_Cyphoidris_s0	zalla_Solenopsis_s3	0
 crem_Cyphoidris_s0	zalla_Syllophopsis_s1	0
 crem_Cyphoidris_s0	zalla_Tranopelta_s0	0
 crem_Cyphoidris_s0	zalla_Blepharidatta_s1	0
-crem_Cyphoidris_s0	zalla_Allomerus_s1	0
 crem_Cyphoidris_s0	zalla_Daceton_s0	0
 crem_Cyphoidris_s0	zalla_Apterostigma_s1	0
 crem_Cyphoidris_s0	zalla_Myrmicocrypta_s1	0
@@ -23482,7 +23012,6 @@ cren_Crematogaster_s1	zalla_Solenopsis_s3	0
 cren_Crematogaster_s1	zalla_Syllophopsis_s1	0
 cren_Crematogaster_s1	zalla_Tranopelta_s0	0
 cren_Crematogaster_s1	zalla_Blepharidatta_s1	0
-cren_Crematogaster_s1	zalla_Allomerus_s1	0
 cren_Crematogaster_s1	zalla_Daceton_s0	0
 cren_Crematogaster_s1	zalla_Apterostigma_s1	0
 cren_Crematogaster_s1	zalla_Myrmicocrypta_s1	0
@@ -23830,7 +23359,6 @@ cres_Crematogaster_s0	zalla_Solenopsis_s3	0
 cres_Crematogaster_s0	zalla_Syllophopsis_s1	0
 cres_Crematogaster_s0	zalla_Tranopelta_s0	0
 cres_Crematogaster_s0	zalla_Blepharidatta_s1	0
-cres_Crematogaster_s0	zalla_Allomerus_s1	0
 cres_Crematogaster_s0	zalla_Daceton_s0	0
 cres_Crematogaster_s0	zalla_Apterostigma_s1	0
 cres_Crematogaster_s0	zalla_Myrmicocrypta_s1	0
@@ -24177,7 +23705,6 @@ cret_Crematogaster_s1	zalla_Solenopsis_s3	0
 cret_Crematogaster_s1	zalla_Syllophopsis_s1	0
 cret_Crematogaster_s1	zalla_Tranopelta_s0	0
 cret_Crematogaster_s1	zalla_Blepharidatta_s1	0
-cret_Crematogaster_s1	zalla_Allomerus_s1	0
 cret_Crematogaster_s1	zalla_Daceton_s0	0
 cret_Crematogaster_s1	zalla_Apterostigma_s1	0
 cret_Crematogaster_s1	zalla_Myrmicocrypta_s1	0
@@ -24523,7 +24050,6 @@ cret_Crematogaster_s2	zalla_Solenopsis_s3	0
 cret_Crematogaster_s2	zalla_Syllophopsis_s1	0
 cret_Crematogaster_s2	zalla_Tranopelta_s0	0
 cret_Crematogaster_s2	zalla_Blepharidatta_s1	0
-cret_Crematogaster_s2	zalla_Allomerus_s1	0
 cret_Crematogaster_s2	zalla_Daceton_s0	0
 cret_Crematogaster_s2	zalla_Apterostigma_s1	0
 cret_Crematogaster_s2	zalla_Myrmicocrypta_s1	0
@@ -24868,7 +24394,6 @@ doli_Technomyrmex_s0	zalla_Solenopsis_s3	0
 doli_Technomyrmex_s0	zalla_Syllophopsis_s1	0
 doli_Technomyrmex_s0	zalla_Tranopelta_s0	0
 doli_Technomyrmex_s0	zalla_Blepharidatta_s1	0
-doli_Technomyrmex_s0	zalla_Allomerus_s1	0
 doli_Technomyrmex_s0	zalla_Daceton_s0	0
 doli_Technomyrmex_s0	zalla_Apterostigma_s1	0
 doli_Technomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -25212,7 +24737,6 @@ doli_Bothriomyrmex_s1	zalla_Solenopsis_s3	0
 doli_Bothriomyrmex_s1	zalla_Syllophopsis_s1	0
 doli_Bothriomyrmex_s1	zalla_Tranopelta_s0	0
 doli_Bothriomyrmex_s1	zalla_Blepharidatta_s1	0
-doli_Bothriomyrmex_s1	zalla_Allomerus_s1	0
 doli_Bothriomyrmex_s1	zalla_Daceton_s0	0
 doli_Bothriomyrmex_s1	zalla_Apterostigma_s1	0
 doli_Bothriomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -25555,7 +25079,6 @@ doli_Azteca_s1	zalla_Solenopsis_s3	0
 doli_Azteca_s1	zalla_Syllophopsis_s1	0
 doli_Azteca_s1	zalla_Tranopelta_s0	0
 doli_Azteca_s1	zalla_Blepharidatta_s1	0
-doli_Azteca_s1	zalla_Allomerus_s1	0
 doli_Azteca_s1	zalla_Daceton_s0	0
 doli_Azteca_s1	zalla_Apterostigma_s1	0
 doli_Azteca_s1	zalla_Myrmicocrypta_s1	0
@@ -25897,7 +25420,6 @@ doli_Linepithema_s0	zalla_Solenopsis_s3	0
 doli_Linepithema_s0	zalla_Syllophopsis_s1	0
 doli_Linepithema_s0	zalla_Tranopelta_s0	0
 doli_Linepithema_s0	zalla_Blepharidatta_s1	0
-doli_Linepithema_s0	zalla_Allomerus_s1	0
 doli_Linepithema_s0	zalla_Daceton_s0	0
 doli_Linepithema_s0	zalla_Apterostigma_s1	0
 doli_Linepithema_s0	zalla_Myrmicocrypta_s1	0
@@ -26238,7 +25760,6 @@ doli_Anonychomyrma_s1	zalla_Solenopsis_s3	0
 doli_Anonychomyrma_s1	zalla_Syllophopsis_s1	0
 doli_Anonychomyrma_s1	zalla_Tranopelta_s0	0
 doli_Anonychomyrma_s1	zalla_Blepharidatta_s1	0
-doli_Anonychomyrma_s1	zalla_Allomerus_s1	0
 doli_Anonychomyrma_s1	zalla_Daceton_s0	0
 doli_Anonychomyrma_s1	zalla_Apterostigma_s1	0
 doli_Anonychomyrma_s1	zalla_Myrmicocrypta_s1	0
@@ -26578,7 +26099,6 @@ dory_Acanthostichus_s0	zalla_Solenopsis_s3	0
 dory_Acanthostichus_s0	zalla_Syllophopsis_s1	0
 dory_Acanthostichus_s0	zalla_Tranopelta_s0	0
 dory_Acanthostichus_s0	zalla_Blepharidatta_s1	0
-dory_Acanthostichus_s0	zalla_Allomerus_s1	0
 dory_Acanthostichus_s0	zalla_Daceton_s0	0
 dory_Acanthostichus_s0	zalla_Apterostigma_s1	0
 dory_Acanthostichus_s0	zalla_Myrmicocrypta_s1	0
@@ -26917,7 +26437,6 @@ dory_Eciton_s1	zalla_Solenopsis_s3	0
 dory_Eciton_s1	zalla_Syllophopsis_s1	0
 dory_Eciton_s1	zalla_Tranopelta_s0	0
 dory_Eciton_s1	zalla_Blepharidatta_s1	0
-dory_Eciton_s1	zalla_Allomerus_s1	0
 dory_Eciton_s1	zalla_Daceton_s0	0
 dory_Eciton_s1	zalla_Apterostigma_s1	0
 dory_Eciton_s1	zalla_Myrmicocrypta_s1	0
@@ -27255,7 +26774,6 @@ dory_Dorylus_s2	zalla_Solenopsis_s3	0
 dory_Dorylus_s2	zalla_Syllophopsis_s1	0
 dory_Dorylus_s2	zalla_Tranopelta_s0	0
 dory_Dorylus_s2	zalla_Blepharidatta_s1	0
-dory_Dorylus_s2	zalla_Allomerus_s1	0
 dory_Dorylus_s2	zalla_Daceton_s0	0
 dory_Dorylus_s2	zalla_Apterostigma_s1	0
 dory_Dorylus_s2	zalla_Myrmicocrypta_s1	0
@@ -27592,7 +27110,6 @@ dory_Dorylus_s3	zalla_Solenopsis_s3	0
 dory_Dorylus_s3	zalla_Syllophopsis_s1	0
 dory_Dorylus_s3	zalla_Tranopelta_s0	0
 dory_Dorylus_s3	zalla_Blepharidatta_s1	0
-dory_Dorylus_s3	zalla_Allomerus_s1	0
 dory_Dorylus_s3	zalla_Daceton_s0	0
 dory_Dorylus_s3	zalla_Apterostigma_s1	0
 dory_Dorylus_s3	zalla_Myrmicocrypta_s1	0
@@ -27928,7 +27445,6 @@ dory_Ooceraea_s1	zalla_Solenopsis_s3	0
 dory_Ooceraea_s1	zalla_Syllophopsis_s1	0
 dory_Ooceraea_s1	zalla_Tranopelta_s0	0
 dory_Ooceraea_s1	zalla_Blepharidatta_s1	0
-dory_Ooceraea_s1	zalla_Allomerus_s1	0
 dory_Ooceraea_s1	zalla_Daceton_s0	0
 dory_Ooceraea_s1	zalla_Apterostigma_s1	0
 dory_Ooceraea_s1	zalla_Myrmicocrypta_s1	0
@@ -28263,7 +27779,6 @@ dory_Parasyscia_s1	zalla_Solenopsis_s3	0
 dory_Parasyscia_s1	zalla_Syllophopsis_s1	0
 dory_Parasyscia_s1	zalla_Tranopelta_s0	0
 dory_Parasyscia_s1	zalla_Blepharidatta_s1	0
-dory_Parasyscia_s1	zalla_Allomerus_s1	0
 dory_Parasyscia_s1	zalla_Daceton_s0	0
 dory_Parasyscia_s1	zalla_Apterostigma_s1	0
 dory_Parasyscia_s1	zalla_Myrmicocrypta_s1	0
@@ -28597,7 +28112,6 @@ ecta_Poneracantha_s1	zalla_Solenopsis_s3	0
 ecta_Poneracantha_s1	zalla_Syllophopsis_s1	0
 ecta_Poneracantha_s1	zalla_Tranopelta_s0	0
 ecta_Poneracantha_s1	zalla_Blepharidatta_s1	0
-ecta_Poneracantha_s1	zalla_Allomerus_s1	0
 ecta_Poneracantha_s1	zalla_Daceton_s0	0
 ecta_Poneracantha_s1	zalla_Apterostigma_s1	0
 ecta_Poneracantha_s1	zalla_Myrmicocrypta_s1	0
@@ -28930,7 +28444,6 @@ ecta_Gnamptogenys_s1	zalla_Solenopsis_s3	0
 ecta_Gnamptogenys_s1	zalla_Syllophopsis_s1	0
 ecta_Gnamptogenys_s1	zalla_Tranopelta_s0	0
 ecta_Gnamptogenys_s1	zalla_Blepharidatta_s1	0
-ecta_Gnamptogenys_s1	zalla_Allomerus_s1	0
 ecta_Gnamptogenys_s1	zalla_Daceton_s0	0
 ecta_Gnamptogenys_s1	zalla_Apterostigma_s1	0
 ecta_Gnamptogenys_s1	zalla_Myrmicocrypta_s1	0
@@ -29262,7 +28775,6 @@ ecta_Gnamptogenys_s2	zalla_Solenopsis_s3	0
 ecta_Gnamptogenys_s2	zalla_Syllophopsis_s1	0
 ecta_Gnamptogenys_s2	zalla_Tranopelta_s0	0
 ecta_Gnamptogenys_s2	zalla_Blepharidatta_s1	0
-ecta_Gnamptogenys_s2	zalla_Allomerus_s1	0
 ecta_Gnamptogenys_s2	zalla_Daceton_s0	0
 ecta_Gnamptogenys_s2	zalla_Apterostigma_s1	0
 ecta_Gnamptogenys_s2	zalla_Myrmicocrypta_s1	0
@@ -29593,7 +29105,6 @@ fori_Bajcaridris_s0	zalla_Solenopsis_s3	0
 fori_Bajcaridris_s0	zalla_Syllophopsis_s1	0
 fori_Bajcaridris_s0	zalla_Tranopelta_s0	0
 fori_Bajcaridris_s0	zalla_Blepharidatta_s1	0
-fori_Bajcaridris_s0	zalla_Allomerus_s1	0
 fori_Bajcaridris_s0	zalla_Daceton_s0	0
 fori_Bajcaridris_s0	zalla_Apterostigma_s1	0
 fori_Bajcaridris_s0	zalla_Myrmicocrypta_s1	0
@@ -29923,7 +29434,6 @@ fori_Formica_s1	zalla_Solenopsis_s3	0
 fori_Formica_s1	zalla_Syllophopsis_s1	0
 fori_Formica_s1	zalla_Tranopelta_s0	0
 fori_Formica_s1	zalla_Blepharidatta_s1	0
-fori_Formica_s1	zalla_Allomerus_s1	0
 fori_Formica_s1	zalla_Daceton_s0	0
 fori_Formica_s1	zalla_Apterostigma_s1	0
 fori_Formica_s1	zalla_Myrmicocrypta_s1	0
@@ -30252,7 +29762,6 @@ fori_Acropyga_s0	zalla_Solenopsis_s3	0
 fori_Acropyga_s0	zalla_Syllophopsis_s1	0
 fori_Acropyga_s0	zalla_Tranopelta_s0	0
 fori_Acropyga_s0	zalla_Blepharidatta_s1	0
-fori_Acropyga_s0	zalla_Allomerus_s1	0
 fori_Acropyga_s0	zalla_Daceton_s0	0
 fori_Acropyga_s0	zalla_Apterostigma_s1	0
 fori_Acropyga_s0	zalla_Myrmicocrypta_s1	0
@@ -30580,7 +30089,6 @@ fori_Lepisiota_s0	zalla_Solenopsis_s3	0
 fori_Lepisiota_s0	zalla_Syllophopsis_s1	0
 fori_Lepisiota_s0	zalla_Tranopelta_s0	0
 fori_Lepisiota_s0	zalla_Blepharidatta_s1	0
-fori_Lepisiota_s0	zalla_Allomerus_s1	0
 fori_Lepisiota_s0	zalla_Daceton_s0	0
 fori_Lepisiota_s0	zalla_Apterostigma_s1	0
 fori_Lepisiota_s0	zalla_Myrmicocrypta_s1	0
@@ -30907,7 +30415,6 @@ fori_Aphomomyrmex_s0	zalla_Solenopsis_s3	0
 fori_Aphomomyrmex_s0	zalla_Syllophopsis_s1	0
 fori_Aphomomyrmex_s0	zalla_Tranopelta_s0	0
 fori_Aphomomyrmex_s0	zalla_Blepharidatta_s1	0
-fori_Aphomomyrmex_s0	zalla_Allomerus_s1	0
 fori_Aphomomyrmex_s0	zalla_Daceton_s0	0
 fori_Aphomomyrmex_s0	zalla_Apterostigma_s1	0
 fori_Aphomomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -31233,7 +30740,6 @@ fori_Anoplolepis_s0	zalla_Solenopsis_s3	0
 fori_Anoplolepis_s0	zalla_Syllophopsis_s1	0
 fori_Anoplolepis_s0	zalla_Tranopelta_s0	0
 fori_Anoplolepis_s0	zalla_Blepharidatta_s1	0
-fori_Anoplolepis_s0	zalla_Allomerus_s1	0
 fori_Anoplolepis_s0	zalla_Daceton_s0	0
 fori_Anoplolepis_s0	zalla_Apterostigma_s1	0
 fori_Anoplolepis_s0	zalla_Myrmicocrypta_s1	0
@@ -31558,7 +31064,6 @@ fori_Calomyrmex_s1	zalla_Solenopsis_s3	0
 fori_Calomyrmex_s1	zalla_Syllophopsis_s1	0
 fori_Calomyrmex_s1	zalla_Tranopelta_s0	0
 fori_Calomyrmex_s1	zalla_Blepharidatta_s1	0
-fori_Calomyrmex_s1	zalla_Allomerus_s1	0
 fori_Calomyrmex_s1	zalla_Daceton_s0	0
 fori_Calomyrmex_s1	zalla_Apterostigma_s1	0
 fori_Calomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -31882,7 +31387,6 @@ fori_Camponotus_s1	zalla_Solenopsis_s3	0
 fori_Camponotus_s1	zalla_Syllophopsis_s1	0
 fori_Camponotus_s1	zalla_Tranopelta_s0	0
 fori_Camponotus_s1	zalla_Blepharidatta_s1	0
-fori_Camponotus_s1	zalla_Allomerus_s1	0
 fori_Camponotus_s1	zalla_Daceton_s0	0
 fori_Camponotus_s1	zalla_Apterostigma_s1	0
 fori_Camponotus_s1	zalla_Myrmicocrypta_s1	0
@@ -32205,7 +31709,6 @@ fori_Camponotus_s2	zalla_Solenopsis_s3	0
 fori_Camponotus_s2	zalla_Syllophopsis_s1	0
 fori_Camponotus_s2	zalla_Tranopelta_s0	0
 fori_Camponotus_s2	zalla_Blepharidatta_s1	0
-fori_Camponotus_s2	zalla_Allomerus_s1	0
 fori_Camponotus_s2	zalla_Daceton_s0	0
 fori_Camponotus_s2	zalla_Apterostigma_s1	0
 fori_Camponotus_s2	zalla_Myrmicocrypta_s1	0
@@ -32527,7 +32030,6 @@ fori_Colobopsis_s1	zalla_Solenopsis_s3	0
 fori_Colobopsis_s1	zalla_Syllophopsis_s1	0
 fori_Colobopsis_s1	zalla_Tranopelta_s0	0
 fori_Colobopsis_s1	zalla_Blepharidatta_s1	0
-fori_Colobopsis_s1	zalla_Allomerus_s1	0
 fori_Colobopsis_s1	zalla_Daceton_s0	0
 fori_Colobopsis_s1	zalla_Apterostigma_s1	0
 fori_Colobopsis_s1	zalla_Myrmicocrypta_s1	0
@@ -32848,7 +32350,6 @@ fori_Teratomyrmex_s0	zalla_Solenopsis_s3	0
 fori_Teratomyrmex_s0	zalla_Syllophopsis_s1	0
 fori_Teratomyrmex_s0	zalla_Tranopelta_s0	0
 fori_Teratomyrmex_s0	zalla_Blepharidatta_s1	0
-fori_Teratomyrmex_s0	zalla_Allomerus_s1	0
 fori_Teratomyrmex_s0	zalla_Daceton_s0	0
 fori_Teratomyrmex_s0	zalla_Apterostigma_s1	0
 fori_Teratomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -33168,7 +32669,6 @@ fori_Pseudonotoncus_s0	zalla_Solenopsis_s3	0
 fori_Pseudonotoncus_s0	zalla_Syllophopsis_s1	0
 fori_Pseudonotoncus_s0	zalla_Tranopelta_s0	0
 fori_Pseudonotoncus_s0	zalla_Blepharidatta_s1	0
-fori_Pseudonotoncus_s0	zalla_Allomerus_s1	0
 fori_Pseudonotoncus_s0	zalla_Daceton_s0	0
 fori_Pseudonotoncus_s0	zalla_Apterostigma_s1	0
 fori_Pseudonotoncus_s0	zalla_Myrmicocrypta_s1	0
@@ -33487,7 +32987,6 @@ form_Polyergus_s0	zalla_Solenopsis_s3	0
 form_Polyergus_s0	zalla_Syllophopsis_s1	0
 form_Polyergus_s0	zalla_Tranopelta_s0	0
 form_Polyergus_s0	zalla_Blepharidatta_s1	0
-form_Polyergus_s0	zalla_Allomerus_s1	0
 form_Polyergus_s0	zalla_Daceton_s0	0
 form_Polyergus_s0	zalla_Apterostigma_s1	0
 form_Polyergus_s0	zalla_Myrmicocrypta_s1	0
@@ -33805,7 +33304,6 @@ lasi_Paraparatrechina_s1	zalla_Solenopsis_s3	0
 lasi_Paraparatrechina_s1	zalla_Syllophopsis_s1	0
 lasi_Paraparatrechina_s1	zalla_Tranopelta_s0	0
 lasi_Paraparatrechina_s1	zalla_Blepharidatta_s1	0
-lasi_Paraparatrechina_s1	zalla_Allomerus_s1	0
 lasi_Paraparatrechina_s1	zalla_Daceton_s0	0
 lasi_Paraparatrechina_s1	zalla_Apterostigma_s1	0
 lasi_Paraparatrechina_s1	zalla_Myrmicocrypta_s1	0
@@ -34122,7 +33620,6 @@ lasi_Nylanderia_s1	zalla_Solenopsis_s3	0
 lasi_Nylanderia_s1	zalla_Syllophopsis_s1	0
 lasi_Nylanderia_s1	zalla_Tranopelta_s0	0
 lasi_Nylanderia_s1	zalla_Blepharidatta_s1	0
-lasi_Nylanderia_s1	zalla_Allomerus_s1	0
 lasi_Nylanderia_s1	zalla_Daceton_s0	0
 lasi_Nylanderia_s1	zalla_Apterostigma_s1	0
 lasi_Nylanderia_s1	zalla_Myrmicocrypta_s1	0
@@ -34438,7 +33935,6 @@ lasi_Nylanderia_s2	zalla_Solenopsis_s3	0
 lasi_Nylanderia_s2	zalla_Syllophopsis_s1	0
 lasi_Nylanderia_s2	zalla_Tranopelta_s0	0
 lasi_Nylanderia_s2	zalla_Blepharidatta_s1	0
-lasi_Nylanderia_s2	zalla_Allomerus_s1	0
 lasi_Nylanderia_s2	zalla_Daceton_s0	0
 lasi_Nylanderia_s2	zalla_Apterostigma_s1	0
 lasi_Nylanderia_s2	zalla_Myrmicocrypta_s1	0
@@ -34753,7 +34249,6 @@ lasi2_Nylanderia_s1	zalla_Solenopsis_s3	0
 lasi2_Nylanderia_s1	zalla_Syllophopsis_s1	0
 lasi2_Nylanderia_s1	zalla_Tranopelta_s0	0
 lasi2_Nylanderia_s1	zalla_Blepharidatta_s1	0
-lasi2_Nylanderia_s1	zalla_Allomerus_s1	0
 lasi2_Nylanderia_s1	zalla_Daceton_s0	0
 lasi2_Nylanderia_s1	zalla_Apterostigma_s1	0
 lasi2_Nylanderia_s1	zalla_Myrmicocrypta_s1	0
@@ -35067,7 +34562,6 @@ lasi2_Nylanderia_s4	zalla_Solenopsis_s3	0
 lasi2_Nylanderia_s4	zalla_Syllophopsis_s1	0
 lasi2_Nylanderia_s4	zalla_Tranopelta_s0	0
 lasi2_Nylanderia_s4	zalla_Blepharidatta_s1	0
-lasi2_Nylanderia_s4	zalla_Allomerus_s1	0
 lasi2_Nylanderia_s4	zalla_Daceton_s0	0
 lasi2_Nylanderia_s4	zalla_Apterostigma_s1	0
 lasi2_Nylanderia_s4	zalla_Myrmicocrypta_s1	0
@@ -35380,7 +34874,6 @@ lasi2_Nylanderia_s6	zalla_Solenopsis_s3	0
 lasi2_Nylanderia_s6	zalla_Syllophopsis_s1	0
 lasi2_Nylanderia_s6	zalla_Tranopelta_s0	0
 lasi2_Nylanderia_s6	zalla_Blepharidatta_s1	0
-lasi2_Nylanderia_s6	zalla_Allomerus_s1	0
 lasi2_Nylanderia_s6	zalla_Daceton_s0	0
 lasi2_Nylanderia_s6	zalla_Apterostigma_s1	0
 lasi2_Nylanderia_s6	zalla_Myrmicocrypta_s1	0
@@ -35692,7 +35185,6 @@ lasi2_Nylanderia_s7	zalla_Solenopsis_s3	0
 lasi2_Nylanderia_s7	zalla_Syllophopsis_s1	0
 lasi2_Nylanderia_s7	zalla_Tranopelta_s0	0
 lasi2_Nylanderia_s7	zalla_Blepharidatta_s1	0
-lasi2_Nylanderia_s7	zalla_Allomerus_s1	0
 lasi2_Nylanderia_s7	zalla_Daceton_s0	0
 lasi2_Nylanderia_s7	zalla_Apterostigma_s1	0
 lasi2_Nylanderia_s7	zalla_Myrmicocrypta_s1	0
@@ -36003,7 +35495,6 @@ lasi2_Nylanderia_s8	zalla_Solenopsis_s3	0
 lasi2_Nylanderia_s8	zalla_Syllophopsis_s1	0
 lasi2_Nylanderia_s8	zalla_Tranopelta_s0	0
 lasi2_Nylanderia_s8	zalla_Blepharidatta_s1	0
-lasi2_Nylanderia_s8	zalla_Allomerus_s1	0
 lasi2_Nylanderia_s8	zalla_Daceton_s0	0
 lasi2_Nylanderia_s8	zalla_Apterostigma_s1	0
 lasi2_Nylanderia_s8	zalla_Myrmicocrypta_s1	0
@@ -36313,7 +35804,6 @@ lasi2_Nylanderia_s9	zalla_Solenopsis_s3	0
 lasi2_Nylanderia_s9	zalla_Syllophopsis_s1	0
 lasi2_Nylanderia_s9	zalla_Tranopelta_s0	0
 lasi2_Nylanderia_s9	zalla_Blepharidatta_s1	0
-lasi2_Nylanderia_s9	zalla_Allomerus_s1	0
 lasi2_Nylanderia_s9	zalla_Daceton_s0	0
 lasi2_Nylanderia_s9	zalla_Apterostigma_s1	0
 lasi2_Nylanderia_s9	zalla_Myrmicocrypta_s1	0
@@ -36622,7 +36112,6 @@ mami_Prionopelta_s0	zalla_Solenopsis_s3	0
 mami_Prionopelta_s0	zalla_Syllophopsis_s1	0
 mami_Prionopelta_s0	zalla_Tranopelta_s0	0
 mami_Prionopelta_s0	zalla_Blepharidatta_s1	0
-mami_Prionopelta_s0	zalla_Allomerus_s1	0
 mami_Prionopelta_s0	zalla_Daceton_s0	0
 mami_Prionopelta_s0	zalla_Apterostigma_s1	0
 mami_Prionopelta_s0	zalla_Myrmicocrypta_s1	0
@@ -36930,7 +36419,6 @@ mami_Mystrium_s1	zalla_Solenopsis_s3	0
 mami_Mystrium_s1	zalla_Syllophopsis_s1	0
 mami_Mystrium_s1	zalla_Tranopelta_s0	0
 mami_Mystrium_s1	zalla_Blepharidatta_s1	0
-mami_Mystrium_s1	zalla_Allomerus_s1	0
 mami_Mystrium_s1	zalla_Daceton_s0	0
 mami_Mystrium_s1	zalla_Apterostigma_s1	0
 mami_Mystrium_s1	zalla_Myrmicocrypta_s1	0
@@ -37237,7 +36725,6 @@ mami_Simopone_s0	zalla_Solenopsis_s3	0
 mami_Simopone_s0	zalla_Syllophopsis_s1	0
 mami_Simopone_s0	zalla_Tranopelta_s0	0
 mami_Simopone_s0	zalla_Blepharidatta_s1	0
-mami_Simopone_s0	zalla_Allomerus_s1	0
 mami_Simopone_s0	zalla_Daceton_s0	0
 mami_Simopone_s0	zalla_Apterostigma_s1	0
 mami_Simopone_s0	zalla_Myrmicocrypta_s1	0
@@ -37543,7 +37030,6 @@ mami_Tetraponera_s2	zalla_Solenopsis_s3	0
 mami_Tetraponera_s2	zalla_Syllophopsis_s1	0
 mami_Tetraponera_s2	zalla_Tranopelta_s0	0
 mami_Tetraponera_s2	zalla_Blepharidatta_s1	0
-mami_Tetraponera_s2	zalla_Allomerus_s1	0
 mami_Tetraponera_s2	zalla_Daceton_s0	0
 mami_Tetraponera_s2	zalla_Apterostigma_s1	0
 mami_Tetraponera_s2	zalla_Myrmicocrypta_s1	0
@@ -37848,7 +37334,6 @@ mami_Tetraponera_s3	zalla_Solenopsis_s3	0
 mami_Tetraponera_s3	zalla_Syllophopsis_s1	0
 mami_Tetraponera_s3	zalla_Tranopelta_s0	0
 mami_Tetraponera_s3	zalla_Blepharidatta_s1	0
-mami_Tetraponera_s3	zalla_Allomerus_s1	0
 mami_Tetraponera_s3	zalla_Daceton_s0	0
 mami_Tetraponera_s3	zalla_Apterostigma_s1	0
 mami_Tetraponera_s3	zalla_Myrmicocrypta_s1	0
@@ -38152,7 +37637,6 @@ mami_Tetraponera_s4	zalla_Solenopsis_s3	0
 mami_Tetraponera_s4	zalla_Syllophopsis_s1	0
 mami_Tetraponera_s4	zalla_Tranopelta_s0	0
 mami_Tetraponera_s4	zalla_Blepharidatta_s1	0
-mami_Tetraponera_s4	zalla_Allomerus_s1	0
 mami_Tetraponera_s4	zalla_Daceton_s0	0
 mami_Tetraponera_s4	zalla_Apterostigma_s1	0
 mami_Tetraponera_s4	zalla_Myrmicocrypta_s1	0
@@ -38455,7 +37939,6 @@ mami_Technomyrmex_s1	zalla_Solenopsis_s3	0
 mami_Technomyrmex_s1	zalla_Syllophopsis_s1	0
 mami_Technomyrmex_s1	zalla_Tranopelta_s0	0
 mami_Technomyrmex_s1	zalla_Blepharidatta_s1	0
-mami_Technomyrmex_s1	zalla_Allomerus_s1	0
 mami_Technomyrmex_s1	zalla_Daceton_s0	0
 mami_Technomyrmex_s1	zalla_Apterostigma_s1	0
 mami_Technomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -38757,7 +38240,6 @@ mami_Technomyrmex_s2	zalla_Solenopsis_s3	0
 mami_Technomyrmex_s2	zalla_Syllophopsis_s1	0
 mami_Technomyrmex_s2	zalla_Tranopelta_s0	0
 mami_Technomyrmex_s2	zalla_Blepharidatta_s1	0
-mami_Technomyrmex_s2	zalla_Allomerus_s1	0
 mami_Technomyrmex_s2	zalla_Daceton_s0	0
 mami_Technomyrmex_s2	zalla_Apterostigma_s1	0
 mami_Technomyrmex_s2	zalla_Myrmicocrypta_s1	0
@@ -39058,7 +38540,6 @@ mami_Camponotus_s0	zalla_Solenopsis_s3	0
 mami_Camponotus_s0	zalla_Syllophopsis_s1	0
 mami_Camponotus_s0	zalla_Tranopelta_s0	0
 mami_Camponotus_s0	zalla_Blepharidatta_s1	0
-mami_Camponotus_s0	zalla_Allomerus_s1	0
 mami_Camponotus_s0	zalla_Daceton_s0	0
 mami_Camponotus_s0	zalla_Apterostigma_s1	0
 mami_Camponotus_s0	zalla_Myrmicocrypta_s1	0
@@ -39358,7 +38839,6 @@ mami_Lepisiota_s0	zalla_Solenopsis_s3	0
 mami_Lepisiota_s0	zalla_Syllophopsis_s1	0
 mami_Lepisiota_s0	zalla_Tranopelta_s0	0
 mami_Lepisiota_s0	zalla_Blepharidatta_s1	0
-mami_Lepisiota_s0	zalla_Allomerus_s1	0
 mami_Lepisiota_s0	zalla_Daceton_s0	0
 mami_Lepisiota_s0	zalla_Apterostigma_s1	0
 mami_Lepisiota_s0	zalla_Myrmicocrypta_s1	0
@@ -39657,7 +39137,6 @@ mami_Nylanderia_s0	zalla_Solenopsis_s3	0
 mami_Nylanderia_s0	zalla_Syllophopsis_s1	0
 mami_Nylanderia_s0	zalla_Tranopelta_s0	0
 mami_Nylanderia_s0	zalla_Blepharidatta_s1	0
-mami_Nylanderia_s0	zalla_Allomerus_s1	0
 mami_Nylanderia_s0	zalla_Daceton_s0	0
 mami_Nylanderia_s0	zalla_Apterostigma_s1	0
 mami_Nylanderia_s0	zalla_Myrmicocrypta_s1	0
@@ -39955,7 +39434,6 @@ mami_Paratrechina_s0	zalla_Solenopsis_s3	0
 mami_Paratrechina_s0	zalla_Syllophopsis_s1	0
 mami_Paratrechina_s0	zalla_Tranopelta_s0	0
 mami_Paratrechina_s0	zalla_Blepharidatta_s1	0
-mami_Paratrechina_s0	zalla_Allomerus_s1	0
 mami_Paratrechina_s0	zalla_Daceton_s0	0
 mami_Paratrechina_s0	zalla_Apterostigma_s1	0
 mami_Paratrechina_s0	zalla_Myrmicocrypta_s1	0
@@ -40252,7 +39730,6 @@ mami_Paraparatrechina_s0	zalla_Solenopsis_s3	0
 mami_Paraparatrechina_s0	zalla_Syllophopsis_s1	0
 mami_Paraparatrechina_s0	zalla_Tranopelta_s0	0
 mami_Paraparatrechina_s0	zalla_Blepharidatta_s1	0
-mami_Paraparatrechina_s0	zalla_Allomerus_s1	0
 mami_Paraparatrechina_s0	zalla_Daceton_s0	0
 mami_Paraparatrechina_s0	zalla_Apterostigma_s1	0
 mami_Paraparatrechina_s0	zalla_Myrmicocrypta_s1	0
@@ -40548,7 +40025,6 @@ mami_Aphaenogaster_s0	zalla_Solenopsis_s3	0
 mami_Aphaenogaster_s0	zalla_Syllophopsis_s1	0
 mami_Aphaenogaster_s0	zalla_Tranopelta_s0	0
 mami_Aphaenogaster_s0	zalla_Blepharidatta_s1	0
-mami_Aphaenogaster_s0	zalla_Allomerus_s1	0
 mami_Aphaenogaster_s0	zalla_Daceton_s0	0
 mami_Aphaenogaster_s0	zalla_Apterostigma_s1	0
 mami_Aphaenogaster_s0	zalla_Myrmicocrypta_s1	0
@@ -40843,7 +40319,6 @@ mami_Pheidole_s1	zalla_Solenopsis_s3	0
 mami_Pheidole_s1	zalla_Syllophopsis_s1	0
 mami_Pheidole_s1	zalla_Tranopelta_s0	0
 mami_Pheidole_s1	zalla_Blepharidatta_s1	0
-mami_Pheidole_s1	zalla_Allomerus_s1	0
 mami_Pheidole_s1	zalla_Daceton_s0	0
 mami_Pheidole_s1	zalla_Apterostigma_s1	0
 mami_Pheidole_s1	zalla_Myrmicocrypta_s1	0
@@ -41137,7 +40612,6 @@ mami_Strumigenys_s1	zalla_Solenopsis_s3	0
 mami_Strumigenys_s1	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s1	zalla_Tranopelta_s0	0
 mami_Strumigenys_s1	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s1	zalla_Allomerus_s1	0
 mami_Strumigenys_s1	zalla_Daceton_s0	0
 mami_Strumigenys_s1	zalla_Apterostigma_s1	0
 mami_Strumigenys_s1	zalla_Myrmicocrypta_s1	0
@@ -41430,7 +40904,6 @@ mami_Strumigenys_s2	zalla_Solenopsis_s3	0
 mami_Strumigenys_s2	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s2	zalla_Tranopelta_s0	0
 mami_Strumigenys_s2	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s2	zalla_Allomerus_s1	0
 mami_Strumigenys_s2	zalla_Daceton_s0	0
 mami_Strumigenys_s2	zalla_Apterostigma_s1	0
 mami_Strumigenys_s2	zalla_Myrmicocrypta_s1	0
@@ -41722,7 +41195,6 @@ mami_Strumigenys_s3	zalla_Solenopsis_s3	0
 mami_Strumigenys_s3	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s3	zalla_Tranopelta_s0	0
 mami_Strumigenys_s3	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s3	zalla_Allomerus_s1	0
 mami_Strumigenys_s3	zalla_Daceton_s0	0
 mami_Strumigenys_s3	zalla_Apterostigma_s1	0
 mami_Strumigenys_s3	zalla_Myrmicocrypta_s1	0
@@ -42013,7 +41485,6 @@ mami_Strumigenys_s4	zalla_Solenopsis_s3	0
 mami_Strumigenys_s4	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s4	zalla_Tranopelta_s0	0
 mami_Strumigenys_s4	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s4	zalla_Allomerus_s1	0
 mami_Strumigenys_s4	zalla_Daceton_s0	0
 mami_Strumigenys_s4	zalla_Apterostigma_s1	0
 mami_Strumigenys_s4	zalla_Myrmicocrypta_s1	0
@@ -42303,7 +41774,6 @@ mami_Strumigenys_s5	zalla_Solenopsis_s3	0
 mami_Strumigenys_s5	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s5	zalla_Tranopelta_s0	0
 mami_Strumigenys_s5	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s5	zalla_Allomerus_s1	0
 mami_Strumigenys_s5	zalla_Daceton_s0	0
 mami_Strumigenys_s5	zalla_Apterostigma_s1	0
 mami_Strumigenys_s5	zalla_Myrmicocrypta_s1	0
@@ -42592,7 +42062,6 @@ mami_Strumigenys_s7	zalla_Solenopsis_s3	0
 mami_Strumigenys_s7	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s7	zalla_Tranopelta_s0	0
 mami_Strumigenys_s7	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s7	zalla_Allomerus_s1	0
 mami_Strumigenys_s7	zalla_Daceton_s0	0
 mami_Strumigenys_s7	zalla_Apterostigma_s1	0
 mami_Strumigenys_s7	zalla_Myrmicocrypta_s1	0
@@ -42880,7 +42349,6 @@ mami_Strumigenys_s9	zalla_Solenopsis_s3	0
 mami_Strumigenys_s9	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s9	zalla_Tranopelta_s0	0
 mami_Strumigenys_s9	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s9	zalla_Allomerus_s1	0
 mami_Strumigenys_s9	zalla_Daceton_s0	0
 mami_Strumigenys_s9	zalla_Apterostigma_s1	0
 mami_Strumigenys_s9	zalla_Myrmicocrypta_s1	0
@@ -43167,7 +42635,6 @@ mami_Strumigenys_s10	zalla_Solenopsis_s3	0
 mami_Strumigenys_s10	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s10	zalla_Tranopelta_s0	0
 mami_Strumigenys_s10	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s10	zalla_Allomerus_s1	0
 mami_Strumigenys_s10	zalla_Daceton_s0	0
 mami_Strumigenys_s10	zalla_Apterostigma_s1	0
 mami_Strumigenys_s10	zalla_Myrmicocrypta_s1	0
@@ -43453,7 +42920,6 @@ mami_Strumigenys_s12	zalla_Solenopsis_s3	0
 mami_Strumigenys_s12	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s12	zalla_Tranopelta_s0	0
 mami_Strumigenys_s12	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s12	zalla_Allomerus_s1	0
 mami_Strumigenys_s12	zalla_Daceton_s0	0
 mami_Strumigenys_s12	zalla_Apterostigma_s1	0
 mami_Strumigenys_s12	zalla_Myrmicocrypta_s1	0
@@ -43738,7 +43204,6 @@ mami_Strumigenys_s14	zalla_Solenopsis_s3	0
 mami_Strumigenys_s14	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s14	zalla_Tranopelta_s0	0
 mami_Strumigenys_s14	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s14	zalla_Allomerus_s1	0
 mami_Strumigenys_s14	zalla_Daceton_s0	0
 mami_Strumigenys_s14	zalla_Apterostigma_s1	0
 mami_Strumigenys_s14	zalla_Myrmicocrypta_s1	0
@@ -44022,7 +43487,6 @@ mami_Strumigenys_s16	zalla_Solenopsis_s3	0
 mami_Strumigenys_s16	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s16	zalla_Tranopelta_s0	0
 mami_Strumigenys_s16	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s16	zalla_Allomerus_s1	0
 mami_Strumigenys_s16	zalla_Daceton_s0	0
 mami_Strumigenys_s16	zalla_Apterostigma_s1	0
 mami_Strumigenys_s16	zalla_Myrmicocrypta_s1	0
@@ -44305,7 +43769,6 @@ mami_Strumigenys_s17	zalla_Solenopsis_s3	0
 mami_Strumigenys_s17	zalla_Syllophopsis_s1	0
 mami_Strumigenys_s17	zalla_Tranopelta_s0	0
 mami_Strumigenys_s17	zalla_Blepharidatta_s1	0
-mami_Strumigenys_s17	zalla_Allomerus_s1	0
 mami_Strumigenys_s17	zalla_Daceton_s0	0
 mami_Strumigenys_s17	zalla_Apterostigma_s1	0
 mami_Strumigenys_s17	zalla_Myrmicocrypta_s1	0
@@ -44587,7 +44050,6 @@ mami_Syllophopsis_s0	zalla_Solenopsis_s3	0
 mami_Syllophopsis_s0	zalla_Syllophopsis_s1	3
 mami_Syllophopsis_s0	zalla_Tranopelta_s0	0
 mami_Syllophopsis_s0	zalla_Blepharidatta_s1	0
-mami_Syllophopsis_s0	zalla_Allomerus_s1	0
 mami_Syllophopsis_s0	zalla_Daceton_s0	0
 mami_Syllophopsis_s0	zalla_Apterostigma_s1	0
 mami_Syllophopsis_s0	zalla_Myrmicocrypta_s1	0
@@ -44868,7 +44330,6 @@ mami_Monomorium_s4	zalla_Solenopsis_s3	0
 mami_Monomorium_s4	zalla_Syllophopsis_s1	0
 mami_Monomorium_s4	zalla_Tranopelta_s0	0
 mami_Monomorium_s4	zalla_Blepharidatta_s1	0
-mami_Monomorium_s4	zalla_Allomerus_s1	0
 mami_Monomorium_s4	zalla_Daceton_s0	0
 mami_Monomorium_s4	zalla_Apterostigma_s1	0
 mami_Monomorium_s4	zalla_Myrmicocrypta_s1	0
@@ -45148,7 +44609,6 @@ mami_Monomorium_s6	zalla_Solenopsis_s3	0
 mami_Monomorium_s6	zalla_Syllophopsis_s1	0
 mami_Monomorium_s6	zalla_Tranopelta_s0	0
 mami_Monomorium_s6	zalla_Blepharidatta_s1	0
-mami_Monomorium_s6	zalla_Allomerus_s1	0
 mami_Monomorium_s6	zalla_Daceton_s0	0
 mami_Monomorium_s6	zalla_Apterostigma_s1	0
 mami_Monomorium_s6	zalla_Myrmicocrypta_s1	0
@@ -45427,7 +44887,6 @@ mami_Monomorium_s7	zalla_Solenopsis_s3	0
 mami_Monomorium_s7	zalla_Syllophopsis_s1	0
 mami_Monomorium_s7	zalla_Tranopelta_s0	0
 mami_Monomorium_s7	zalla_Blepharidatta_s1	0
-mami_Monomorium_s7	zalla_Allomerus_s1	0
 mami_Monomorium_s7	zalla_Daceton_s0	0
 mami_Monomorium_s7	zalla_Apterostigma_s1	0
 mami_Monomorium_s7	zalla_Myrmicocrypta_s1	0
@@ -45705,7 +45164,6 @@ mami_Monomorium_s3	zalla_Solenopsis_s3	0
 mami_Monomorium_s3	zalla_Syllophopsis_s1	0
 mami_Monomorium_s3	zalla_Tranopelta_s0	0
 mami_Monomorium_s3	zalla_Blepharidatta_s1	0
-mami_Monomorium_s3	zalla_Allomerus_s1	0
 mami_Monomorium_s3	zalla_Daceton_s0	0
 mami_Monomorium_s3	zalla_Apterostigma_s1	0
 mami_Monomorium_s3	zalla_Myrmicocrypta_s1	0
@@ -45982,7 +45440,6 @@ mami_Tetramorium_s2	zalla_Solenopsis_s3	0
 mami_Tetramorium_s2	zalla_Syllophopsis_s1	0
 mami_Tetramorium_s2	zalla_Tranopelta_s0	0
 mami_Tetramorium_s2	zalla_Blepharidatta_s1	0
-mami_Tetramorium_s2	zalla_Allomerus_s1	0
 mami_Tetramorium_s2	zalla_Daceton_s0	0
 mami_Tetramorium_s2	zalla_Apterostigma_s1	0
 mami_Tetramorium_s2	zalla_Myrmicocrypta_s1	0
@@ -46258,7 +45715,6 @@ mami_Tetramorium_s4	zalla_Solenopsis_s3	0
 mami_Tetramorium_s4	zalla_Syllophopsis_s1	0
 mami_Tetramorium_s4	zalla_Tranopelta_s0	0
 mami_Tetramorium_s4	zalla_Blepharidatta_s1	0
-mami_Tetramorium_s4	zalla_Allomerus_s1	0
 mami_Tetramorium_s4	zalla_Daceton_s0	0
 mami_Tetramorium_s4	zalla_Apterostigma_s1	0
 mami_Tetramorium_s4	zalla_Myrmicocrypta_s1	0
@@ -46533,7 +45989,6 @@ mami_Tetramorium_s6	zalla_Solenopsis_s3	0
 mami_Tetramorium_s6	zalla_Syllophopsis_s1	0
 mami_Tetramorium_s6	zalla_Tranopelta_s0	0
 mami_Tetramorium_s6	zalla_Blepharidatta_s1	0
-mami_Tetramorium_s6	zalla_Allomerus_s1	0
 mami_Tetramorium_s6	zalla_Daceton_s0	0
 mami_Tetramorium_s6	zalla_Apterostigma_s1	0
 mami_Tetramorium_s6	zalla_Myrmicocrypta_s1	0
@@ -46807,7 +46262,6 @@ mami_Tetramorium_s8	zalla_Solenopsis_s3	0
 mami_Tetramorium_s8	zalla_Syllophopsis_s1	0
 mami_Tetramorium_s8	zalla_Tranopelta_s0	0
 mami_Tetramorium_s8	zalla_Blepharidatta_s1	0
-mami_Tetramorium_s8	zalla_Allomerus_s1	0
 mami_Tetramorium_s8	zalla_Daceton_s0	0
 mami_Tetramorium_s8	zalla_Apterostigma_s1	0
 mami_Tetramorium_s8	zalla_Myrmicocrypta_s1	0
@@ -47080,7 +46534,6 @@ mami_Tetramorium_s9	zalla_Solenopsis_s3	0
 mami_Tetramorium_s9	zalla_Syllophopsis_s1	0
 mami_Tetramorium_s9	zalla_Tranopelta_s0	0
 mami_Tetramorium_s9	zalla_Blepharidatta_s1	0
-mami_Tetramorium_s9	zalla_Allomerus_s1	0
 mami_Tetramorium_s9	zalla_Daceton_s0	0
 mami_Tetramorium_s9	zalla_Apterostigma_s1	0
 mami_Tetramorium_s9	zalla_Myrmicocrypta_s1	0
@@ -47352,7 +46805,6 @@ mami_Carebara_s0	zalla_Solenopsis_s3	0
 mami_Carebara_s0	zalla_Syllophopsis_s1	0
 mami_Carebara_s0	zalla_Tranopelta_s0	0
 mami_Carebara_s0	zalla_Blepharidatta_s1	0
-mami_Carebara_s0	zalla_Allomerus_s1	0
 mami_Carebara_s0	zalla_Daceton_s0	0
 mami_Carebara_s0	zalla_Apterostigma_s1	0
 mami_Carebara_s0	zalla_Myrmicocrypta_s1	0
@@ -47623,7 +47075,6 @@ mami_Nesomyrmex_s0	zalla_Solenopsis_s3	0
 mami_Nesomyrmex_s0	zalla_Syllophopsis_s1	0
 mami_Nesomyrmex_s0	zalla_Tranopelta_s0	0
 mami_Nesomyrmex_s0	zalla_Blepharidatta_s1	0
-mami_Nesomyrmex_s0	zalla_Allomerus_s1	0
 mami_Nesomyrmex_s0	zalla_Daceton_s0	0
 mami_Nesomyrmex_s0	zalla_Apterostigma_s1	0
 mami_Nesomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -47893,7 +47344,6 @@ mami_Cataulacus_s0	zalla_Solenopsis_s3	0
 mami_Cataulacus_s0	zalla_Syllophopsis_s1	0
 mami_Cataulacus_s0	zalla_Tranopelta_s0	0
 mami_Cataulacus_s0	zalla_Blepharidatta_s1	0
-mami_Cataulacus_s0	zalla_Allomerus_s1	0
 mami_Cataulacus_s0	zalla_Daceton_s0	0
 mami_Cataulacus_s0	zalla_Apterostigma_s1	0
 mami_Cataulacus_s0	zalla_Myrmicocrypta_s1	0
@@ -48162,7 +47612,6 @@ mami_Meranoplus_s0	zalla_Solenopsis_s3	0
 mami_Meranoplus_s0	zalla_Syllophopsis_s1	0
 mami_Meranoplus_s0	zalla_Tranopelta_s0	0
 mami_Meranoplus_s0	zalla_Blepharidatta_s1	0
-mami_Meranoplus_s0	zalla_Allomerus_s1	0
 mami_Meranoplus_s0	zalla_Daceton_s0	0
 mami_Meranoplus_s0	zalla_Apterostigma_s1	0
 mami_Meranoplus_s0	zalla_Myrmicocrypta_s1	0
@@ -48430,7 +47879,6 @@ mami_Crematogaster_s1	zalla_Solenopsis_s3	0
 mami_Crematogaster_s1	zalla_Syllophopsis_s1	0
 mami_Crematogaster_s1	zalla_Tranopelta_s0	0
 mami_Crematogaster_s1	zalla_Blepharidatta_s1	0
-mami_Crematogaster_s1	zalla_Allomerus_s1	0
 mami_Crematogaster_s1	zalla_Daceton_s0	0
 mami_Crematogaster_s1	zalla_Apterostigma_s1	0
 mami_Crematogaster_s1	zalla_Myrmicocrypta_s1	0
@@ -48697,7 +48145,6 @@ mami_Crematogaster_s2	zalla_Solenopsis_s3	0
 mami_Crematogaster_s2	zalla_Syllophopsis_s1	0
 mami_Crematogaster_s2	zalla_Tranopelta_s0	0
 mami_Crematogaster_s2	zalla_Blepharidatta_s1	0
-mami_Crematogaster_s2	zalla_Allomerus_s1	0
 mami_Crematogaster_s2	zalla_Daceton_s0	0
 mami_Crematogaster_s2	zalla_Apterostigma_s1	0
 mami_Crematogaster_s2	zalla_Myrmicocrypta_s1	0
@@ -48963,7 +48410,6 @@ melo_s0	zalla_Solenopsis_s3	0
 melo_s0	zalla_Syllophopsis_s1	0
 melo_s0	zalla_Tranopelta_s0	0
 melo_s0	zalla_Blepharidatta_s1	0
-melo_s0	zalla_Allomerus_s1	0
 melo_s0	zalla_Daceton_s0	0
 melo_s0	zalla_Apterostigma_s1	0
 melo_s0	zalla_Myrmicocrypta_s1	0
@@ -49228,7 +48674,6 @@ mycr_Mycocepurus_s0	zalla_Solenopsis_s3	0
 mycr_Mycocepurus_s0	zalla_Syllophopsis_s1	0
 mycr_Mycocepurus_s0	zalla_Tranopelta_s0	0
 mycr_Mycocepurus_s0	zalla_Blepharidatta_s1	0
-mycr_Mycocepurus_s0	zalla_Allomerus_s1	0
 mycr_Mycocepurus_s0	zalla_Daceton_s0	0
 mycr_Mycocepurus_s0	zalla_Apterostigma_s1	0
 mycr_Mycocepurus_s0	zalla_Myrmicocrypta_s1	0
@@ -49492,7 +48937,6 @@ mycr_Myrmicocrypta_s1	zalla_Solenopsis_s3	0
 mycr_Myrmicocrypta_s1	zalla_Syllophopsis_s1	0
 mycr_Myrmicocrypta_s1	zalla_Tranopelta_s0	0
 mycr_Myrmicocrypta_s1	zalla_Blepharidatta_s1	0
-mycr_Myrmicocrypta_s1	zalla_Allomerus_s1	0
 mycr_Myrmicocrypta_s1	zalla_Daceton_s0	0
 mycr_Myrmicocrypta_s1	zalla_Apterostigma_s1	0
 mycr_Myrmicocrypta_s1	zalla_Myrmicocrypta_s1	2
@@ -49755,7 +49199,6 @@ mymi_Myrmica_s5	zalla_Solenopsis_s3	0
 mymi_Myrmica_s5	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s5	zalla_Tranopelta_s0	0
 mymi_Myrmica_s5	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s5	zalla_Allomerus_s1	0
 mymi_Myrmica_s5	zalla_Daceton_s0	0
 mymi_Myrmica_s5	zalla_Apterostigma_s1	0
 mymi_Myrmica_s5	zalla_Myrmicocrypta_s1	0
@@ -50017,7 +49460,6 @@ mymi_Myrmica_s6	zalla_Solenopsis_s3	0
 mymi_Myrmica_s6	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s6	zalla_Tranopelta_s0	0
 mymi_Myrmica_s6	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s6	zalla_Allomerus_s1	0
 mymi_Myrmica_s6	zalla_Daceton_s0	0
 mymi_Myrmica_s6	zalla_Apterostigma_s1	0
 mymi_Myrmica_s6	zalla_Myrmicocrypta_s1	0
@@ -50278,7 +49720,6 @@ mymi_Myrmica_s9	zalla_Solenopsis_s3	0
 mymi_Myrmica_s9	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s9	zalla_Tranopelta_s0	0
 mymi_Myrmica_s9	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s9	zalla_Allomerus_s1	0
 mymi_Myrmica_s9	zalla_Daceton_s0	0
 mymi_Myrmica_s9	zalla_Apterostigma_s1	0
 mymi_Myrmica_s9	zalla_Myrmicocrypta_s1	0
@@ -50538,7 +49979,6 @@ mymi_Myrmica_s10	zalla_Solenopsis_s3	0
 mymi_Myrmica_s10	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s10	zalla_Tranopelta_s0	0
 mymi_Myrmica_s10	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s10	zalla_Allomerus_s1	0
 mymi_Myrmica_s10	zalla_Daceton_s0	0
 mymi_Myrmica_s10	zalla_Apterostigma_s1	0
 mymi_Myrmica_s10	zalla_Myrmicocrypta_s1	0
@@ -50797,7 +50237,6 @@ mymi_Myrmica_s8	zalla_Solenopsis_s3	0
 mymi_Myrmica_s8	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s8	zalla_Tranopelta_s0	0
 mymi_Myrmica_s8	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s8	zalla_Allomerus_s1	0
 mymi_Myrmica_s8	zalla_Daceton_s0	0
 mymi_Myrmica_s8	zalla_Apterostigma_s1	0
 mymi_Myrmica_s8	zalla_Myrmicocrypta_s1	0
@@ -51055,7 +50494,6 @@ mymi_Myrmica_s11	zalla_Solenopsis_s3	0
 mymi_Myrmica_s11	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s11	zalla_Tranopelta_s0	0
 mymi_Myrmica_s11	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s11	zalla_Allomerus_s1	0
 mymi_Myrmica_s11	zalla_Daceton_s0	0
 mymi_Myrmica_s11	zalla_Apterostigma_s1	0
 mymi_Myrmica_s11	zalla_Myrmicocrypta_s1	0
@@ -51312,7 +50750,6 @@ mymi_Myrmica_s13	zalla_Solenopsis_s3	0
 mymi_Myrmica_s13	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s13	zalla_Tranopelta_s0	0
 mymi_Myrmica_s13	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s13	zalla_Allomerus_s1	0
 mymi_Myrmica_s13	zalla_Daceton_s0	0
 mymi_Myrmica_s13	zalla_Apterostigma_s1	0
 mymi_Myrmica_s13	zalla_Myrmicocrypta_s1	0
@@ -51568,7 +51005,6 @@ mymi_Myrmica_s14	zalla_Solenopsis_s3	0
 mymi_Myrmica_s14	zalla_Syllophopsis_s1	0
 mymi_Myrmica_s14	zalla_Tranopelta_s0	0
 mymi_Myrmica_s14	zalla_Blepharidatta_s1	0
-mymi_Myrmica_s14	zalla_Allomerus_s1	0
 mymi_Myrmica_s14	zalla_Daceton_s0	0
 mymi_Myrmica_s14	zalla_Apterostigma_s1	0
 mymi_Myrmica_s14	zalla_Myrmicocrypta_s1	0
@@ -51823,7 +51259,6 @@ myre_Myrmecia_s2	zalla_Solenopsis_s3	0
 myre_Myrmecia_s2	zalla_Syllophopsis_s1	0
 myre_Myrmecia_s2	zalla_Tranopelta_s0	0
 myre_Myrmecia_s2	zalla_Blepharidatta_s1	0
-myre_Myrmecia_s2	zalla_Allomerus_s1	0
 myre_Myrmecia_s2	zalla_Daceton_s0	0
 myre_Myrmecia_s2	zalla_Apterostigma_s1	0
 myre_Myrmecia_s2	zalla_Myrmicocrypta_s1	0
@@ -52077,7 +51512,6 @@ myre_Myrmecia_s3	zalla_Solenopsis_s3	0
 myre_Myrmecia_s3	zalla_Syllophopsis_s1	0
 myre_Myrmecia_s3	zalla_Tranopelta_s0	0
 myre_Myrmecia_s3	zalla_Blepharidatta_s1	0
-myre_Myrmecia_s3	zalla_Allomerus_s1	0
 myre_Myrmecia_s3	zalla_Daceton_s0	0
 myre_Myrmecia_s3	zalla_Apterostigma_s1	0
 myre_Myrmecia_s3	zalla_Myrmicocrypta_s1	0
@@ -52330,7 +51764,6 @@ myre_Myrmecia_s4	zalla_Solenopsis_s3	0
 myre_Myrmecia_s4	zalla_Syllophopsis_s1	0
 myre_Myrmecia_s4	zalla_Tranopelta_s0	0
 myre_Myrmecia_s4	zalla_Blepharidatta_s1	0
-myre_Myrmecia_s4	zalla_Allomerus_s1	0
 myre_Myrmecia_s4	zalla_Daceton_s0	0
 myre_Myrmecia_s4	zalla_Apterostigma_s1	0
 myre_Myrmecia_s4	zalla_Myrmicocrypta_s1	0
@@ -52582,7 +52015,6 @@ myre_Myrmecia_s5	zalla_Solenopsis_s3	0
 myre_Myrmecia_s5	zalla_Syllophopsis_s1	0
 myre_Myrmecia_s5	zalla_Tranopelta_s0	0
 myre_Myrmecia_s5	zalla_Blepharidatta_s1	0
-myre_Myrmecia_s5	zalla_Allomerus_s1	0
 myre_Myrmecia_s5	zalla_Daceton_s0	0
 myre_Myrmecia_s5	zalla_Apterostigma_s1	0
 myre_Myrmecia_s5	zalla_Myrmicocrypta_s1	0
@@ -52833,7 +52265,6 @@ myre_Myrmecia_s6	zalla_Solenopsis_s3	0
 myre_Myrmecia_s6	zalla_Syllophopsis_s1	0
 myre_Myrmecia_s6	zalla_Tranopelta_s0	0
 myre_Myrmecia_s6	zalla_Blepharidatta_s1	0
-myre_Myrmecia_s6	zalla_Allomerus_s1	0
 myre_Myrmecia_s6	zalla_Daceton_s0	0
 myre_Myrmecia_s6	zalla_Apterostigma_s1	0
 myre_Myrmecia_s6	zalla_Myrmicocrypta_s1	0
@@ -53083,7 +52514,6 @@ myrm_Myrmica_s2	zalla_Solenopsis_s3	0
 myrm_Myrmica_s2	zalla_Syllophopsis_s1	0
 myrm_Myrmica_s2	zalla_Tranopelta_s0	0
 myrm_Myrmica_s2	zalla_Blepharidatta_s1	0
-myrm_Myrmica_s2	zalla_Allomerus_s1	0
 myrm_Myrmica_s2	zalla_Daceton_s0	0
 myrm_Myrmica_s2	zalla_Apterostigma_s1	0
 myrm_Myrmica_s2	zalla_Myrmicocrypta_s1	0
@@ -53332,7 +52762,6 @@ myrm_Myrmica_s3	zalla_Solenopsis_s3	0
 myrm_Myrmica_s3	zalla_Syllophopsis_s1	0
 myrm_Myrmica_s3	zalla_Tranopelta_s0	0
 myrm_Myrmica_s3	zalla_Blepharidatta_s1	0
-myrm_Myrmica_s3	zalla_Allomerus_s1	0
 myrm_Myrmica_s3	zalla_Daceton_s0	0
 myrm_Myrmica_s3	zalla_Apterostigma_s1	0
 myrm_Myrmica_s3	zalla_Myrmicocrypta_s1	0
@@ -53580,7 +53009,6 @@ myrm_Pogonomyrmex_s1	zalla_Solenopsis_s3	0
 myrm_Pogonomyrmex_s1	zalla_Syllophopsis_s1	0
 myrm_Pogonomyrmex_s1	zalla_Tranopelta_s0	0
 myrm_Pogonomyrmex_s1	zalla_Blepharidatta_s1	0
-myrm_Pogonomyrmex_s1	zalla_Allomerus_s1	0
 myrm_Pogonomyrmex_s1	zalla_Daceton_s0	0
 myrm_Pogonomyrmex_s1	zalla_Apterostigma_s1	0
 myrm_Pogonomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -53827,7 +53255,6 @@ myrm_Pogonomyrmex_s2	zalla_Solenopsis_s3	0
 myrm_Pogonomyrmex_s2	zalla_Syllophopsis_s1	0
 myrm_Pogonomyrmex_s2	zalla_Tranopelta_s0	0
 myrm_Pogonomyrmex_s2	zalla_Blepharidatta_s1	0
-myrm_Pogonomyrmex_s2	zalla_Allomerus_s1	0
 myrm_Pogonomyrmex_s2	zalla_Daceton_s0	0
 myrm_Pogonomyrmex_s2	zalla_Apterostigma_s1	0
 myrm_Pogonomyrmex_s2	zalla_Myrmicocrypta_s1	0
@@ -54073,7 +53500,6 @@ myrm_Adelomyrmex_s0	zalla_Solenopsis_s3	0
 myrm_Adelomyrmex_s0	zalla_Syllophopsis_s1	0
 myrm_Adelomyrmex_s0	zalla_Tranopelta_s0	0
 myrm_Adelomyrmex_s0	zalla_Blepharidatta_s1	0
-myrm_Adelomyrmex_s0	zalla_Allomerus_s1	0
 myrm_Adelomyrmex_s0	zalla_Daceton_s0	0
 myrm_Adelomyrmex_s0	zalla_Apterostigma_s1	0
 myrm_Adelomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -54318,7 +53744,6 @@ myrm_Monomorium_s0	zalla_Solenopsis_s3	0
 myrm_Monomorium_s0	zalla_Syllophopsis_s1	0
 myrm_Monomorium_s0	zalla_Tranopelta_s0	0
 myrm_Monomorium_s0	zalla_Blepharidatta_s1	0
-myrm_Monomorium_s0	zalla_Allomerus_s1	0
 myrm_Monomorium_s0	zalla_Daceton_s0	0
 myrm_Monomorium_s0	zalla_Apterostigma_s1	0
 myrm_Monomorium_s0	zalla_Myrmicocrypta_s1	0
@@ -54562,7 +53987,6 @@ myrm_Basiceros_s0	zalla_Solenopsis_s3	0
 myrm_Basiceros_s0	zalla_Syllophopsis_s1	0
 myrm_Basiceros_s0	zalla_Tranopelta_s0	0
 myrm_Basiceros_s0	zalla_Blepharidatta_s1	0
-myrm_Basiceros_s0	zalla_Allomerus_s1	0
 myrm_Basiceros_s0	zalla_Daceton_s0	0
 myrm_Basiceros_s0	zalla_Apterostigma_s1	0
 myrm_Basiceros_s0	zalla_Myrmicocrypta_s1	0
@@ -54805,7 +54229,6 @@ myrm_Pheidole_s1	zalla_Solenopsis_s3	0
 myrm_Pheidole_s1	zalla_Syllophopsis_s1	0
 myrm_Pheidole_s1	zalla_Tranopelta_s0	0
 myrm_Pheidole_s1	zalla_Blepharidatta_s1	0
-myrm_Pheidole_s1	zalla_Allomerus_s1	0
 myrm_Pheidole_s1	zalla_Daceton_s0	0
 myrm_Pheidole_s1	zalla_Apterostigma_s1	0
 myrm_Pheidole_s1	zalla_Myrmicocrypta_s1	0
@@ -55047,7 +54470,6 @@ myrm_Ocymyrmex_s0	zalla_Solenopsis_s3	0
 myrm_Ocymyrmex_s0	zalla_Syllophopsis_s1	0
 myrm_Ocymyrmex_s0	zalla_Tranopelta_s0	0
 myrm_Ocymyrmex_s0	zalla_Blepharidatta_s1	0
-myrm_Ocymyrmex_s0	zalla_Allomerus_s1	0
 myrm_Ocymyrmex_s0	zalla_Daceton_s0	0
 myrm_Ocymyrmex_s0	zalla_Apterostigma_s1	0
 myrm_Ocymyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -55288,7 +54710,6 @@ myrm_Nesomyrmex_s0	zalla_Solenopsis_s3	0
 myrm_Nesomyrmex_s0	zalla_Syllophopsis_s1	0
 myrm_Nesomyrmex_s0	zalla_Tranopelta_s0	0
 myrm_Nesomyrmex_s0	zalla_Blepharidatta_s1	0
-myrm_Nesomyrmex_s0	zalla_Allomerus_s1	0
 myrm_Nesomyrmex_s0	zalla_Daceton_s0	0
 myrm_Nesomyrmex_s0	zalla_Apterostigma_s1	0
 myrm_Nesomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -55528,7 +54949,6 @@ myrm_Cataulacus_s0	zalla_Solenopsis_s3	0
 myrm_Cataulacus_s0	zalla_Syllophopsis_s1	0
 myrm_Cataulacus_s0	zalla_Tranopelta_s0	0
 myrm_Cataulacus_s0	zalla_Blepharidatta_s1	0
-myrm_Cataulacus_s0	zalla_Allomerus_s1	0
 myrm_Cataulacus_s0	zalla_Daceton_s0	0
 myrm_Cataulacus_s0	zalla_Apterostigma_s1	0
 myrm_Cataulacus_s0	zalla_Myrmicocrypta_s1	0
@@ -55767,7 +55187,6 @@ myrm_Carebara_s0	zalla_Solenopsis_s3	0
 myrm_Carebara_s0	zalla_Syllophopsis_s1	0
 myrm_Carebara_s0	zalla_Tranopelta_s0	0
 myrm_Carebara_s0	zalla_Blepharidatta_s1	0
-myrm_Carebara_s0	zalla_Allomerus_s1	0
 myrm_Carebara_s0	zalla_Daceton_s0	0
 myrm_Carebara_s0	zalla_Apterostigma_s1	0
 myrm_Carebara_s0	zalla_Myrmicocrypta_s1	0
@@ -56005,7 +55424,6 @@ myrm_Tetramorium_s0	zalla_Solenopsis_s3	0
 myrm_Tetramorium_s0	zalla_Syllophopsis_s1	0
 myrm_Tetramorium_s0	zalla_Tranopelta_s0	0
 myrm_Tetramorium_s0	zalla_Blepharidatta_s1	0
-myrm_Tetramorium_s0	zalla_Allomerus_s1	0
 myrm_Tetramorium_s0	zalla_Daceton_s0	0
 myrm_Tetramorium_s0	zalla_Apterostigma_s1	0
 myrm_Tetramorium_s0	zalla_Myrmicocrypta_s1	0
@@ -56242,7 +55660,6 @@ myrm_Crematogaster_s1	zalla_Solenopsis_s3	0
 myrm_Crematogaster_s1	zalla_Syllophopsis_s1	0
 myrm_Crematogaster_s1	zalla_Tranopelta_s0	0
 myrm_Crematogaster_s1	zalla_Blepharidatta_s1	0
-myrm_Crematogaster_s1	zalla_Allomerus_s1	0
 myrm_Crematogaster_s1	zalla_Daceton_s0	0
 myrm_Crematogaster_s1	zalla_Apterostigma_s1	0
 myrm_Crematogaster_s1	zalla_Myrmicocrypta_s1	0
@@ -56478,7 +55895,6 @@ myrm_Adlerzia_s0	zalla_Solenopsis_s3	0
 myrm_Adlerzia_s0	zalla_Syllophopsis_s1	0
 myrm_Adlerzia_s0	zalla_Tranopelta_s0	0
 myrm_Adlerzia_s0	zalla_Blepharidatta_s1	0
-myrm_Adlerzia_s0	zalla_Allomerus_s1	0
 myrm_Adlerzia_s0	zalla_Daceton_s0	0
 myrm_Adlerzia_s0	zalla_Apterostigma_s1	0
 myrm_Adlerzia_s0	zalla_Myrmicocrypta_s1	0
@@ -56713,7 +56129,6 @@ myrm_Pristomyrmex_s0	zalla_Solenopsis_s3	0
 myrm_Pristomyrmex_s0	zalla_Syllophopsis_s1	0
 myrm_Pristomyrmex_s0	zalla_Tranopelta_s0	0
 myrm_Pristomyrmex_s0	zalla_Blepharidatta_s1	0
-myrm_Pristomyrmex_s0	zalla_Allomerus_s1	0
 myrm_Pristomyrmex_s0	zalla_Daceton_s0	0
 myrm_Pristomyrmex_s0	zalla_Apterostigma_s1	0
 myrm_Pristomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -56947,7 +56362,6 @@ myrm_Vombisidris_s0	zalla_Solenopsis_s3	0
 myrm_Vombisidris_s0	zalla_Syllophopsis_s1	0
 myrm_Vombisidris_s0	zalla_Tranopelta_s0	0
 myrm_Vombisidris_s0	zalla_Blepharidatta_s1	0
-myrm_Vombisidris_s0	zalla_Allomerus_s1	0
 myrm_Vombisidris_s0	zalla_Daceton_s0	0
 myrm_Vombisidris_s0	zalla_Apterostigma_s1	0
 myrm_Vombisidris_s0	zalla_Myrmicocrypta_s1	0
@@ -57180,7 +56594,6 @@ myrm_Harpagoxenus_s0	zalla_Solenopsis_s3	0
 myrm_Harpagoxenus_s0	zalla_Syllophopsis_s1	0
 myrm_Harpagoxenus_s0	zalla_Tranopelta_s0	0
 myrm_Harpagoxenus_s0	zalla_Blepharidatta_s1	0
-myrm_Harpagoxenus_s0	zalla_Allomerus_s1	0
 myrm_Harpagoxenus_s0	zalla_Daceton_s0	0
 myrm_Harpagoxenus_s0	zalla_Apterostigma_s1	0
 myrm_Harpagoxenus_s0	zalla_Myrmicocrypta_s1	0
@@ -57412,7 +56825,6 @@ ocym_Ocymyrmex_s1	zalla_Solenopsis_s3	0
 ocym_Ocymyrmex_s1	zalla_Syllophopsis_s1	0
 ocym_Ocymyrmex_s1	zalla_Tranopelta_s0	0
 ocym_Ocymyrmex_s1	zalla_Blepharidatta_s1	0
-ocym_Ocymyrmex_s1	zalla_Allomerus_s1	0
 ocym_Ocymyrmex_s1	zalla_Daceton_s0	0
 ocym_Ocymyrmex_s1	zalla_Apterostigma_s1	0
 ocym_Ocymyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -57643,7 +57055,6 @@ phei_Pheidole_s1	zalla_Solenopsis_s3	0
 phei_Pheidole_s1	zalla_Syllophopsis_s1	0
 phei_Pheidole_s1	zalla_Tranopelta_s0	0
 phei_Pheidole_s1	zalla_Blepharidatta_s1	0
-phei_Pheidole_s1	zalla_Allomerus_s1	0
 phei_Pheidole_s1	zalla_Daceton_s0	0
 phei_Pheidole_s1	zalla_Apterostigma_s1	0
 phei_Pheidole_s1	zalla_Myrmicocrypta_s1	0
@@ -57873,7 +57284,6 @@ phei_Pheidole_s3	zalla_Solenopsis_s3	0
 phei_Pheidole_s3	zalla_Syllophopsis_s1	0
 phei_Pheidole_s3	zalla_Tranopelta_s0	0
 phei_Pheidole_s3	zalla_Blepharidatta_s1	0
-phei_Pheidole_s3	zalla_Allomerus_s1	0
 phei_Pheidole_s3	zalla_Daceton_s0	0
 phei_Pheidole_s3	zalla_Apterostigma_s1	0
 phei_Pheidole_s3	zalla_Myrmicocrypta_s1	0
@@ -58102,7 +57512,6 @@ phei_Pheidole_s4	zalla_Solenopsis_s3	0
 phei_Pheidole_s4	zalla_Syllophopsis_s1	0
 phei_Pheidole_s4	zalla_Tranopelta_s0	0
 phei_Pheidole_s4	zalla_Blepharidatta_s1	0
-phei_Pheidole_s4	zalla_Allomerus_s1	0
 phei_Pheidole_s4	zalla_Daceton_s0	0
 phei_Pheidole_s4	zalla_Apterostigma_s1	0
 phei_Pheidole_s4	zalla_Myrmicocrypta_s1	0
@@ -58330,7 +57739,6 @@ pogo_Pogonomyrmex_s1	zalla_Solenopsis_s3	0
 pogo_Pogonomyrmex_s1	zalla_Syllophopsis_s1	0
 pogo_Pogonomyrmex_s1	zalla_Tranopelta_s0	0
 pogo_Pogonomyrmex_s1	zalla_Blepharidatta_s1	0
-pogo_Pogonomyrmex_s1	zalla_Allomerus_s1	0
 pogo_Pogonomyrmex_s1	zalla_Daceton_s0	0
 pogo_Pogonomyrmex_s1	zalla_Apterostigma_s1	0
 pogo_Pogonomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -58557,7 +57965,6 @@ pogo_Pogonomyrmex_s2	zalla_Solenopsis_s3	0
 pogo_Pogonomyrmex_s2	zalla_Syllophopsis_s1	0
 pogo_Pogonomyrmex_s2	zalla_Tranopelta_s0	0
 pogo_Pogonomyrmex_s2	zalla_Blepharidatta_s1	0
-pogo_Pogonomyrmex_s2	zalla_Allomerus_s1	0
 pogo_Pogonomyrmex_s2	zalla_Daceton_s0	0
 pogo_Pogonomyrmex_s2	zalla_Apterostigma_s1	0
 pogo_Pogonomyrmex_s2	zalla_Myrmicocrypta_s1	0
@@ -58783,7 +58190,6 @@ pogo_Pogonomyrmex_s3	zalla_Solenopsis_s3	0
 pogo_Pogonomyrmex_s3	zalla_Syllophopsis_s1	0
 pogo_Pogonomyrmex_s3	zalla_Tranopelta_s0	0
 pogo_Pogonomyrmex_s3	zalla_Blepharidatta_s1	0
-pogo_Pogonomyrmex_s3	zalla_Allomerus_s1	0
 pogo_Pogonomyrmex_s3	zalla_Daceton_s0	0
 pogo_Pogonomyrmex_s3	zalla_Apterostigma_s1	0
 pogo_Pogonomyrmex_s3	zalla_Myrmicocrypta_s1	0
@@ -59008,7 +58414,6 @@ pogo_Pogonomyrmex_s4	zalla_Solenopsis_s3	0
 pogo_Pogonomyrmex_s4	zalla_Syllophopsis_s1	0
 pogo_Pogonomyrmex_s4	zalla_Tranopelta_s0	0
 pogo_Pogonomyrmex_s4	zalla_Blepharidatta_s1	0
-pogo_Pogonomyrmex_s4	zalla_Allomerus_s1	0
 pogo_Pogonomyrmex_s4	zalla_Daceton_s0	0
 pogo_Pogonomyrmex_s4	zalla_Apterostigma_s1	0
 pogo_Pogonomyrmex_s4	zalla_Myrmicocrypta_s1	0
@@ -59232,7 +58637,6 @@ polyr_Polyrhachis_s1	zalla_Solenopsis_s3	0
 polyr_Polyrhachis_s1	zalla_Syllophopsis_s1	0
 polyr_Polyrhachis_s1	zalla_Tranopelta_s0	0
 polyr_Polyrhachis_s1	zalla_Blepharidatta_s1	0
-polyr_Polyrhachis_s1	zalla_Allomerus_s1	0
 polyr_Polyrhachis_s1	zalla_Daceton_s0	0
 polyr_Polyrhachis_s1	zalla_Apterostigma_s1	0
 polyr_Polyrhachis_s1	zalla_Myrmicocrypta_s1	0
@@ -59455,7 +58859,6 @@ polyr_Polyrhachis_s2	zalla_Solenopsis_s3	0
 polyr_Polyrhachis_s2	zalla_Syllophopsis_s1	0
 polyr_Polyrhachis_s2	zalla_Tranopelta_s0	0
 polyr_Polyrhachis_s2	zalla_Blepharidatta_s1	0
-polyr_Polyrhachis_s2	zalla_Allomerus_s1	0
 polyr_Polyrhachis_s2	zalla_Daceton_s0	0
 polyr_Polyrhachis_s2	zalla_Apterostigma_s1	0
 polyr_Polyrhachis_s2	zalla_Myrmicocrypta_s1	0
@@ -59677,7 +59080,6 @@ polyr_Polyrhachis_s3	zalla_Solenopsis_s3	0
 polyr_Polyrhachis_s3	zalla_Syllophopsis_s1	0
 polyr_Polyrhachis_s3	zalla_Tranopelta_s0	0
 polyr_Polyrhachis_s3	zalla_Blepharidatta_s1	0
-polyr_Polyrhachis_s3	zalla_Allomerus_s1	0
 polyr_Polyrhachis_s3	zalla_Daceton_s0	0
 polyr_Polyrhachis_s3	zalla_Apterostigma_s1	0
 polyr_Polyrhachis_s3	zalla_Myrmicocrypta_s1	0
@@ -59898,7 +59300,6 @@ polyr_Polyrhachis_s4	zalla_Solenopsis_s3	0
 polyr_Polyrhachis_s4	zalla_Syllophopsis_s1	0
 polyr_Polyrhachis_s4	zalla_Tranopelta_s0	0
 polyr_Polyrhachis_s4	zalla_Blepharidatta_s1	0
-polyr_Polyrhachis_s4	zalla_Allomerus_s1	0
 polyr_Polyrhachis_s4	zalla_Daceton_s0	0
 polyr_Polyrhachis_s4	zalla_Apterostigma_s1	0
 polyr_Polyrhachis_s4	zalla_Myrmicocrypta_s1	0
@@ -60118,7 +59519,6 @@ polyr_Polyrhachis_s6	zalla_Solenopsis_s3	0
 polyr_Polyrhachis_s6	zalla_Syllophopsis_s1	0
 polyr_Polyrhachis_s6	zalla_Tranopelta_s0	0
 polyr_Polyrhachis_s6	zalla_Blepharidatta_s1	0
-polyr_Polyrhachis_s6	zalla_Allomerus_s1	0
 polyr_Polyrhachis_s6	zalla_Daceton_s0	0
 polyr_Polyrhachis_s6	zalla_Apterostigma_s1	0
 polyr_Polyrhachis_s6	zalla_Myrmicocrypta_s1	0
@@ -60337,7 +59737,6 @@ polyr_Polyrhachis_s7	zalla_Solenopsis_s3	0
 polyr_Polyrhachis_s7	zalla_Syllophopsis_s1	0
 polyr_Polyrhachis_s7	zalla_Tranopelta_s0	0
 polyr_Polyrhachis_s7	zalla_Blepharidatta_s1	0
-polyr_Polyrhachis_s7	zalla_Allomerus_s1	0
 polyr_Polyrhachis_s7	zalla_Daceton_s0	0
 polyr_Polyrhachis_s7	zalla_Apterostigma_s1	0
 polyr_Polyrhachis_s7	zalla_Myrmicocrypta_s1	0
@@ -60555,7 +59954,6 @@ pone_Leptogenys_s1	zalla_Solenopsis_s3	0
 pone_Leptogenys_s1	zalla_Syllophopsis_s1	0
 pone_Leptogenys_s1	zalla_Tranopelta_s0	0
 pone_Leptogenys_s1	zalla_Blepharidatta_s1	0
-pone_Leptogenys_s1	zalla_Allomerus_s1	0
 pone_Leptogenys_s1	zalla_Daceton_s0	0
 pone_Leptogenys_s1	zalla_Apterostigma_s1	0
 pone_Leptogenys_s1	zalla_Myrmicocrypta_s1	0
@@ -60772,7 +60170,6 @@ pone_Leptogenys_s2	zalla_Solenopsis_s3	0
 pone_Leptogenys_s2	zalla_Syllophopsis_s1	0
 pone_Leptogenys_s2	zalla_Tranopelta_s0	0
 pone_Leptogenys_s2	zalla_Blepharidatta_s1	0
-pone_Leptogenys_s2	zalla_Allomerus_s1	0
 pone_Leptogenys_s2	zalla_Daceton_s0	0
 pone_Leptogenys_s2	zalla_Apterostigma_s1	0
 pone_Leptogenys_s2	zalla_Myrmicocrypta_s1	0
@@ -60988,7 +60385,6 @@ pone_Hypoponera_s1	zalla_Solenopsis_s3	0
 pone_Hypoponera_s1	zalla_Syllophopsis_s1	0
 pone_Hypoponera_s1	zalla_Tranopelta_s0	0
 pone_Hypoponera_s1	zalla_Blepharidatta_s1	0
-pone_Hypoponera_s1	zalla_Allomerus_s1	0
 pone_Hypoponera_s1	zalla_Daceton_s0	0
 pone_Hypoponera_s1	zalla_Apterostigma_s1	0
 pone_Hypoponera_s1	zalla_Myrmicocrypta_s1	0
@@ -61203,7 +60599,6 @@ pone_Simopelta_s1	zalla_Solenopsis_s3	0
 pone_Simopelta_s1	zalla_Syllophopsis_s1	0
 pone_Simopelta_s1	zalla_Tranopelta_s0	0
 pone_Simopelta_s1	zalla_Blepharidatta_s1	0
-pone_Simopelta_s1	zalla_Allomerus_s1	0
 pone_Simopelta_s1	zalla_Daceton_s0	0
 pone_Simopelta_s1	zalla_Apterostigma_s1	0
 pone_Simopelta_s1	zalla_Myrmicocrypta_s1	0
@@ -61417,7 +60812,6 @@ pseu_Tetraponera_s1	zalla_Solenopsis_s3	0
 pseu_Tetraponera_s1	zalla_Syllophopsis_s1	0
 pseu_Tetraponera_s1	zalla_Tranopelta_s0	0
 pseu_Tetraponera_s1	zalla_Blepharidatta_s1	0
-pseu_Tetraponera_s1	zalla_Allomerus_s1	0
 pseu_Tetraponera_s1	zalla_Daceton_s0	0
 pseu_Tetraponera_s1	zalla_Apterostigma_s1	0
 pseu_Tetraponera_s1	zalla_Myrmicocrypta_s1	0
@@ -61630,7 +61024,6 @@ pseu_Tetraponera_s2	zalla_Solenopsis_s3	0
 pseu_Tetraponera_s2	zalla_Syllophopsis_s1	0
 pseu_Tetraponera_s2	zalla_Tranopelta_s0	0
 pseu_Tetraponera_s2	zalla_Blepharidatta_s1	0
-pseu_Tetraponera_s2	zalla_Allomerus_s1	0
 pseu_Tetraponera_s2	zalla_Daceton_s0	0
 pseu_Tetraponera_s2	zalla_Apterostigma_s1	0
 pseu_Tetraponera_s2	zalla_Myrmicocrypta_s1	0
@@ -61842,7 +61235,6 @@ pseu_Tetraponera_s3	zalla_Solenopsis_s3	0
 pseu_Tetraponera_s3	zalla_Syllophopsis_s1	0
 pseu_Tetraponera_s3	zalla_Tranopelta_s0	0
 pseu_Tetraponera_s3	zalla_Blepharidatta_s1	0
-pseu_Tetraponera_s3	zalla_Allomerus_s1	0
 pseu_Tetraponera_s3	zalla_Daceton_s0	0
 pseu_Tetraponera_s3	zalla_Apterostigma_s1	0
 pseu_Tetraponera_s3	zalla_Myrmicocrypta_s1	0
@@ -62053,7 +61445,6 @@ pseu2_Pseudomyrmex_s1	zalla_Solenopsis_s3	0
 pseu2_Pseudomyrmex_s1	zalla_Syllophopsis_s1	0
 pseu2_Pseudomyrmex_s1	zalla_Tranopelta_s0	0
 pseu2_Pseudomyrmex_s1	zalla_Blepharidatta_s1	0
-pseu2_Pseudomyrmex_s1	zalla_Allomerus_s1	0
 pseu2_Pseudomyrmex_s1	zalla_Daceton_s0	0
 pseu2_Pseudomyrmex_s1	zalla_Apterostigma_s1	0
 pseu2_Pseudomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -62263,7 +61654,6 @@ seco_Dilobocondyla_s0	zalla_Solenopsis_s3	0
 seco_Dilobocondyla_s0	zalla_Syllophopsis_s1	0
 seco_Dilobocondyla_s0	zalla_Tranopelta_s0	0
 seco_Dilobocondyla_s0	zalla_Blepharidatta_s1	0
-seco_Dilobocondyla_s0	zalla_Allomerus_s1	0
 seco_Dilobocondyla_s0	zalla_Daceton_s0	0
 seco_Dilobocondyla_s0	zalla_Apterostigma_s1	0
 seco_Dilobocondyla_s0	zalla_Myrmicocrypta_s1	0
@@ -62472,7 +61862,6 @@ seri_Sericomyrmex_s1	zalla_Solenopsis_s3	0
 seri_Sericomyrmex_s1	zalla_Syllophopsis_s1	0
 seri_Sericomyrmex_s1	zalla_Tranopelta_s0	0
 seri_Sericomyrmex_s1	zalla_Blepharidatta_s1	0
-seri_Sericomyrmex_s1	zalla_Allomerus_s1	0
 seri_Sericomyrmex_s1	zalla_Daceton_s0	0
 seri_Sericomyrmex_s1	zalla_Apterostigma_s1	0
 seri_Sericomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -62680,7 +62069,6 @@ sten_Novomessor_s0	zalla_Solenopsis_s3	0
 sten_Novomessor_s0	zalla_Syllophopsis_s1	0
 sten_Novomessor_s0	zalla_Tranopelta_s0	0
 sten_Novomessor_s0	zalla_Blepharidatta_s1	0
-sten_Novomessor_s0	zalla_Allomerus_s1	0
 sten_Novomessor_s0	zalla_Daceton_s0	0
 sten_Novomessor_s0	zalla_Apterostigma_s1	0
 sten_Novomessor_s0	zalla_Myrmicocrypta_s1	0
@@ -62887,7 +62275,6 @@ stru_Strumigenys_s1	zalla_Solenopsis_s3	0
 stru_Strumigenys_s1	zalla_Syllophopsis_s1	0
 stru_Strumigenys_s1	zalla_Tranopelta_s0	0
 stru_Strumigenys_s1	zalla_Blepharidatta_s1	0
-stru_Strumigenys_s1	zalla_Allomerus_s1	0
 stru_Strumigenys_s1	zalla_Daceton_s0	0
 stru_Strumigenys_s1	zalla_Apterostigma_s1	0
 stru_Strumigenys_s1	zalla_Myrmicocrypta_s1	0
@@ -63093,7 +62480,6 @@ tapi_Tapinoma_s0	zalla_Solenopsis_s3	0
 tapi_Tapinoma_s0	zalla_Syllophopsis_s1	0
 tapi_Tapinoma_s0	zalla_Tranopelta_s0	0
 tapi_Tapinoma_s0	zalla_Blepharidatta_s1	0
-tapi_Tapinoma_s0	zalla_Allomerus_s1	0
 tapi_Tapinoma_s0	zalla_Daceton_s0	0
 tapi_Tapinoma_s0	zalla_Apterostigma_s1	0
 tapi_Tapinoma_s0	zalla_Myrmicocrypta_s1	0
@@ -63298,7 +62684,6 @@ temn_Temnothorax_s1	zalla_Solenopsis_s3	0
 temn_Temnothorax_s1	zalla_Syllophopsis_s1	0
 temn_Temnothorax_s1	zalla_Tranopelta_s0	0
 temn_Temnothorax_s1	zalla_Blepharidatta_s1	0
-temn_Temnothorax_s1	zalla_Allomerus_s1	0
 temn_Temnothorax_s1	zalla_Daceton_s0	0
 temn_Temnothorax_s1	zalla_Apterostigma_s1	0
 temn_Temnothorax_s1	zalla_Myrmicocrypta_s1	0
@@ -63502,7 +62887,6 @@ temn_Temnothorax_s3	zalla_Solenopsis_s3	0
 temn_Temnothorax_s3	zalla_Syllophopsis_s1	0
 temn_Temnothorax_s3	zalla_Tranopelta_s0	0
 temn_Temnothorax_s3	zalla_Blepharidatta_s1	0
-temn_Temnothorax_s3	zalla_Allomerus_s1	0
 temn_Temnothorax_s3	zalla_Daceton_s0	0
 temn_Temnothorax_s3	zalla_Apterostigma_s1	0
 temn_Temnothorax_s3	zalla_Myrmicocrypta_s1	0
@@ -63705,7 +63089,6 @@ temn_Temnothorax_s4	zalla_Solenopsis_s3	0
 temn_Temnothorax_s4	zalla_Syllophopsis_s1	0
 temn_Temnothorax_s4	zalla_Tranopelta_s0	0
 temn_Temnothorax_s4	zalla_Blepharidatta_s1	0
-temn_Temnothorax_s4	zalla_Allomerus_s1	0
 temn_Temnothorax_s4	zalla_Daceton_s0	0
 temn_Temnothorax_s4	zalla_Apterostigma_s1	0
 temn_Temnothorax_s4	zalla_Myrmicocrypta_s1	0
@@ -63907,7 +63290,6 @@ temn_Temnothorax_s6	zalla_Solenopsis_s3	0
 temn_Temnothorax_s6	zalla_Syllophopsis_s1	0
 temn_Temnothorax_s6	zalla_Tranopelta_s0	0
 temn_Temnothorax_s6	zalla_Blepharidatta_s1	0
-temn_Temnothorax_s6	zalla_Allomerus_s1	0
 temn_Temnothorax_s6	zalla_Daceton_s0	0
 temn_Temnothorax_s6	zalla_Apterostigma_s1	0
 temn_Temnothorax_s6	zalla_Myrmicocrypta_s1	0
@@ -64108,7 +63490,6 @@ temn_Temnothorax_s7	zalla_Solenopsis_s3	0
 temn_Temnothorax_s7	zalla_Syllophopsis_s1	0
 temn_Temnothorax_s7	zalla_Tranopelta_s0	0
 temn_Temnothorax_s7	zalla_Blepharidatta_s1	0
-temn_Temnothorax_s7	zalla_Allomerus_s1	0
 temn_Temnothorax_s7	zalla_Daceton_s0	0
 temn_Temnothorax_s7	zalla_Apterostigma_s1	0
 temn_Temnothorax_s7	zalla_Myrmicocrypta_s1	0
@@ -64308,7 +63689,6 @@ vero_Veromessor_s2	zalla_Solenopsis_s3	0
 vero_Veromessor_s2	zalla_Syllophopsis_s1	0
 vero_Veromessor_s2	zalla_Tranopelta_s0	0
 vero_Veromessor_s2	zalla_Blepharidatta_s1	0
-vero_Veromessor_s2	zalla_Allomerus_s1	0
 vero_Veromessor_s2	zalla_Daceton_s0	0
 vero_Veromessor_s2	zalla_Apterostigma_s1	0
 vero_Veromessor_s2	zalla_Myrmicocrypta_s1	0
@@ -64507,7 +63887,6 @@ vero_Veromessor_s3	zalla_Solenopsis_s3	0
 vero_Veromessor_s3	zalla_Syllophopsis_s1	0
 vero_Veromessor_s3	zalla_Tranopelta_s0	0
 vero_Veromessor_s3	zalla_Blepharidatta_s1	0
-vero_Veromessor_s3	zalla_Allomerus_s1	0
 vero_Veromessor_s3	zalla_Daceton_s0	0
 vero_Veromessor_s3	zalla_Apterostigma_s1	0
 vero_Veromessor_s3	zalla_Myrmicocrypta_s1	0
@@ -64705,7 +64084,6 @@ zalla_Discothyrea_s0	zalla_Solenopsis_s3	0
 zalla_Discothyrea_s0	zalla_Syllophopsis_s1	0
 zalla_Discothyrea_s0	zalla_Tranopelta_s0	0
 zalla_Discothyrea_s0	zalla_Blepharidatta_s1	0
-zalla_Discothyrea_s0	zalla_Allomerus_s1	0
 zalla_Discothyrea_s0	zalla_Daceton_s0	0
 zalla_Discothyrea_s0	zalla_Apterostigma_s1	0
 zalla_Discothyrea_s0	zalla_Myrmicocrypta_s1	0
@@ -64902,7 +64280,6 @@ zalla_Amblyopone_s0	zalla_Solenopsis_s3	0
 zalla_Amblyopone_s0	zalla_Syllophopsis_s1	0
 zalla_Amblyopone_s0	zalla_Tranopelta_s0	0
 zalla_Amblyopone_s0	zalla_Blepharidatta_s1	0
-zalla_Amblyopone_s0	zalla_Allomerus_s1	0
 zalla_Amblyopone_s0	zalla_Daceton_s0	0
 zalla_Amblyopone_s0	zalla_Apterostigma_s1	0
 zalla_Amblyopone_s0	zalla_Myrmicocrypta_s1	0
@@ -65098,7 +64475,6 @@ zalla_Stigmatomma_s1	zalla_Solenopsis_s3	0
 zalla_Stigmatomma_s1	zalla_Syllophopsis_s1	0
 zalla_Stigmatomma_s1	zalla_Tranopelta_s0	0
 zalla_Stigmatomma_s1	zalla_Blepharidatta_s1	0
-zalla_Stigmatomma_s1	zalla_Allomerus_s1	0
 zalla_Stigmatomma_s1	zalla_Daceton_s0	0
 zalla_Stigmatomma_s1	zalla_Apterostigma_s1	0
 zalla_Stigmatomma_s1	zalla_Myrmicocrypta_s1	0
@@ -65293,7 +64669,6 @@ zalla_Stigmatomma_s2	zalla_Solenopsis_s3	0
 zalla_Stigmatomma_s2	zalla_Syllophopsis_s1	0
 zalla_Stigmatomma_s2	zalla_Tranopelta_s0	0
 zalla_Stigmatomma_s2	zalla_Blepharidatta_s1	0
-zalla_Stigmatomma_s2	zalla_Allomerus_s1	0
 zalla_Stigmatomma_s2	zalla_Daceton_s0	0
 zalla_Stigmatomma_s2	zalla_Apterostigma_s1	0
 zalla_Stigmatomma_s2	zalla_Myrmicocrypta_s1	0
@@ -65487,7 +64862,6 @@ zalla_Mystrium_s1	zalla_Solenopsis_s3	0
 zalla_Mystrium_s1	zalla_Syllophopsis_s1	0
 zalla_Mystrium_s1	zalla_Tranopelta_s0	0
 zalla_Mystrium_s1	zalla_Blepharidatta_s1	0
-zalla_Mystrium_s1	zalla_Allomerus_s1	0
 zalla_Mystrium_s1	zalla_Daceton_s0	0
 zalla_Mystrium_s1	zalla_Apterostigma_s1	0
 zalla_Mystrium_s1	zalla_Myrmicocrypta_s1	0
@@ -65680,7 +65054,6 @@ zalla_Paraponera_s0	zalla_Solenopsis_s3	0
 zalla_Paraponera_s0	zalla_Syllophopsis_s1	0
 zalla_Paraponera_s0	zalla_Tranopelta_s0	0
 zalla_Paraponera_s0	zalla_Blepharidatta_s1	0
-zalla_Paraponera_s0	zalla_Allomerus_s1	0
 zalla_Paraponera_s0	zalla_Daceton_s0	0
 zalla_Paraponera_s0	zalla_Apterostigma_s1	0
 zalla_Paraponera_s0	zalla_Myrmicocrypta_s1	0
@@ -65872,7 +65245,6 @@ zalla_Platythyrea_s1	zalla_Solenopsis_s3	0
 zalla_Platythyrea_s1	zalla_Syllophopsis_s1	0
 zalla_Platythyrea_s1	zalla_Tranopelta_s0	0
 zalla_Platythyrea_s1	zalla_Blepharidatta_s1	0
-zalla_Platythyrea_s1	zalla_Allomerus_s1	0
 zalla_Platythyrea_s1	zalla_Daceton_s0	0
 zalla_Platythyrea_s1	zalla_Apterostigma_s1	0
 zalla_Platythyrea_s1	zalla_Myrmicocrypta_s1	0
@@ -66063,7 +65435,6 @@ zalla_Mayaponera_s0	zalla_Solenopsis_s3	0
 zalla_Mayaponera_s0	zalla_Syllophopsis_s1	0
 zalla_Mayaponera_s0	zalla_Tranopelta_s0	0
 zalla_Mayaponera_s0	zalla_Blepharidatta_s1	0
-zalla_Mayaponera_s0	zalla_Allomerus_s1	0
 zalla_Mayaponera_s0	zalla_Daceton_s0	0
 zalla_Mayaponera_s0	zalla_Apterostigma_s1	0
 zalla_Mayaponera_s0	zalla_Myrmicocrypta_s1	0
@@ -66253,7 +65624,6 @@ zalla_Pachycondyla_s1	zalla_Solenopsis_s3	0
 zalla_Pachycondyla_s1	zalla_Syllophopsis_s1	0
 zalla_Pachycondyla_s1	zalla_Tranopelta_s0	0
 zalla_Pachycondyla_s1	zalla_Blepharidatta_s1	0
-zalla_Pachycondyla_s1	zalla_Allomerus_s1	0
 zalla_Pachycondyla_s1	zalla_Daceton_s0	0
 zalla_Pachycondyla_s1	zalla_Apterostigma_s1	0
 zalla_Pachycondyla_s1	zalla_Myrmicocrypta_s1	0
@@ -66442,7 +65812,6 @@ zalla_Harpegnathos_s0	zalla_Solenopsis_s3	0
 zalla_Harpegnathos_s0	zalla_Syllophopsis_s1	0
 zalla_Harpegnathos_s0	zalla_Tranopelta_s0	0
 zalla_Harpegnathos_s0	zalla_Blepharidatta_s1	0
-zalla_Harpegnathos_s0	zalla_Allomerus_s1	0
 zalla_Harpegnathos_s0	zalla_Daceton_s0	0
 zalla_Harpegnathos_s0	zalla_Apterostigma_s1	0
 zalla_Harpegnathos_s0	zalla_Myrmicocrypta_s1	0
@@ -66630,7 +65999,6 @@ zalla_Myopias_s0	zalla_Solenopsis_s3	0
 zalla_Myopias_s0	zalla_Syllophopsis_s1	0
 zalla_Myopias_s0	zalla_Tranopelta_s0	0
 zalla_Myopias_s0	zalla_Blepharidatta_s1	0
-zalla_Myopias_s0	zalla_Allomerus_s1	0
 zalla_Myopias_s0	zalla_Daceton_s0	0
 zalla_Myopias_s0	zalla_Apterostigma_s1	0
 zalla_Myopias_s0	zalla_Myrmicocrypta_s1	0
@@ -66817,7 +66185,6 @@ zalla_Leptogenys_s2	zalla_Solenopsis_s3	0
 zalla_Leptogenys_s2	zalla_Syllophopsis_s1	0
 zalla_Leptogenys_s2	zalla_Tranopelta_s0	0
 zalla_Leptogenys_s2	zalla_Blepharidatta_s1	0
-zalla_Leptogenys_s2	zalla_Allomerus_s1	0
 zalla_Leptogenys_s2	zalla_Daceton_s0	0
 zalla_Leptogenys_s2	zalla_Apterostigma_s1	0
 zalla_Leptogenys_s2	zalla_Myrmicocrypta_s1	0
@@ -67003,7 +66370,6 @@ zalla_Leptogenys_s3	zalla_Solenopsis_s3	0
 zalla_Leptogenys_s3	zalla_Syllophopsis_s1	0
 zalla_Leptogenys_s3	zalla_Tranopelta_s0	0
 zalla_Leptogenys_s3	zalla_Blepharidatta_s1	0
-zalla_Leptogenys_s3	zalla_Allomerus_s1	0
 zalla_Leptogenys_s3	zalla_Daceton_s0	0
 zalla_Leptogenys_s3	zalla_Apterostigma_s1	0
 zalla_Leptogenys_s3	zalla_Myrmicocrypta_s1	0
@@ -67188,7 +66554,6 @@ zalla_Leptogenys_s4	zalla_Solenopsis_s3	0
 zalla_Leptogenys_s4	zalla_Syllophopsis_s1	0
 zalla_Leptogenys_s4	zalla_Tranopelta_s0	0
 zalla_Leptogenys_s4	zalla_Blepharidatta_s1	0
-zalla_Leptogenys_s4	zalla_Allomerus_s1	0
 zalla_Leptogenys_s4	zalla_Daceton_s0	0
 zalla_Leptogenys_s4	zalla_Apterostigma_s1	0
 zalla_Leptogenys_s4	zalla_Myrmicocrypta_s1	0
@@ -67372,7 +66737,6 @@ zalla_Brachyponera_s1	zalla_Solenopsis_s3	0
 zalla_Brachyponera_s1	zalla_Syllophopsis_s1	0
 zalla_Brachyponera_s1	zalla_Tranopelta_s0	0
 zalla_Brachyponera_s1	zalla_Blepharidatta_s1	0
-zalla_Brachyponera_s1	zalla_Allomerus_s1	0
 zalla_Brachyponera_s1	zalla_Daceton_s0	0
 zalla_Brachyponera_s1	zalla_Apterostigma_s1	0
 zalla_Brachyponera_s1	zalla_Myrmicocrypta_s1	0
@@ -67555,7 +66919,6 @@ zalla_Streblognathus_s0	zalla_Solenopsis_s3	0
 zalla_Streblognathus_s0	zalla_Syllophopsis_s1	0
 zalla_Streblognathus_s0	zalla_Tranopelta_s0	0
 zalla_Streblognathus_s0	zalla_Blepharidatta_s1	0
-zalla_Streblognathus_s0	zalla_Allomerus_s1	0
 zalla_Streblognathus_s0	zalla_Daceton_s0	0
 zalla_Streblognathus_s0	zalla_Apterostigma_s1	0
 zalla_Streblognathus_s0	zalla_Myrmicocrypta_s1	0
@@ -67737,7 +67100,6 @@ zalla_Xiphopelta_s0	zalla_Solenopsis_s3	0
 zalla_Xiphopelta_s0	zalla_Syllophopsis_s1	0
 zalla_Xiphopelta_s0	zalla_Tranopelta_s0	0
 zalla_Xiphopelta_s0	zalla_Blepharidatta_s1	0
-zalla_Xiphopelta_s0	zalla_Allomerus_s1	0
 zalla_Xiphopelta_s0	zalla_Daceton_s0	0
 zalla_Xiphopelta_s0	zalla_Apterostigma_s1	0
 zalla_Xiphopelta_s0	zalla_Myrmicocrypta_s1	0
@@ -67918,7 +67280,6 @@ zalla_Odontomachus_s1	zalla_Solenopsis_s3	0
 zalla_Odontomachus_s1	zalla_Syllophopsis_s1	0
 zalla_Odontomachus_s1	zalla_Tranopelta_s0	0
 zalla_Odontomachus_s1	zalla_Blepharidatta_s1	0
-zalla_Odontomachus_s1	zalla_Allomerus_s1	0
 zalla_Odontomachus_s1	zalla_Daceton_s0	0
 zalla_Odontomachus_s1	zalla_Apterostigma_s1	0
 zalla_Odontomachus_s1	zalla_Myrmicocrypta_s1	0
@@ -68098,7 +67459,6 @@ zalla_Odontomachus_s2	zalla_Solenopsis_s3	0
 zalla_Odontomachus_s2	zalla_Syllophopsis_s1	0
 zalla_Odontomachus_s2	zalla_Tranopelta_s0	0
 zalla_Odontomachus_s2	zalla_Blepharidatta_s1	0
-zalla_Odontomachus_s2	zalla_Allomerus_s1	0
 zalla_Odontomachus_s2	zalla_Daceton_s0	0
 zalla_Odontomachus_s2	zalla_Apterostigma_s1	0
 zalla_Odontomachus_s2	zalla_Myrmicocrypta_s1	0
@@ -68277,7 +67637,6 @@ zalla_Odontomachus_s3	zalla_Solenopsis_s3	0
 zalla_Odontomachus_s3	zalla_Syllophopsis_s1	0
 zalla_Odontomachus_s3	zalla_Tranopelta_s0	0
 zalla_Odontomachus_s3	zalla_Blepharidatta_s1	0
-zalla_Odontomachus_s3	zalla_Allomerus_s1	0
 zalla_Odontomachus_s3	zalla_Daceton_s0	0
 zalla_Odontomachus_s3	zalla_Apterostigma_s1	0
 zalla_Odontomachus_s3	zalla_Myrmicocrypta_s1	0
@@ -68455,7 +67814,6 @@ zalla_Leptanilloides_s2	zalla_Solenopsis_s3	0
 zalla_Leptanilloides_s2	zalla_Syllophopsis_s1	0
 zalla_Leptanilloides_s2	zalla_Tranopelta_s0	0
 zalla_Leptanilloides_s2	zalla_Blepharidatta_s1	0
-zalla_Leptanilloides_s2	zalla_Allomerus_s1	0
 zalla_Leptanilloides_s2	zalla_Daceton_s0	0
 zalla_Leptanilloides_s2	zalla_Apterostigma_s1	0
 zalla_Leptanilloides_s2	zalla_Myrmicocrypta_s1	0
@@ -68632,7 +67990,6 @@ zalla_Leptanilloides_s3	zalla_Solenopsis_s3	0
 zalla_Leptanilloides_s3	zalla_Syllophopsis_s1	0
 zalla_Leptanilloides_s3	zalla_Tranopelta_s0	0
 zalla_Leptanilloides_s3	zalla_Blepharidatta_s1	0
-zalla_Leptanilloides_s3	zalla_Allomerus_s1	0
 zalla_Leptanilloides_s3	zalla_Daceton_s0	0
 zalla_Leptanilloides_s3	zalla_Apterostigma_s1	0
 zalla_Leptanilloides_s3	zalla_Myrmicocrypta_s1	0
@@ -68808,7 +68165,6 @@ zalla_Simopone_s1	zalla_Solenopsis_s3	0
 zalla_Simopone_s1	zalla_Syllophopsis_s1	0
 zalla_Simopone_s1	zalla_Tranopelta_s0	0
 zalla_Simopone_s1	zalla_Blepharidatta_s1	0
-zalla_Simopone_s1	zalla_Allomerus_s1	0
 zalla_Simopone_s1	zalla_Daceton_s0	0
 zalla_Simopone_s1	zalla_Apterostigma_s1	0
 zalla_Simopone_s1	zalla_Myrmicocrypta_s1	0
@@ -68983,7 +68339,6 @@ zalla_Simopone_s2	zalla_Solenopsis_s3	0
 zalla_Simopone_s2	zalla_Syllophopsis_s1	0
 zalla_Simopone_s2	zalla_Tranopelta_s0	0
 zalla_Simopone_s2	zalla_Blepharidatta_s1	0
-zalla_Simopone_s2	zalla_Allomerus_s1	0
 zalla_Simopone_s2	zalla_Daceton_s0	0
 zalla_Simopone_s2	zalla_Apterostigma_s1	0
 zalla_Simopone_s2	zalla_Myrmicocrypta_s1	0
@@ -69157,7 +68512,6 @@ zalla_Cylindromyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Cylindromyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Cylindromyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Cylindromyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Cylindromyrmex_s0	zalla_Allomerus_s1	0
 zalla_Cylindromyrmex_s0	zalla_Daceton_s0	0
 zalla_Cylindromyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Cylindromyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -69330,7 +68684,6 @@ zalla_Parasyscia_s0	zalla_Solenopsis_s3	0
 zalla_Parasyscia_s0	zalla_Syllophopsis_s1	0
 zalla_Parasyscia_s0	zalla_Tranopelta_s0	0
 zalla_Parasyscia_s0	zalla_Blepharidatta_s1	0
-zalla_Parasyscia_s0	zalla_Allomerus_s1	0
 zalla_Parasyscia_s0	zalla_Daceton_s0	0
 zalla_Parasyscia_s0	zalla_Apterostigma_s1	0
 zalla_Parasyscia_s0	zalla_Myrmicocrypta_s1	0
@@ -69502,7 +68855,6 @@ zalla_Lioponera_s0	zalla_Solenopsis_s3	0
 zalla_Lioponera_s0	zalla_Syllophopsis_s1	0
 zalla_Lioponera_s0	zalla_Tranopelta_s0	0
 zalla_Lioponera_s0	zalla_Blepharidatta_s1	0
-zalla_Lioponera_s0	zalla_Allomerus_s1	0
 zalla_Lioponera_s0	zalla_Daceton_s0	0
 zalla_Lioponera_s0	zalla_Apterostigma_s1	0
 zalla_Lioponera_s0	zalla_Myrmicocrypta_s1	0
@@ -69673,7 +69025,6 @@ zalla_Yunodorylus_s0	zalla_Solenopsis_s3	0
 zalla_Yunodorylus_s0	zalla_Syllophopsis_s1	0
 zalla_Yunodorylus_s0	zalla_Tranopelta_s0	0
 zalla_Yunodorylus_s0	zalla_Blepharidatta_s1	0
-zalla_Yunodorylus_s0	zalla_Allomerus_s1	0
 zalla_Yunodorylus_s0	zalla_Daceton_s0	0
 zalla_Yunodorylus_s0	zalla_Apterostigma_s1	0
 zalla_Yunodorylus_s0	zalla_Myrmicocrypta_s1	0
@@ -69843,7 +69194,6 @@ zalla_Aenictus_s0	zalla_Solenopsis_s3	0
 zalla_Aenictus_s0	zalla_Syllophopsis_s1	0
 zalla_Aenictus_s0	zalla_Tranopelta_s0	0
 zalla_Aenictus_s0	zalla_Blepharidatta_s1	0
-zalla_Aenictus_s0	zalla_Allomerus_s1	0
 zalla_Aenictus_s0	zalla_Daceton_s0	0
 zalla_Aenictus_s0	zalla_Apterostigma_s1	0
 zalla_Aenictus_s0	zalla_Myrmicocrypta_s1	0
@@ -70012,7 +69362,6 @@ zalla_Dorylus_s1	zalla_Solenopsis_s3	0
 zalla_Dorylus_s1	zalla_Syllophopsis_s1	0
 zalla_Dorylus_s1	zalla_Tranopelta_s0	0
 zalla_Dorylus_s1	zalla_Blepharidatta_s1	0
-zalla_Dorylus_s1	zalla_Allomerus_s1	0
 zalla_Dorylus_s1	zalla_Daceton_s0	0
 zalla_Dorylus_s1	zalla_Apterostigma_s1	0
 zalla_Dorylus_s1	zalla_Myrmicocrypta_s1	0
@@ -70180,7 +69529,6 @@ zalla_Dorylus_s2	zalla_Solenopsis_s3	0
 zalla_Dorylus_s2	zalla_Syllophopsis_s1	0
 zalla_Dorylus_s2	zalla_Tranopelta_s0	0
 zalla_Dorylus_s2	zalla_Blepharidatta_s1	0
-zalla_Dorylus_s2	zalla_Allomerus_s1	0
 zalla_Dorylus_s2	zalla_Daceton_s0	0
 zalla_Dorylus_s2	zalla_Apterostigma_s1	0
 zalla_Dorylus_s2	zalla_Myrmicocrypta_s1	0
@@ -70347,7 +69695,6 @@ zalla_Eciton_s1	zalla_Solenopsis_s3	0
 zalla_Eciton_s1	zalla_Syllophopsis_s1	0
 zalla_Eciton_s1	zalla_Tranopelta_s0	0
 zalla_Eciton_s1	zalla_Blepharidatta_s1	0
-zalla_Eciton_s1	zalla_Allomerus_s1	0
 zalla_Eciton_s1	zalla_Daceton_s0	0
 zalla_Eciton_s1	zalla_Apterostigma_s1	0
 zalla_Eciton_s1	zalla_Myrmicocrypta_s1	0
@@ -70513,7 +69860,6 @@ zalla_Neivamyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Neivamyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Neivamyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Neivamyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Neivamyrmex_s0	zalla_Allomerus_s1	0
 zalla_Neivamyrmex_s0	zalla_Daceton_s0	0
 zalla_Neivamyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Neivamyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -70678,7 +70024,6 @@ zalla_Technomyrmex_s2	zalla_Solenopsis_s3	0
 zalla_Technomyrmex_s2	zalla_Syllophopsis_s1	0
 zalla_Technomyrmex_s2	zalla_Tranopelta_s0	0
 zalla_Technomyrmex_s2	zalla_Blepharidatta_s1	0
-zalla_Technomyrmex_s2	zalla_Allomerus_s1	0
 zalla_Technomyrmex_s2	zalla_Daceton_s0	0
 zalla_Technomyrmex_s2	zalla_Apterostigma_s1	0
 zalla_Technomyrmex_s2	zalla_Myrmicocrypta_s1	0
@@ -70842,7 +70187,6 @@ zalla_Technomyrmex_s3	zalla_Solenopsis_s3	0
 zalla_Technomyrmex_s3	zalla_Syllophopsis_s1	0
 zalla_Technomyrmex_s3	zalla_Tranopelta_s0	0
 zalla_Technomyrmex_s3	zalla_Blepharidatta_s1	0
-zalla_Technomyrmex_s3	zalla_Allomerus_s1	0
 zalla_Technomyrmex_s3	zalla_Daceton_s0	0
 zalla_Technomyrmex_s3	zalla_Apterostigma_s1	0
 zalla_Technomyrmex_s3	zalla_Myrmicocrypta_s1	0
@@ -71005,7 +70349,6 @@ zalla_Technomyrmex_s4	zalla_Solenopsis_s3	0
 zalla_Technomyrmex_s4	zalla_Syllophopsis_s1	0
 zalla_Technomyrmex_s4	zalla_Tranopelta_s0	0
 zalla_Technomyrmex_s4	zalla_Blepharidatta_s1	0
-zalla_Technomyrmex_s4	zalla_Allomerus_s1	0
 zalla_Technomyrmex_s4	zalla_Daceton_s0	0
 zalla_Technomyrmex_s4	zalla_Apterostigma_s1	0
 zalla_Technomyrmex_s4	zalla_Myrmicocrypta_s1	0
@@ -71167,7 +70510,6 @@ zalla_Bothriomyrmex_s1	zalla_Solenopsis_s3	0
 zalla_Bothriomyrmex_s1	zalla_Syllophopsis_s1	0
 zalla_Bothriomyrmex_s1	zalla_Tranopelta_s0	0
 zalla_Bothriomyrmex_s1	zalla_Blepharidatta_s1	0
-zalla_Bothriomyrmex_s1	zalla_Allomerus_s1	0
 zalla_Bothriomyrmex_s1	zalla_Daceton_s0	0
 zalla_Bothriomyrmex_s1	zalla_Apterostigma_s1	0
 zalla_Bothriomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -71328,7 +70670,6 @@ zalla_Azteca_s1	zalla_Solenopsis_s3	0
 zalla_Azteca_s1	zalla_Syllophopsis_s1	0
 zalla_Azteca_s1	zalla_Tranopelta_s0	0
 zalla_Azteca_s1	zalla_Blepharidatta_s1	0
-zalla_Azteca_s1	zalla_Allomerus_s1	0
 zalla_Azteca_s1	zalla_Daceton_s0	0
 zalla_Azteca_s1	zalla_Apterostigma_s1	0
 zalla_Azteca_s1	zalla_Myrmicocrypta_s1	0
@@ -71488,7 +70829,6 @@ zalla_Dorymyrmex_s1	zalla_Solenopsis_s3	0
 zalla_Dorymyrmex_s1	zalla_Syllophopsis_s1	0
 zalla_Dorymyrmex_s1	zalla_Tranopelta_s0	0
 zalla_Dorymyrmex_s1	zalla_Blepharidatta_s1	0
-zalla_Dorymyrmex_s1	zalla_Allomerus_s1	0
 zalla_Dorymyrmex_s1	zalla_Daceton_s0	0
 zalla_Dorymyrmex_s1	zalla_Apterostigma_s1	0
 zalla_Dorymyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -71647,7 +70987,6 @@ zalla_Philidris_s0	zalla_Solenopsis_s3	0
 zalla_Philidris_s0	zalla_Syllophopsis_s1	0
 zalla_Philidris_s0	zalla_Tranopelta_s0	0
 zalla_Philidris_s0	zalla_Blepharidatta_s1	0
-zalla_Philidris_s0	zalla_Allomerus_s1	0
 zalla_Philidris_s0	zalla_Daceton_s0	0
 zalla_Philidris_s0	zalla_Apterostigma_s1	0
 zalla_Philidris_s0	zalla_Myrmicocrypta_s1	0
@@ -71805,7 +71144,6 @@ zalla_Froggattella_s1	zalla_Solenopsis_s3	0
 zalla_Froggattella_s1	zalla_Syllophopsis_s1	0
 zalla_Froggattella_s1	zalla_Tranopelta_s0	0
 zalla_Froggattella_s1	zalla_Blepharidatta_s1	0
-zalla_Froggattella_s1	zalla_Allomerus_s1	0
 zalla_Froggattella_s1	zalla_Daceton_s0	0
 zalla_Froggattella_s1	zalla_Apterostigma_s1	0
 zalla_Froggattella_s1	zalla_Myrmicocrypta_s1	0
@@ -71962,7 +71300,6 @@ zalla_Linepithema_s2	zalla_Solenopsis_s3	0
 zalla_Linepithema_s2	zalla_Syllophopsis_s1	0
 zalla_Linepithema_s2	zalla_Tranopelta_s0	0
 zalla_Linepithema_s2	zalla_Blepharidatta_s1	0
-zalla_Linepithema_s2	zalla_Allomerus_s1	0
 zalla_Linepithema_s2	zalla_Daceton_s0	0
 zalla_Linepithema_s2	zalla_Apterostigma_s1	0
 zalla_Linepithema_s2	zalla_Myrmicocrypta_s1	0
@@ -72118,7 +71455,6 @@ zalla_Linepithema_s3	zalla_Solenopsis_s3	0
 zalla_Linepithema_s3	zalla_Syllophopsis_s1	0
 zalla_Linepithema_s3	zalla_Tranopelta_s0	0
 zalla_Linepithema_s3	zalla_Blepharidatta_s1	0
-zalla_Linepithema_s3	zalla_Allomerus_s1	0
 zalla_Linepithema_s3	zalla_Daceton_s0	0
 zalla_Linepithema_s3	zalla_Apterostigma_s1	0
 zalla_Linepithema_s3	zalla_Myrmicocrypta_s1	0
@@ -72273,7 +71609,6 @@ zalla_Myrmecia_s8	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s8	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s8	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s8	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s8	zalla_Allomerus_s1	0
 zalla_Myrmecia_s8	zalla_Daceton_s0	0
 zalla_Myrmecia_s8	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s8	zalla_Myrmicocrypta_s1	0
@@ -72427,7 +71762,6 @@ zalla_Myrmecia_s9	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s9	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s9	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s9	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s9	zalla_Allomerus_s1	0
 zalla_Myrmecia_s9	zalla_Daceton_s0	0
 zalla_Myrmecia_s9	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s9	zalla_Myrmicocrypta_s1	0
@@ -72580,7 +71914,6 @@ zalla_Myrmecia_s3	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s3	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s3	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s3	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s3	zalla_Allomerus_s1	0
 zalla_Myrmecia_s3	zalla_Daceton_s0	0
 zalla_Myrmecia_s3	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s3	zalla_Myrmicocrypta_s1	0
@@ -72732,7 +72065,6 @@ zalla_Myrmecia_s5	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s5	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s5	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s5	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s5	zalla_Allomerus_s1	0
 zalla_Myrmecia_s5	zalla_Daceton_s0	0
 zalla_Myrmecia_s5	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s5	zalla_Myrmicocrypta_s1	0
@@ -72883,7 +72215,6 @@ zalla_Myrmecia_s6	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s6	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s6	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s6	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s6	zalla_Allomerus_s1	0
 zalla_Myrmecia_s6	zalla_Daceton_s0	0
 zalla_Myrmecia_s6	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s6	zalla_Myrmicocrypta_s1	0
@@ -73033,7 +72364,6 @@ zalla_Myrmecia_s10	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s10	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s10	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s10	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s10	zalla_Allomerus_s1	0
 zalla_Myrmecia_s10	zalla_Daceton_s0	0
 zalla_Myrmecia_s10	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s10	zalla_Myrmicocrypta_s1	0
@@ -73182,7 +72512,6 @@ zalla_Myrmecia_s11	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s11	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s11	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s11	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s11	zalla_Allomerus_s1	0
 zalla_Myrmecia_s11	zalla_Daceton_s0	0
 zalla_Myrmecia_s11	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s11	zalla_Myrmicocrypta_s1	0
@@ -73330,7 +72659,6 @@ zalla_Myrmecia_s12	zalla_Solenopsis_s3	0
 zalla_Myrmecia_s12	zalla_Syllophopsis_s1	0
 zalla_Myrmecia_s12	zalla_Tranopelta_s0	0
 zalla_Myrmecia_s12	zalla_Blepharidatta_s1	0
-zalla_Myrmecia_s12	zalla_Allomerus_s1	0
 zalla_Myrmecia_s12	zalla_Daceton_s0	0
 zalla_Myrmecia_s12	zalla_Apterostigma_s1	0
 zalla_Myrmecia_s12	zalla_Myrmicocrypta_s1	0
@@ -73477,7 +72805,6 @@ zalla_Tetraponera_s1	zalla_Solenopsis_s3	0
 zalla_Tetraponera_s1	zalla_Syllophopsis_s1	0
 zalla_Tetraponera_s1	zalla_Tranopelta_s0	0
 zalla_Tetraponera_s1	zalla_Blepharidatta_s1	0
-zalla_Tetraponera_s1	zalla_Allomerus_s1	0
 zalla_Tetraponera_s1	zalla_Daceton_s0	0
 zalla_Tetraponera_s1	zalla_Apterostigma_s1	0
 zalla_Tetraponera_s1	zalla_Myrmicocrypta_s1	0
@@ -73623,7 +72950,6 @@ zalla_Lasius_s1	zalla_Solenopsis_s3	0
 zalla_Lasius_s1	zalla_Syllophopsis_s1	0
 zalla_Lasius_s1	zalla_Tranopelta_s0	0
 zalla_Lasius_s1	zalla_Blepharidatta_s1	0
-zalla_Lasius_s1	zalla_Allomerus_s1	0
 zalla_Lasius_s1	zalla_Daceton_s0	0
 zalla_Lasius_s1	zalla_Apterostigma_s1	0
 zalla_Lasius_s1	zalla_Myrmicocrypta_s1	0
@@ -73768,7 +73094,6 @@ zalla_Lasius_s2	zalla_Solenopsis_s3	0
 zalla_Lasius_s2	zalla_Syllophopsis_s1	0
 zalla_Lasius_s2	zalla_Tranopelta_s0	0
 zalla_Lasius_s2	zalla_Blepharidatta_s1	0
-zalla_Lasius_s2	zalla_Allomerus_s1	0
 zalla_Lasius_s2	zalla_Daceton_s0	0
 zalla_Lasius_s2	zalla_Apterostigma_s1	0
 zalla_Lasius_s2	zalla_Myrmicocrypta_s1	0
@@ -73912,7 +73237,6 @@ zalla_Myrmecocystus_s1	zalla_Solenopsis_s3	0
 zalla_Myrmecocystus_s1	zalla_Syllophopsis_s1	0
 zalla_Myrmecocystus_s1	zalla_Tranopelta_s0	0
 zalla_Myrmecocystus_s1	zalla_Blepharidatta_s1	0
-zalla_Myrmecocystus_s1	zalla_Allomerus_s1	0
 zalla_Myrmecocystus_s1	zalla_Daceton_s0	0
 zalla_Myrmecocystus_s1	zalla_Apterostigma_s1	0
 zalla_Myrmecocystus_s1	zalla_Myrmicocrypta_s1	0
@@ -74055,7 +73379,6 @@ zalla_Myrmecocystus_s2	zalla_Solenopsis_s3	0
 zalla_Myrmecocystus_s2	zalla_Syllophopsis_s1	0
 zalla_Myrmecocystus_s2	zalla_Tranopelta_s0	0
 zalla_Myrmecocystus_s2	zalla_Blepharidatta_s1	0
-zalla_Myrmecocystus_s2	zalla_Allomerus_s1	0
 zalla_Myrmecocystus_s2	zalla_Daceton_s0	0
 zalla_Myrmecocystus_s2	zalla_Apterostigma_s1	0
 zalla_Myrmecocystus_s2	zalla_Myrmicocrypta_s1	0
@@ -74197,7 +73520,6 @@ zalla_Myrmecocystus_s3	zalla_Solenopsis_s3	0
 zalla_Myrmecocystus_s3	zalla_Syllophopsis_s1	0
 zalla_Myrmecocystus_s3	zalla_Tranopelta_s0	0
 zalla_Myrmecocystus_s3	zalla_Blepharidatta_s1	0
-zalla_Myrmecocystus_s3	zalla_Allomerus_s1	0
 zalla_Myrmecocystus_s3	zalla_Daceton_s0	0
 zalla_Myrmecocystus_s3	zalla_Apterostigma_s1	0
 zalla_Myrmecocystus_s3	zalla_Myrmicocrypta_s1	0
@@ -74338,7 +73660,6 @@ zalla_Zatania_s1	zalla_Solenopsis_s3	0
 zalla_Zatania_s1	zalla_Syllophopsis_s1	0
 zalla_Zatania_s1	zalla_Tranopelta_s0	0
 zalla_Zatania_s1	zalla_Blepharidatta_s1	0
-zalla_Zatania_s1	zalla_Allomerus_s1	0
 zalla_Zatania_s1	zalla_Daceton_s0	0
 zalla_Zatania_s1	zalla_Apterostigma_s1	0
 zalla_Zatania_s1	zalla_Myrmicocrypta_s1	0
@@ -74478,7 +73799,6 @@ zalla_Paraparatrechina_s1	zalla_Solenopsis_s3	0
 zalla_Paraparatrechina_s1	zalla_Syllophopsis_s1	0
 zalla_Paraparatrechina_s1	zalla_Tranopelta_s0	0
 zalla_Paraparatrechina_s1	zalla_Blepharidatta_s1	0
-zalla_Paraparatrechina_s1	zalla_Allomerus_s1	0
 zalla_Paraparatrechina_s1	zalla_Daceton_s0	0
 zalla_Paraparatrechina_s1	zalla_Apterostigma_s1	0
 zalla_Paraparatrechina_s1	zalla_Myrmicocrypta_s1	0
@@ -74617,7 +73937,6 @@ zalla_Nylanderia_s1	zalla_Solenopsis_s3	0
 zalla_Nylanderia_s1	zalla_Syllophopsis_s1	0
 zalla_Nylanderia_s1	zalla_Tranopelta_s0	0
 zalla_Nylanderia_s1	zalla_Blepharidatta_s1	0
-zalla_Nylanderia_s1	zalla_Allomerus_s1	0
 zalla_Nylanderia_s1	zalla_Daceton_s0	0
 zalla_Nylanderia_s1	zalla_Apterostigma_s1	0
 zalla_Nylanderia_s1	zalla_Myrmicocrypta_s1	0
@@ -74755,7 +74074,6 @@ zalla_Nylanderia_s4	zalla_Solenopsis_s3	0
 zalla_Nylanderia_s4	zalla_Syllophopsis_s1	0
 zalla_Nylanderia_s4	zalla_Tranopelta_s0	0
 zalla_Nylanderia_s4	zalla_Blepharidatta_s1	0
-zalla_Nylanderia_s4	zalla_Allomerus_s1	0
 zalla_Nylanderia_s4	zalla_Daceton_s0	0
 zalla_Nylanderia_s4	zalla_Apterostigma_s1	0
 zalla_Nylanderia_s4	zalla_Myrmicocrypta_s1	0
@@ -74892,7 +74210,6 @@ zalla_Nylanderia_s5	zalla_Solenopsis_s3	0
 zalla_Nylanderia_s5	zalla_Syllophopsis_s1	0
 zalla_Nylanderia_s5	zalla_Tranopelta_s0	0
 zalla_Nylanderia_s5	zalla_Blepharidatta_s1	0
-zalla_Nylanderia_s5	zalla_Allomerus_s1	0
 zalla_Nylanderia_s5	zalla_Daceton_s0	0
 zalla_Nylanderia_s5	zalla_Apterostigma_s1	0
 zalla_Nylanderia_s5	zalla_Myrmicocrypta_s1	0
@@ -75028,7 +74345,6 @@ zalla_Nylanderia_s6	zalla_Solenopsis_s3	0
 zalla_Nylanderia_s6	zalla_Syllophopsis_s1	0
 zalla_Nylanderia_s6	zalla_Tranopelta_s0	0
 zalla_Nylanderia_s6	zalla_Blepharidatta_s1	0
-zalla_Nylanderia_s6	zalla_Allomerus_s1	0
 zalla_Nylanderia_s6	zalla_Daceton_s0	0
 zalla_Nylanderia_s6	zalla_Apterostigma_s1	0
 zalla_Nylanderia_s6	zalla_Myrmicocrypta_s1	0
@@ -75163,7 +74479,6 @@ zalla_Nylanderia_s3	zalla_Solenopsis_s3	0
 zalla_Nylanderia_s3	zalla_Syllophopsis_s1	0
 zalla_Nylanderia_s3	zalla_Tranopelta_s0	0
 zalla_Nylanderia_s3	zalla_Blepharidatta_s1	0
-zalla_Nylanderia_s3	zalla_Allomerus_s1	0
 zalla_Nylanderia_s3	zalla_Daceton_s0	0
 zalla_Nylanderia_s3	zalla_Apterostigma_s1	0
 zalla_Nylanderia_s3	zalla_Myrmicocrypta_s1	0
@@ -75297,7 +74612,6 @@ zalla_Teratomyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Teratomyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Teratomyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Teratomyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Teratomyrmex_s0	zalla_Allomerus_s1	0
 zalla_Teratomyrmex_s0	zalla_Daceton_s0	0
 zalla_Teratomyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Teratomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -75430,7 +74744,6 @@ zalla_Pseudonotoncus_s0	zalla_Solenopsis_s3	0
 zalla_Pseudonotoncus_s0	zalla_Syllophopsis_s1	0
 zalla_Pseudonotoncus_s0	zalla_Tranopelta_s0	0
 zalla_Pseudonotoncus_s0	zalla_Blepharidatta_s1	0
-zalla_Pseudonotoncus_s0	zalla_Allomerus_s1	0
 zalla_Pseudonotoncus_s0	zalla_Daceton_s0	0
 zalla_Pseudonotoncus_s0	zalla_Apterostigma_s1	0
 zalla_Pseudonotoncus_s0	zalla_Myrmicocrypta_s1	0
@@ -75562,7 +74875,6 @@ zalla_Proformica_s0	zalla_Solenopsis_s3	0
 zalla_Proformica_s0	zalla_Syllophopsis_s1	0
 zalla_Proformica_s0	zalla_Tranopelta_s0	0
 zalla_Proformica_s0	zalla_Blepharidatta_s1	0
-zalla_Proformica_s0	zalla_Allomerus_s1	0
 zalla_Proformica_s0	zalla_Daceton_s0	0
 zalla_Proformica_s0	zalla_Apterostigma_s1	0
 zalla_Proformica_s0	zalla_Myrmicocrypta_s1	0
@@ -75693,7 +75005,6 @@ zalla_Cataglyphis_s0	zalla_Solenopsis_s3	0
 zalla_Cataglyphis_s0	zalla_Syllophopsis_s1	0
 zalla_Cataglyphis_s0	zalla_Tranopelta_s0	0
 zalla_Cataglyphis_s0	zalla_Blepharidatta_s1	0
-zalla_Cataglyphis_s0	zalla_Allomerus_s1	0
 zalla_Cataglyphis_s0	zalla_Daceton_s0	0
 zalla_Cataglyphis_s0	zalla_Apterostigma_s1	0
 zalla_Cataglyphis_s0	zalla_Myrmicocrypta_s1	0
@@ -75823,7 +75134,6 @@ zalla_Iberoformica_s0	zalla_Solenopsis_s3	0
 zalla_Iberoformica_s0	zalla_Syllophopsis_s1	0
 zalla_Iberoformica_s0	zalla_Tranopelta_s0	0
 zalla_Iberoformica_s0	zalla_Blepharidatta_s1	0
-zalla_Iberoformica_s0	zalla_Allomerus_s1	0
 zalla_Iberoformica_s0	zalla_Daceton_s0	0
 zalla_Iberoformica_s0	zalla_Apterostigma_s1	0
 zalla_Iberoformica_s0	zalla_Myrmicocrypta_s1	0
@@ -75952,7 +75262,6 @@ zalla_Formica_s1	zalla_Solenopsis_s3	0
 zalla_Formica_s1	zalla_Syllophopsis_s1	0
 zalla_Formica_s1	zalla_Tranopelta_s0	0
 zalla_Formica_s1	zalla_Blepharidatta_s1	0
-zalla_Formica_s1	zalla_Allomerus_s1	0
 zalla_Formica_s1	zalla_Daceton_s0	0
 zalla_Formica_s1	zalla_Apterostigma_s1	0
 zalla_Formica_s1	zalla_Myrmicocrypta_s1	0
@@ -76080,7 +75389,6 @@ zalla_Formica_s2	zalla_Solenopsis_s3	0
 zalla_Formica_s2	zalla_Syllophopsis_s1	0
 zalla_Formica_s2	zalla_Tranopelta_s0	0
 zalla_Formica_s2	zalla_Blepharidatta_s1	0
-zalla_Formica_s2	zalla_Allomerus_s1	0
 zalla_Formica_s2	zalla_Daceton_s0	0
 zalla_Formica_s2	zalla_Apterostigma_s1	0
 zalla_Formica_s2	zalla_Myrmicocrypta_s1	0
@@ -76207,7 +75515,6 @@ zalla_Formica_s5	zalla_Solenopsis_s3	0
 zalla_Formica_s5	zalla_Syllophopsis_s1	0
 zalla_Formica_s5	zalla_Tranopelta_s0	0
 zalla_Formica_s5	zalla_Blepharidatta_s1	0
-zalla_Formica_s5	zalla_Allomerus_s1	0
 zalla_Formica_s5	zalla_Daceton_s0	0
 zalla_Formica_s5	zalla_Apterostigma_s1	0
 zalla_Formica_s5	zalla_Myrmicocrypta_s1	0
@@ -76333,7 +75640,6 @@ zalla_Formica_s6	zalla_Solenopsis_s3	0
 zalla_Formica_s6	zalla_Syllophopsis_s1	0
 zalla_Formica_s6	zalla_Tranopelta_s0	0
 zalla_Formica_s6	zalla_Blepharidatta_s1	0
-zalla_Formica_s6	zalla_Allomerus_s1	0
 zalla_Formica_s6	zalla_Daceton_s0	0
 zalla_Formica_s6	zalla_Apterostigma_s1	0
 zalla_Formica_s6	zalla_Myrmicocrypta_s1	0
@@ -76458,7 +75764,6 @@ zalla_Formica_s4	zalla_Solenopsis_s3	0
 zalla_Formica_s4	zalla_Syllophopsis_s1	0
 zalla_Formica_s4	zalla_Tranopelta_s0	0
 zalla_Formica_s4	zalla_Blepharidatta_s1	0
-zalla_Formica_s4	zalla_Allomerus_s1	0
 zalla_Formica_s4	zalla_Daceton_s0	0
 zalla_Formica_s4	zalla_Apterostigma_s1	0
 zalla_Formica_s4	zalla_Myrmicocrypta_s1	0
@@ -76582,7 +75887,6 @@ zalla_Anoplolepis_s0	zalla_Solenopsis_s3	0
 zalla_Anoplolepis_s0	zalla_Syllophopsis_s1	0
 zalla_Anoplolepis_s0	zalla_Tranopelta_s0	0
 zalla_Anoplolepis_s0	zalla_Blepharidatta_s1	0
-zalla_Anoplolepis_s0	zalla_Allomerus_s1	0
 zalla_Anoplolepis_s0	zalla_Daceton_s0	0
 zalla_Anoplolepis_s0	zalla_Apterostigma_s1	0
 zalla_Anoplolepis_s0	zalla_Myrmicocrypta_s1	0
@@ -76705,7 +76009,6 @@ zalla_Lepisiota_s0	zalla_Solenopsis_s3	0
 zalla_Lepisiota_s0	zalla_Syllophopsis_s1	0
 zalla_Lepisiota_s0	zalla_Tranopelta_s0	0
 zalla_Lepisiota_s0	zalla_Blepharidatta_s1	0
-zalla_Lepisiota_s0	zalla_Allomerus_s1	0
 zalla_Lepisiota_s0	zalla_Daceton_s0	0
 zalla_Lepisiota_s0	zalla_Apterostigma_s1	0
 zalla_Lepisiota_s0	zalla_Myrmicocrypta_s1	0
@@ -76827,7 +76130,6 @@ zalla_Opisthopsis_s1	zalla_Solenopsis_s3	0
 zalla_Opisthopsis_s1	zalla_Syllophopsis_s1	0
 zalla_Opisthopsis_s1	zalla_Tranopelta_s0	0
 zalla_Opisthopsis_s1	zalla_Blepharidatta_s1	0
-zalla_Opisthopsis_s1	zalla_Allomerus_s1	0
 zalla_Opisthopsis_s1	zalla_Daceton_s0	0
 zalla_Opisthopsis_s1	zalla_Apterostigma_s1	0
 zalla_Opisthopsis_s1	zalla_Myrmicocrypta_s1	0
@@ -76948,7 +76250,6 @@ zalla_Colobopsis_s1	zalla_Solenopsis_s3	0
 zalla_Colobopsis_s1	zalla_Syllophopsis_s1	0
 zalla_Colobopsis_s1	zalla_Tranopelta_s0	0
 zalla_Colobopsis_s1	zalla_Blepharidatta_s1	0
-zalla_Colobopsis_s1	zalla_Allomerus_s1	0
 zalla_Colobopsis_s1	zalla_Daceton_s0	0
 zalla_Colobopsis_s1	zalla_Apterostigma_s1	0
 zalla_Colobopsis_s1	zalla_Myrmicocrypta_s1	0
@@ -77068,7 +76369,6 @@ zalla_Polyrhachis_s2	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s2	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s2	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s2	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s2	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s2	zalla_Daceton_s0	0
 zalla_Polyrhachis_s2	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s2	zalla_Myrmicocrypta_s1	0
@@ -77187,7 +76487,6 @@ zalla_Polyrhachis_s3	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s3	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s3	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s3	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s3	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s3	zalla_Daceton_s0	0
 zalla_Polyrhachis_s3	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s3	zalla_Myrmicocrypta_s1	0
@@ -77305,7 +76604,6 @@ zalla_Polyrhachis_s11	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s11	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s11	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s11	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s11	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s11	zalla_Daceton_s0	0
 zalla_Polyrhachis_s11	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s11	zalla_Myrmicocrypta_s1	0
@@ -77422,7 +76720,6 @@ zalla_Polyrhachis_s12	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s12	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s12	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s12	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s12	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s12	zalla_Daceton_s0	0
 zalla_Polyrhachis_s12	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s12	zalla_Myrmicocrypta_s1	0
@@ -77538,7 +76835,6 @@ zalla_Polyrhachis_s5	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s5	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s5	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s5	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s5	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s5	zalla_Daceton_s0	0
 zalla_Polyrhachis_s5	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s5	zalla_Myrmicocrypta_s1	0
@@ -77653,7 +76949,6 @@ zalla_Polyrhachis_s6	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s6	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s6	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s6	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s6	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s6	zalla_Daceton_s0	0
 zalla_Polyrhachis_s6	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s6	zalla_Myrmicocrypta_s1	0
@@ -77767,7 +77062,6 @@ zalla_Polyrhachis_s7	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s7	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s7	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s7	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s7	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s7	zalla_Daceton_s0	0
 zalla_Polyrhachis_s7	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s7	zalla_Myrmicocrypta_s1	0
@@ -77880,7 +77174,6 @@ zalla_Polyrhachis_s8	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s8	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s8	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s8	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s8	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s8	zalla_Daceton_s0	0
 zalla_Polyrhachis_s8	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s8	zalla_Myrmicocrypta_s1	0
@@ -77992,7 +77285,6 @@ zalla_Polyrhachis_s9	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s9	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s9	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s9	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s9	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s9	zalla_Daceton_s0	0
 zalla_Polyrhachis_s9	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s9	zalla_Myrmicocrypta_s1	0
@@ -78103,7 +77395,6 @@ zalla_Polyrhachis_s10	zalla_Solenopsis_s3	0
 zalla_Polyrhachis_s10	zalla_Syllophopsis_s1	0
 zalla_Polyrhachis_s10	zalla_Tranopelta_s0	0
 zalla_Polyrhachis_s10	zalla_Blepharidatta_s1	0
-zalla_Polyrhachis_s10	zalla_Allomerus_s1	0
 zalla_Polyrhachis_s10	zalla_Daceton_s0	0
 zalla_Polyrhachis_s10	zalla_Apterostigma_s1	0
 zalla_Polyrhachis_s10	zalla_Myrmicocrypta_s1	0
@@ -78213,7 +77504,6 @@ zalla_Camponotus_s2	zalla_Solenopsis_s3	0
 zalla_Camponotus_s2	zalla_Syllophopsis_s1	0
 zalla_Camponotus_s2	zalla_Tranopelta_s0	0
 zalla_Camponotus_s2	zalla_Blepharidatta_s1	0
-zalla_Camponotus_s2	zalla_Allomerus_s1	0
 zalla_Camponotus_s2	zalla_Daceton_s0	0
 zalla_Camponotus_s2	zalla_Apterostigma_s1	0
 zalla_Camponotus_s2	zalla_Myrmicocrypta_s1	0
@@ -78322,7 +77612,6 @@ zalla_Camponotus_s4	zalla_Solenopsis_s3	0
 zalla_Camponotus_s4	zalla_Syllophopsis_s1	0
 zalla_Camponotus_s4	zalla_Tranopelta_s0	0
 zalla_Camponotus_s4	zalla_Blepharidatta_s1	0
-zalla_Camponotus_s4	zalla_Allomerus_s1	0
 zalla_Camponotus_s4	zalla_Daceton_s0	0
 zalla_Camponotus_s4	zalla_Apterostigma_s1	0
 zalla_Camponotus_s4	zalla_Myrmicocrypta_s1	0
@@ -78430,7 +77719,6 @@ zalla_Camponotus_s6	zalla_Solenopsis_s3	0
 zalla_Camponotus_s6	zalla_Syllophopsis_s1	0
 zalla_Camponotus_s6	zalla_Tranopelta_s0	0
 zalla_Camponotus_s6	zalla_Blepharidatta_s1	0
-zalla_Camponotus_s6	zalla_Allomerus_s1	0
 zalla_Camponotus_s6	zalla_Daceton_s0	0
 zalla_Camponotus_s6	zalla_Apterostigma_s1	0
 zalla_Camponotus_s6	zalla_Myrmicocrypta_s1	0
@@ -78537,7 +77825,6 @@ zalla_Camponotus_s8	zalla_Solenopsis_s3	0
 zalla_Camponotus_s8	zalla_Syllophopsis_s1	0
 zalla_Camponotus_s8	zalla_Tranopelta_s0	0
 zalla_Camponotus_s8	zalla_Blepharidatta_s1	0
-zalla_Camponotus_s8	zalla_Allomerus_s1	0
 zalla_Camponotus_s8	zalla_Daceton_s0	0
 zalla_Camponotus_s8	zalla_Apterostigma_s1	0
 zalla_Camponotus_s8	zalla_Myrmicocrypta_s1	0
@@ -78643,7 +77930,6 @@ zalla_Camponotus_s10	zalla_Solenopsis_s3	0
 zalla_Camponotus_s10	zalla_Syllophopsis_s1	0
 zalla_Camponotus_s10	zalla_Tranopelta_s0	0
 zalla_Camponotus_s10	zalla_Blepharidatta_s1	0
-zalla_Camponotus_s10	zalla_Allomerus_s1	0
 zalla_Camponotus_s10	zalla_Daceton_s0	0
 zalla_Camponotus_s10	zalla_Apterostigma_s1	0
 zalla_Camponotus_s10	zalla_Myrmicocrypta_s1	0
@@ -78748,7 +78034,6 @@ zalla_Camponotus_s11	zalla_Solenopsis_s3	0
 zalla_Camponotus_s11	zalla_Syllophopsis_s1	0
 zalla_Camponotus_s11	zalla_Tranopelta_s0	0
 zalla_Camponotus_s11	zalla_Blepharidatta_s1	0
-zalla_Camponotus_s11	zalla_Allomerus_s1	0
 zalla_Camponotus_s11	zalla_Daceton_s0	0
 zalla_Camponotus_s11	zalla_Apterostigma_s1	0
 zalla_Camponotus_s11	zalla_Myrmicocrypta_s1	0
@@ -78852,7 +78137,6 @@ zalla_Rhytidoponera_s0	zalla_Solenopsis_s3	0
 zalla_Rhytidoponera_s0	zalla_Syllophopsis_s1	0
 zalla_Rhytidoponera_s0	zalla_Tranopelta_s0	0
 zalla_Rhytidoponera_s0	zalla_Blepharidatta_s1	0
-zalla_Rhytidoponera_s0	zalla_Allomerus_s1	0
 zalla_Rhytidoponera_s0	zalla_Daceton_s0	0
 zalla_Rhytidoponera_s0	zalla_Apterostigma_s1	0
 zalla_Rhytidoponera_s0	zalla_Myrmicocrypta_s1	0
@@ -78955,7 +78239,6 @@ zalla_Ectatomma_s1	zalla_Solenopsis_s3	0
 zalla_Ectatomma_s1	zalla_Syllophopsis_s1	0
 zalla_Ectatomma_s1	zalla_Tranopelta_s0	0
 zalla_Ectatomma_s1	zalla_Blepharidatta_s1	0
-zalla_Ectatomma_s1	zalla_Allomerus_s1	0
 zalla_Ectatomma_s1	zalla_Daceton_s0	0
 zalla_Ectatomma_s1	zalla_Apterostigma_s1	0
 zalla_Ectatomma_s1	zalla_Myrmicocrypta_s1	0
@@ -79057,7 +78340,6 @@ zalla_Myrmica_s2	zalla_Solenopsis_s3	0
 zalla_Myrmica_s2	zalla_Syllophopsis_s1	0
 zalla_Myrmica_s2	zalla_Tranopelta_s0	0
 zalla_Myrmica_s2	zalla_Blepharidatta_s1	0
-zalla_Myrmica_s2	zalla_Allomerus_s1	0
 zalla_Myrmica_s2	zalla_Daceton_s0	0
 zalla_Myrmica_s2	zalla_Apterostigma_s1	0
 zalla_Myrmica_s2	zalla_Myrmicocrypta_s1	0
@@ -79158,7 +78440,6 @@ zalla_Myrmica_s6	zalla_Solenopsis_s3	0
 zalla_Myrmica_s6	zalla_Syllophopsis_s1	0
 zalla_Myrmica_s6	zalla_Tranopelta_s0	0
 zalla_Myrmica_s6	zalla_Blepharidatta_s1	0
-zalla_Myrmica_s6	zalla_Allomerus_s1	0
 zalla_Myrmica_s6	zalla_Daceton_s0	0
 zalla_Myrmica_s6	zalla_Apterostigma_s1	0
 zalla_Myrmica_s6	zalla_Myrmicocrypta_s1	0
@@ -79258,7 +78539,6 @@ zalla_Myrmica_s7	zalla_Solenopsis_s3	0
 zalla_Myrmica_s7	zalla_Syllophopsis_s1	0
 zalla_Myrmica_s7	zalla_Tranopelta_s0	0
 zalla_Myrmica_s7	zalla_Blepharidatta_s1	0
-zalla_Myrmica_s7	zalla_Allomerus_s1	0
 zalla_Myrmica_s7	zalla_Daceton_s0	0
 zalla_Myrmica_s7	zalla_Apterostigma_s1	0
 zalla_Myrmica_s7	zalla_Myrmicocrypta_s1	0
@@ -79357,7 +78637,6 @@ zalla_Myrmica_s8	zalla_Solenopsis_s3	0
 zalla_Myrmica_s8	zalla_Syllophopsis_s1	0
 zalla_Myrmica_s8	zalla_Tranopelta_s0	0
 zalla_Myrmica_s8	zalla_Blepharidatta_s1	0
-zalla_Myrmica_s8	zalla_Allomerus_s1	0
 zalla_Myrmica_s8	zalla_Daceton_s0	0
 zalla_Myrmica_s8	zalla_Apterostigma_s1	0
 zalla_Myrmica_s8	zalla_Myrmicocrypta_s1	0
@@ -79455,7 +78734,6 @@ zalla_Myrmica_s9	zalla_Solenopsis_s3	0
 zalla_Myrmica_s9	zalla_Syllophopsis_s1	0
 zalla_Myrmica_s9	zalla_Tranopelta_s0	0
 zalla_Myrmica_s9	zalla_Blepharidatta_s1	0
-zalla_Myrmica_s9	zalla_Allomerus_s1	0
 zalla_Myrmica_s9	zalla_Daceton_s0	0
 zalla_Myrmica_s9	zalla_Apterostigma_s1	0
 zalla_Myrmica_s9	zalla_Myrmicocrypta_s1	0
@@ -79552,7 +78830,6 @@ zalla_Myrmica_s10	zalla_Solenopsis_s3	0
 zalla_Myrmica_s10	zalla_Syllophopsis_s1	0
 zalla_Myrmica_s10	zalla_Tranopelta_s0	0
 zalla_Myrmica_s10	zalla_Blepharidatta_s1	0
-zalla_Myrmica_s10	zalla_Allomerus_s1	0
 zalla_Myrmica_s10	zalla_Daceton_s0	0
 zalla_Myrmica_s10	zalla_Apterostigma_s1	0
 zalla_Myrmica_s10	zalla_Myrmicocrypta_s1	0
@@ -79648,7 +78925,6 @@ zalla_Patagonomyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Patagonomyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Patagonomyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Patagonomyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Patagonomyrmex_s0	zalla_Allomerus_s1	0
 zalla_Patagonomyrmex_s0	zalla_Daceton_s0	0
 zalla_Patagonomyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Patagonomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -79743,7 +79019,6 @@ zalla_Hylomyrma_s0	zalla_Solenopsis_s3	0
 zalla_Hylomyrma_s0	zalla_Syllophopsis_s1	0
 zalla_Hylomyrma_s0	zalla_Tranopelta_s0	0
 zalla_Hylomyrma_s0	zalla_Blepharidatta_s1	0
-zalla_Hylomyrma_s0	zalla_Allomerus_s1	0
 zalla_Hylomyrma_s0	zalla_Daceton_s0	0
 zalla_Hylomyrma_s0	zalla_Apterostigma_s1	0
 zalla_Hylomyrma_s0	zalla_Myrmicocrypta_s1	0
@@ -79837,7 +79112,6 @@ zalla_Pogonomyrmex_s2	zalla_Solenopsis_s3	0
 zalla_Pogonomyrmex_s2	zalla_Syllophopsis_s1	0
 zalla_Pogonomyrmex_s2	zalla_Tranopelta_s0	0
 zalla_Pogonomyrmex_s2	zalla_Blepharidatta_s1	0
-zalla_Pogonomyrmex_s2	zalla_Allomerus_s1	0
 zalla_Pogonomyrmex_s2	zalla_Daceton_s0	0
 zalla_Pogonomyrmex_s2	zalla_Apterostigma_s1	0
 zalla_Pogonomyrmex_s2	zalla_Myrmicocrypta_s1	0
@@ -79930,7 +79204,6 @@ zalla_Pogonomyrmex_s3	zalla_Solenopsis_s3	0
 zalla_Pogonomyrmex_s3	zalla_Syllophopsis_s1	0
 zalla_Pogonomyrmex_s3	zalla_Tranopelta_s0	0
 zalla_Pogonomyrmex_s3	zalla_Blepharidatta_s1	0
-zalla_Pogonomyrmex_s3	zalla_Allomerus_s1	0
 zalla_Pogonomyrmex_s3	zalla_Daceton_s0	0
 zalla_Pogonomyrmex_s3	zalla_Apterostigma_s1	0
 zalla_Pogonomyrmex_s3	zalla_Myrmicocrypta_s1	0
@@ -80022,7 +79295,6 @@ zalla_Pogonomyrmex_s4	zalla_Solenopsis_s3	0
 zalla_Pogonomyrmex_s4	zalla_Syllophopsis_s1	0
 zalla_Pogonomyrmex_s4	zalla_Tranopelta_s0	0
 zalla_Pogonomyrmex_s4	zalla_Blepharidatta_s1	0
-zalla_Pogonomyrmex_s4	zalla_Allomerus_s1	0
 zalla_Pogonomyrmex_s4	zalla_Daceton_s0	0
 zalla_Pogonomyrmex_s4	zalla_Apterostigma_s1	0
 zalla_Pogonomyrmex_s4	zalla_Myrmicocrypta_s1	0
@@ -80113,7 +79385,6 @@ zalla_Pogonomyrmex_s5	zalla_Solenopsis_s3	0
 zalla_Pogonomyrmex_s5	zalla_Syllophopsis_s1	0
 zalla_Pogonomyrmex_s5	zalla_Tranopelta_s0	0
 zalla_Pogonomyrmex_s5	zalla_Blepharidatta_s1	0
-zalla_Pogonomyrmex_s5	zalla_Allomerus_s1	0
 zalla_Pogonomyrmex_s5	zalla_Daceton_s0	0
 zalla_Pogonomyrmex_s5	zalla_Apterostigma_s1	0
 zalla_Pogonomyrmex_s5	zalla_Myrmicocrypta_s1	0
@@ -80203,7 +79474,6 @@ zalla_Pogonomyrmex_s6	zalla_Solenopsis_s3	0
 zalla_Pogonomyrmex_s6	zalla_Syllophopsis_s1	0
 zalla_Pogonomyrmex_s6	zalla_Tranopelta_s0	0
 zalla_Pogonomyrmex_s6	zalla_Blepharidatta_s1	0
-zalla_Pogonomyrmex_s6	zalla_Allomerus_s1	0
 zalla_Pogonomyrmex_s6	zalla_Daceton_s0	0
 zalla_Pogonomyrmex_s6	zalla_Apterostigma_s1	0
 zalla_Pogonomyrmex_s6	zalla_Myrmicocrypta_s1	0
@@ -80292,7 +79562,6 @@ zalla_Pogonomyrmex_s7	zalla_Solenopsis_s3	0
 zalla_Pogonomyrmex_s7	zalla_Syllophopsis_s1	0
 zalla_Pogonomyrmex_s7	zalla_Tranopelta_s0	0
 zalla_Pogonomyrmex_s7	zalla_Blepharidatta_s1	0
-zalla_Pogonomyrmex_s7	zalla_Allomerus_s1	0
 zalla_Pogonomyrmex_s7	zalla_Daceton_s0	0
 zalla_Pogonomyrmex_s7	zalla_Apterostigma_s1	0
 zalla_Pogonomyrmex_s7	zalla_Myrmicocrypta_s1	0
@@ -80380,7 +79649,6 @@ zalla_Stenamma_s4	zalla_Solenopsis_s3	0
 zalla_Stenamma_s4	zalla_Syllophopsis_s1	0
 zalla_Stenamma_s4	zalla_Tranopelta_s0	0
 zalla_Stenamma_s4	zalla_Blepharidatta_s1	0
-zalla_Stenamma_s4	zalla_Allomerus_s1	0
 zalla_Stenamma_s4	zalla_Daceton_s0	0
 zalla_Stenamma_s4	zalla_Apterostigma_s1	0
 zalla_Stenamma_s4	zalla_Myrmicocrypta_s1	0
@@ -80467,7 +79735,6 @@ zalla_Stenamma_s5	zalla_Solenopsis_s3	0
 zalla_Stenamma_s5	zalla_Syllophopsis_s1	0
 zalla_Stenamma_s5	zalla_Tranopelta_s0	0
 zalla_Stenamma_s5	zalla_Blepharidatta_s1	0
-zalla_Stenamma_s5	zalla_Allomerus_s1	0
 zalla_Stenamma_s5	zalla_Daceton_s0	0
 zalla_Stenamma_s5	zalla_Apterostigma_s1	0
 zalla_Stenamma_s5	zalla_Myrmicocrypta_s1	0
@@ -80553,7 +79820,6 @@ zalla_Stenamma_s6	zalla_Solenopsis_s3	0
 zalla_Stenamma_s6	zalla_Syllophopsis_s1	0
 zalla_Stenamma_s6	zalla_Tranopelta_s0	0
 zalla_Stenamma_s6	zalla_Blepharidatta_s1	0
-zalla_Stenamma_s6	zalla_Allomerus_s1	0
 zalla_Stenamma_s6	zalla_Daceton_s0	0
 zalla_Stenamma_s6	zalla_Apterostigma_s1	0
 zalla_Stenamma_s6	zalla_Myrmicocrypta_s1	0
@@ -80638,7 +79904,6 @@ zalla_Stenamma_s3	zalla_Solenopsis_s3	0
 zalla_Stenamma_s3	zalla_Syllophopsis_s1	0
 zalla_Stenamma_s3	zalla_Tranopelta_s0	0
 zalla_Stenamma_s3	zalla_Blepharidatta_s1	0
-zalla_Stenamma_s3	zalla_Allomerus_s1	0
 zalla_Stenamma_s3	zalla_Daceton_s0	0
 zalla_Stenamma_s3	zalla_Apterostigma_s1	0
 zalla_Stenamma_s3	zalla_Myrmicocrypta_s1	0
@@ -80722,7 +79987,6 @@ zalla_Aphaenogaster_s4	zalla_Solenopsis_s3	0
 zalla_Aphaenogaster_s4	zalla_Syllophopsis_s1	0
 zalla_Aphaenogaster_s4	zalla_Tranopelta_s0	0
 zalla_Aphaenogaster_s4	zalla_Blepharidatta_s1	0
-zalla_Aphaenogaster_s4	zalla_Allomerus_s1	0
 zalla_Aphaenogaster_s4	zalla_Daceton_s0	0
 zalla_Aphaenogaster_s4	zalla_Apterostigma_s1	0
 zalla_Aphaenogaster_s4	zalla_Myrmicocrypta_s1	0
@@ -80805,7 +80069,6 @@ zalla_Aphaenogaster_s5	zalla_Solenopsis_s3	0
 zalla_Aphaenogaster_s5	zalla_Syllophopsis_s1	0
 zalla_Aphaenogaster_s5	zalla_Tranopelta_s0	0
 zalla_Aphaenogaster_s5	zalla_Blepharidatta_s1	0
-zalla_Aphaenogaster_s5	zalla_Allomerus_s1	0
 zalla_Aphaenogaster_s5	zalla_Daceton_s0	0
 zalla_Aphaenogaster_s5	zalla_Apterostigma_s1	0
 zalla_Aphaenogaster_s5	zalla_Myrmicocrypta_s1	0
@@ -80887,7 +80150,6 @@ zalla_Aphaenogaster_s3	zalla_Solenopsis_s3	0
 zalla_Aphaenogaster_s3	zalla_Syllophopsis_s1	0
 zalla_Aphaenogaster_s3	zalla_Tranopelta_s0	0
 zalla_Aphaenogaster_s3	zalla_Blepharidatta_s1	0
-zalla_Aphaenogaster_s3	zalla_Allomerus_s1	0
 zalla_Aphaenogaster_s3	zalla_Daceton_s0	0
 zalla_Aphaenogaster_s3	zalla_Apterostigma_s1	0
 zalla_Aphaenogaster_s3	zalla_Myrmicocrypta_s1	0
@@ -80968,7 +80230,6 @@ zalla_Oxyopomyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Oxyopomyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Oxyopomyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Oxyopomyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Oxyopomyrmex_s0	zalla_Allomerus_s1	0
 zalla_Oxyopomyrmex_s0	zalla_Daceton_s0	0
 zalla_Oxyopomyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Oxyopomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -81048,7 +80309,6 @@ zalla_Formicoxenus_s0	zalla_Solenopsis_s3	0
 zalla_Formicoxenus_s0	zalla_Syllophopsis_s1	0
 zalla_Formicoxenus_s0	zalla_Tranopelta_s0	0
 zalla_Formicoxenus_s0	zalla_Blepharidatta_s1	0
-zalla_Formicoxenus_s0	zalla_Allomerus_s1	0
 zalla_Formicoxenus_s0	zalla_Daceton_s0	0
 zalla_Formicoxenus_s0	zalla_Apterostigma_s1	0
 zalla_Formicoxenus_s0	zalla_Myrmicocrypta_s1	0
@@ -81127,7 +80387,6 @@ zalla_Harpagoxenus_s0	zalla_Solenopsis_s3	0
 zalla_Harpagoxenus_s0	zalla_Syllophopsis_s1	0
 zalla_Harpagoxenus_s0	zalla_Tranopelta_s0	0
 zalla_Harpagoxenus_s0	zalla_Blepharidatta_s1	0
-zalla_Harpagoxenus_s0	zalla_Allomerus_s1	0
 zalla_Harpagoxenus_s0	zalla_Daceton_s0	0
 zalla_Harpagoxenus_s0	zalla_Apterostigma_s1	0
 zalla_Harpagoxenus_s0	zalla_Myrmicocrypta_s1	0
@@ -81205,7 +80464,6 @@ zalla_Temnothorax_s2	zalla_Solenopsis_s3	0
 zalla_Temnothorax_s2	zalla_Syllophopsis_s1	0
 zalla_Temnothorax_s2	zalla_Tranopelta_s0	0
 zalla_Temnothorax_s2	zalla_Blepharidatta_s1	0
-zalla_Temnothorax_s2	zalla_Allomerus_s1	0
 zalla_Temnothorax_s2	zalla_Daceton_s0	0
 zalla_Temnothorax_s2	zalla_Apterostigma_s1	0
 zalla_Temnothorax_s2	zalla_Myrmicocrypta_s1	0
@@ -81282,7 +80540,6 @@ zalla_Temnothorax_s3	zalla_Solenopsis_s3	0
 zalla_Temnothorax_s3	zalla_Syllophopsis_s1	0
 zalla_Temnothorax_s3	zalla_Tranopelta_s0	0
 zalla_Temnothorax_s3	zalla_Blepharidatta_s1	0
-zalla_Temnothorax_s3	zalla_Allomerus_s1	0
 zalla_Temnothorax_s3	zalla_Daceton_s0	0
 zalla_Temnothorax_s3	zalla_Apterostigma_s1	0
 zalla_Temnothorax_s3	zalla_Myrmicocrypta_s1	0
@@ -81358,7 +80615,6 @@ zalla_Terataner_s0	zalla_Solenopsis_s3	0
 zalla_Terataner_s0	zalla_Syllophopsis_s1	0
 zalla_Terataner_s0	zalla_Tranopelta_s0	0
 zalla_Terataner_s0	zalla_Blepharidatta_s1	0
-zalla_Terataner_s0	zalla_Allomerus_s1	0
 zalla_Terataner_s0	zalla_Daceton_s0	0
 zalla_Terataner_s0	zalla_Apterostigma_s1	0
 zalla_Terataner_s0	zalla_Myrmicocrypta_s1	0
@@ -81433,7 +80689,6 @@ zalla_Rhopalomastix_s0	zalla_Solenopsis_s3	0
 zalla_Rhopalomastix_s0	zalla_Syllophopsis_s1	0
 zalla_Rhopalomastix_s0	zalla_Tranopelta_s0	0
 zalla_Rhopalomastix_s0	zalla_Blepharidatta_s1	0
-zalla_Rhopalomastix_s0	zalla_Allomerus_s1	0
 zalla_Rhopalomastix_s0	zalla_Daceton_s0	0
 zalla_Rhopalomastix_s0	zalla_Apterostigma_s1	0
 zalla_Rhopalomastix_s0	zalla_Myrmicocrypta_s1	0
@@ -81507,7 +80762,6 @@ zalla_Melissotarsus_s0	zalla_Solenopsis_s3	0
 zalla_Melissotarsus_s0	zalla_Syllophopsis_s1	0
 zalla_Melissotarsus_s0	zalla_Tranopelta_s0	0
 zalla_Melissotarsus_s0	zalla_Blepharidatta_s1	0
-zalla_Melissotarsus_s0	zalla_Allomerus_s1	0
 zalla_Melissotarsus_s0	zalla_Daceton_s0	0
 zalla_Melissotarsus_s0	zalla_Apterostigma_s1	0
 zalla_Melissotarsus_s0	zalla_Myrmicocrypta_s1	0
@@ -81580,7 +80834,6 @@ zalla_Calyptomyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Calyptomyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Calyptomyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Calyptomyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Calyptomyrmex_s0	zalla_Allomerus_s1	0
 zalla_Calyptomyrmex_s0	zalla_Daceton_s0	0
 zalla_Calyptomyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Calyptomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -81652,7 +80905,6 @@ zalla_Tetramorium_s2	zalla_Solenopsis_s3	0
 zalla_Tetramorium_s2	zalla_Syllophopsis_s1	0
 zalla_Tetramorium_s2	zalla_Tranopelta_s0	0
 zalla_Tetramorium_s2	zalla_Blepharidatta_s1	0
-zalla_Tetramorium_s2	zalla_Allomerus_s1	0
 zalla_Tetramorium_s2	zalla_Daceton_s0	0
 zalla_Tetramorium_s2	zalla_Apterostigma_s1	0
 zalla_Tetramorium_s2	zalla_Myrmicocrypta_s1	0
@@ -81723,7 +80975,6 @@ zalla_Tetramorium_s3	zalla_Solenopsis_s3	0
 zalla_Tetramorium_s3	zalla_Syllophopsis_s1	0
 zalla_Tetramorium_s3	zalla_Tranopelta_s0	0
 zalla_Tetramorium_s3	zalla_Blepharidatta_s1	0
-zalla_Tetramorium_s3	zalla_Allomerus_s1	0
 zalla_Tetramorium_s3	zalla_Daceton_s0	0
 zalla_Tetramorium_s3	zalla_Apterostigma_s1	0
 zalla_Tetramorium_s3	zalla_Myrmicocrypta_s1	0
@@ -81793,7 +81044,6 @@ zalla_Tetramorium_s5	zalla_Solenopsis_s3	0
 zalla_Tetramorium_s5	zalla_Syllophopsis_s1	0
 zalla_Tetramorium_s5	zalla_Tranopelta_s0	0
 zalla_Tetramorium_s5	zalla_Blepharidatta_s1	0
-zalla_Tetramorium_s5	zalla_Allomerus_s1	0
 zalla_Tetramorium_s5	zalla_Daceton_s0	0
 zalla_Tetramorium_s5	zalla_Apterostigma_s1	0
 zalla_Tetramorium_s5	zalla_Myrmicocrypta_s1	0
@@ -81862,7 +81112,6 @@ zalla_Tetramorium_s6	zalla_Solenopsis_s3	0
 zalla_Tetramorium_s6	zalla_Syllophopsis_s1	0
 zalla_Tetramorium_s6	zalla_Tranopelta_s0	0
 zalla_Tetramorium_s6	zalla_Blepharidatta_s1	0
-zalla_Tetramorium_s6	zalla_Allomerus_s1	0
 zalla_Tetramorium_s6	zalla_Daceton_s0	0
 zalla_Tetramorium_s6	zalla_Apterostigma_s1	0
 zalla_Tetramorium_s6	zalla_Myrmicocrypta_s1	0
@@ -81930,7 +81179,6 @@ zalla_Mayriella_s0	zalla_Solenopsis_s3	0
 zalla_Mayriella_s0	zalla_Syllophopsis_s1	0
 zalla_Mayriella_s0	zalla_Tranopelta_s0	0
 zalla_Mayriella_s0	zalla_Blepharidatta_s1	0
-zalla_Mayriella_s0	zalla_Allomerus_s1	0
 zalla_Mayriella_s0	zalla_Daceton_s0	0
 zalla_Mayriella_s0	zalla_Apterostigma_s1	0
 zalla_Mayriella_s0	zalla_Myrmicocrypta_s1	0
@@ -81997,7 +81245,6 @@ zalla_Lordomyrma_s0	zalla_Solenopsis_s3	0
 zalla_Lordomyrma_s0	zalla_Syllophopsis_s1	0
 zalla_Lordomyrma_s0	zalla_Tranopelta_s0	0
 zalla_Lordomyrma_s0	zalla_Blepharidatta_s1	0
-zalla_Lordomyrma_s0	zalla_Allomerus_s1	0
 zalla_Lordomyrma_s0	zalla_Daceton_s0	0
 zalla_Lordomyrma_s0	zalla_Apterostigma_s1	0
 zalla_Lordomyrma_s0	zalla_Myrmicocrypta_s1	0
@@ -82063,7 +81310,6 @@ zalla_Lophomyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Lophomyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Lophomyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Lophomyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Lophomyrmex_s0	zalla_Allomerus_s1	0
 zalla_Lophomyrmex_s0	zalla_Daceton_s0	0
 zalla_Lophomyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Lophomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -82128,7 +81374,6 @@ zalla_Trichomyrmex_s1	zalla_Solenopsis_s3	0
 zalla_Trichomyrmex_s1	zalla_Syllophopsis_s1	0
 zalla_Trichomyrmex_s1	zalla_Tranopelta_s0	0
 zalla_Trichomyrmex_s1	zalla_Blepharidatta_s1	0
-zalla_Trichomyrmex_s1	zalla_Allomerus_s1	0
 zalla_Trichomyrmex_s1	zalla_Daceton_s0	0
 zalla_Trichomyrmex_s1	zalla_Apterostigma_s1	0
 zalla_Trichomyrmex_s1	zalla_Myrmicocrypta_s1	0
@@ -82192,7 +81437,6 @@ zalla_Carebara_s0	zalla_Solenopsis_s3	0
 zalla_Carebara_s0	zalla_Syllophopsis_s1	0
 zalla_Carebara_s0	zalla_Tranopelta_s0	0
 zalla_Carebara_s0	zalla_Blepharidatta_s1	0
-zalla_Carebara_s0	zalla_Allomerus_s1	0
 zalla_Carebara_s0	zalla_Daceton_s0	0
 zalla_Carebara_s0	zalla_Apterostigma_s1	0
 zalla_Carebara_s0	zalla_Myrmicocrypta_s1	0
@@ -82255,7 +81499,6 @@ zalla_Cataulacus_s1	zalla_Solenopsis_s3	0
 zalla_Cataulacus_s1	zalla_Syllophopsis_s1	0
 zalla_Cataulacus_s1	zalla_Tranopelta_s0	0
 zalla_Cataulacus_s1	zalla_Blepharidatta_s1	0
-zalla_Cataulacus_s1	zalla_Allomerus_s1	0
 zalla_Cataulacus_s1	zalla_Daceton_s0	0
 zalla_Cataulacus_s1	zalla_Apterostigma_s1	0
 zalla_Cataulacus_s1	zalla_Myrmicocrypta_s1	0
@@ -82317,7 +81560,6 @@ zalla_Cataulacus_s2	zalla_Solenopsis_s3	0
 zalla_Cataulacus_s2	zalla_Syllophopsis_s1	0
 zalla_Cataulacus_s2	zalla_Tranopelta_s0	0
 zalla_Cataulacus_s2	zalla_Blepharidatta_s1	0
-zalla_Cataulacus_s2	zalla_Allomerus_s1	0
 zalla_Cataulacus_s2	zalla_Daceton_s0	0
 zalla_Cataulacus_s2	zalla_Apterostigma_s1	0
 zalla_Cataulacus_s2	zalla_Myrmicocrypta_s1	0
@@ -82378,7 +81620,6 @@ zalla_Cardiocondyla_s2	zalla_Solenopsis_s3	0
 zalla_Cardiocondyla_s2	zalla_Syllophopsis_s1	0
 zalla_Cardiocondyla_s2	zalla_Tranopelta_s0	0
 zalla_Cardiocondyla_s2	zalla_Blepharidatta_s1	0
-zalla_Cardiocondyla_s2	zalla_Allomerus_s1	0
 zalla_Cardiocondyla_s2	zalla_Daceton_s0	0
 zalla_Cardiocondyla_s2	zalla_Apterostigma_s1	0
 zalla_Cardiocondyla_s2	zalla_Myrmicocrypta_s1	0
@@ -82438,7 +81679,6 @@ zalla_Cardiocondyla_s4	zalla_Solenopsis_s3	0
 zalla_Cardiocondyla_s4	zalla_Syllophopsis_s1	0
 zalla_Cardiocondyla_s4	zalla_Tranopelta_s0	0
 zalla_Cardiocondyla_s4	zalla_Blepharidatta_s1	0
-zalla_Cardiocondyla_s4	zalla_Allomerus_s1	0
 zalla_Cardiocondyla_s4	zalla_Daceton_s0	0
 zalla_Cardiocondyla_s4	zalla_Apterostigma_s1	0
 zalla_Cardiocondyla_s4	zalla_Myrmicocrypta_s1	0
@@ -82497,7 +81737,6 @@ zalla_Cardiocondyla_s5	zalla_Solenopsis_s3	0
 zalla_Cardiocondyla_s5	zalla_Syllophopsis_s1	0
 zalla_Cardiocondyla_s5	zalla_Tranopelta_s0	0
 zalla_Cardiocondyla_s5	zalla_Blepharidatta_s1	0
-zalla_Cardiocondyla_s5	zalla_Allomerus_s1	0
 zalla_Cardiocondyla_s5	zalla_Daceton_s0	0
 zalla_Cardiocondyla_s5	zalla_Apterostigma_s1	0
 zalla_Cardiocondyla_s5	zalla_Myrmicocrypta_s1	0
@@ -82555,7 +81794,6 @@ zalla_Crematogaster_s1	zalla_Solenopsis_s3	0
 zalla_Crematogaster_s1	zalla_Syllophopsis_s1	0
 zalla_Crematogaster_s1	zalla_Tranopelta_s0	0
 zalla_Crematogaster_s1	zalla_Blepharidatta_s1	0
-zalla_Crematogaster_s1	zalla_Allomerus_s1	0
 zalla_Crematogaster_s1	zalla_Daceton_s0	0
 zalla_Crematogaster_s1	zalla_Apterostigma_s1	0
 zalla_Crematogaster_s1	zalla_Myrmicocrypta_s1	0
@@ -82612,7 +81850,6 @@ zalla_Crematogaster_s2	zalla_Solenopsis_s3	0
 zalla_Crematogaster_s2	zalla_Syllophopsis_s1	0
 zalla_Crematogaster_s2	zalla_Tranopelta_s0	0
 zalla_Crematogaster_s2	zalla_Blepharidatta_s1	0
-zalla_Crematogaster_s2	zalla_Allomerus_s1	0
 zalla_Crematogaster_s2	zalla_Daceton_s0	0
 zalla_Crematogaster_s2	zalla_Apterostigma_s1	0
 zalla_Crematogaster_s2	zalla_Myrmicocrypta_s1	0
@@ -82668,7 +81905,6 @@ zalla_Crematogaster_s3	zalla_Solenopsis_s3	0
 zalla_Crematogaster_s3	zalla_Syllophopsis_s1	0
 zalla_Crematogaster_s3	zalla_Tranopelta_s0	0
 zalla_Crematogaster_s3	zalla_Blepharidatta_s1	0
-zalla_Crematogaster_s3	zalla_Allomerus_s1	0
 zalla_Crematogaster_s3	zalla_Daceton_s0	0
 zalla_Crematogaster_s3	zalla_Apterostigma_s1	0
 zalla_Crematogaster_s3	zalla_Myrmicocrypta_s1	0
@@ -82723,7 +81959,6 @@ zalla_Stegomyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Stegomyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Stegomyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Stegomyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Stegomyrmex_s0	zalla_Allomerus_s1	0
 zalla_Stegomyrmex_s0	zalla_Daceton_s0	0
 zalla_Stegomyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Stegomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -82777,7 +82012,6 @@ zalla_Dolopomyrmex_s0	zalla_Solenopsis_s3	0
 zalla_Dolopomyrmex_s0	zalla_Syllophopsis_s1	0
 zalla_Dolopomyrmex_s0	zalla_Tranopelta_s0	0
 zalla_Dolopomyrmex_s0	zalla_Blepharidatta_s1	0
-zalla_Dolopomyrmex_s0	zalla_Allomerus_s1	0
 zalla_Dolopomyrmex_s0	zalla_Daceton_s0	0
 zalla_Dolopomyrmex_s0	zalla_Apterostigma_s1	0
 zalla_Dolopomyrmex_s0	zalla_Myrmicocrypta_s1	0
@@ -82830,7 +82064,6 @@ zalla_Monomorium_s1	zalla_Solenopsis_s3	0
 zalla_Monomorium_s1	zalla_Syllophopsis_s1	0
 zalla_Monomorium_s1	zalla_Tranopelta_s0	0
 zalla_Monomorium_s1	zalla_Blepharidatta_s1	0
-zalla_Monomorium_s1	zalla_Allomerus_s1	0
 zalla_Monomorium_s1	zalla_Daceton_s0	0
 zalla_Monomorium_s1	zalla_Apterostigma_s1	0
 zalla_Monomorium_s1	zalla_Myrmicocrypta_s1	0
@@ -82882,7 +82115,6 @@ zalla_Chelaner_s2	zalla_Solenopsis_s3	0
 zalla_Chelaner_s2	zalla_Syllophopsis_s1	0
 zalla_Chelaner_s2	zalla_Tranopelta_s0	0
 zalla_Chelaner_s2	zalla_Blepharidatta_s1	0
-zalla_Chelaner_s2	zalla_Allomerus_s1	0
 zalla_Chelaner_s2	zalla_Daceton_s0	0
 zalla_Chelaner_s2	zalla_Apterostigma_s1	0
 zalla_Chelaner_s2	zalla_Myrmicocrypta_s1	0
@@ -82933,7 +82165,6 @@ zalla_Chelaner_s3	zalla_Solenopsis_s3	0
 zalla_Chelaner_s3	zalla_Syllophopsis_s1	0
 zalla_Chelaner_s3	zalla_Tranopelta_s0	0
 zalla_Chelaner_s3	zalla_Blepharidatta_s1	0
-zalla_Chelaner_s3	zalla_Allomerus_s1	0
 zalla_Chelaner_s3	zalla_Daceton_s0	0
 zalla_Chelaner_s3	zalla_Apterostigma_s1	0
 zalla_Chelaner_s3	zalla_Myrmicocrypta_s1	0
@@ -82983,7 +82214,6 @@ zalla_Solenopsis_s2	zalla_Solenopsis_s3	0
 zalla_Solenopsis_s2	zalla_Syllophopsis_s1	0
 zalla_Solenopsis_s2	zalla_Tranopelta_s0	0
 zalla_Solenopsis_s2	zalla_Blepharidatta_s1	0
-zalla_Solenopsis_s2	zalla_Allomerus_s1	0
 zalla_Solenopsis_s2	zalla_Daceton_s0	0
 zalla_Solenopsis_s2	zalla_Apterostigma_s1	0
 zalla_Solenopsis_s2	zalla_Myrmicocrypta_s1	0
@@ -83032,7 +82262,6 @@ zalla_Solenopsis_s2	zalla_Pheidole_s24	0
 zalla_Solenopsis_s3	zalla_Syllophopsis_s1	0
 zalla_Solenopsis_s3	zalla_Tranopelta_s0	0
 zalla_Solenopsis_s3	zalla_Blepharidatta_s1	0
-zalla_Solenopsis_s3	zalla_Allomerus_s1	0
 zalla_Solenopsis_s3	zalla_Daceton_s0	0
 zalla_Solenopsis_s3	zalla_Apterostigma_s1	0
 zalla_Solenopsis_s3	zalla_Myrmicocrypta_s1	0
@@ -83080,7 +82309,6 @@ zalla_Solenopsis_s3	zalla_Pheidole_s23	0
 zalla_Solenopsis_s3	zalla_Pheidole_s24	0
 zalla_Syllophopsis_s1	zalla_Tranopelta_s0	0
 zalla_Syllophopsis_s1	zalla_Blepharidatta_s1	0
-zalla_Syllophopsis_s1	zalla_Allomerus_s1	0
 zalla_Syllophopsis_s1	zalla_Daceton_s0	0
 zalla_Syllophopsis_s1	zalla_Apterostigma_s1	0
 zalla_Syllophopsis_s1	zalla_Myrmicocrypta_s1	0
@@ -83127,7 +82355,6 @@ zalla_Syllophopsis_s1	zalla_Pheidole_s22	0
 zalla_Syllophopsis_s1	zalla_Pheidole_s23	0
 zalla_Syllophopsis_s1	zalla_Pheidole_s24	0
 zalla_Tranopelta_s0	zalla_Blepharidatta_s1	0
-zalla_Tranopelta_s0	zalla_Allomerus_s1	0
 zalla_Tranopelta_s0	zalla_Daceton_s0	0
 zalla_Tranopelta_s0	zalla_Apterostigma_s1	0
 zalla_Tranopelta_s0	zalla_Myrmicocrypta_s1	0
@@ -83173,7 +82400,6 @@ zalla_Tranopelta_s0	zalla_Pheidole_s14	0
 zalla_Tranopelta_s0	zalla_Pheidole_s22	0
 zalla_Tranopelta_s0	zalla_Pheidole_s23	0
 zalla_Tranopelta_s0	zalla_Pheidole_s24	0
-zalla_Blepharidatta_s1	zalla_Allomerus_s1	0
 zalla_Blepharidatta_s1	zalla_Daceton_s0	0
 zalla_Blepharidatta_s1	zalla_Apterostigma_s1	0
 zalla_Blepharidatta_s1	zalla_Myrmicocrypta_s1	0
@@ -83219,51 +82445,6 @@ zalla_Blepharidatta_s1	zalla_Pheidole_s14	0
 zalla_Blepharidatta_s1	zalla_Pheidole_s22	0
 zalla_Blepharidatta_s1	zalla_Pheidole_s23	0
 zalla_Blepharidatta_s1	zalla_Pheidole_s24	0
-zalla_Allomerus_s1	zalla_Daceton_s0	0
-zalla_Allomerus_s1	zalla_Apterostigma_s1	0
-zalla_Allomerus_s1	zalla_Myrmicocrypta_s1	0
-zalla_Allomerus_s1	zalla_Cyphomyrmex_s0	0
-zalla_Allomerus_s1	zalla_Mycetomoellerius_s1	0
-zalla_Allomerus_s1	zalla_Mycetomoellerius_s2	0
-zalla_Allomerus_s1	zalla_Paratrachymyrmex_s1	0
-zalla_Allomerus_s1	zalla_Acromyrmex_s1	0
-zalla_Allomerus_s1	zalla_Acromyrmex_s2	0
-zalla_Allomerus_s1	zalla_Rhopalothrix_s0	0
-zalla_Allomerus_s1	zalla_Basiceros_s0	0
-zalla_Allomerus_s1	zalla_Pilotrochus_s0	0
-zalla_Allomerus_s1	zalla_Strumigenys_s1	0
-zalla_Allomerus_s1	zalla_Strumigenys_s3	0
-zalla_Allomerus_s1	zalla_Strumigenys_s4	0
-zalla_Allomerus_s1	zalla_Strumigenys_s6	0
-zalla_Allomerus_s1	zalla_Strumigenys_s8	0
-zalla_Allomerus_s1	zalla_Strumigenys_s10	0
-zalla_Allomerus_s1	zalla_Strumigenys_s11	0
-zalla_Allomerus_s1	zalla_Cephalotes_s2	0
-zalla_Allomerus_s1	zalla_Cephalotes_s6	0
-zalla_Allomerus_s1	zalla_Cephalotes_s7	0
-zalla_Allomerus_s1	zalla_Cephalotes_s8	0
-zalla_Allomerus_s1	zalla_Cephalotes_s10	0
-zalla_Allomerus_s1	zalla_Cephalotes_s12	0
-zalla_Allomerus_s1	zalla_Cephalotes_s14	0
-zalla_Allomerus_s1	zalla_Cephalotes_s15	0
-zalla_Allomerus_s1	zalla_Pheidole_s1	0
-zalla_Allomerus_s1	zalla_Pheidole_s16	0
-zalla_Allomerus_s1	zalla_Pheidole_s20	0
-zalla_Allomerus_s1	zalla_Pheidole_s25	0
-zalla_Allomerus_s1	zalla_Pheidole_s26	0
-zalla_Allomerus_s1	zalla_Pheidole_s6	0
-zalla_Allomerus_s1	zalla_Pheidole_s18	0
-zalla_Allomerus_s1	zalla_Pheidole_s19	0
-zalla_Allomerus_s1	zalla_Pheidole_s27	0
-zalla_Allomerus_s1	zalla_Pheidole_s28	0
-zalla_Allomerus_s1	zalla_Pheidole_s29	0
-zalla_Allomerus_s1	zalla_Pheidole_s8	0
-zalla_Allomerus_s1	zalla_Pheidole_s9	0
-zalla_Allomerus_s1	zalla_Pheidole_s13	0
-zalla_Allomerus_s1	zalla_Pheidole_s14	0
-zalla_Allomerus_s1	zalla_Pheidole_s22	0
-zalla_Allomerus_s1	zalla_Pheidole_s23	0
-zalla_Allomerus_s1	zalla_Pheidole_s24	0
 zalla_Daceton_s0	zalla_Apterostigma_s1	0
 zalla_Daceton_s0	zalla_Myrmicocrypta_s1	0
 zalla_Daceton_s0	zalla_Cyphomyrmex_s0	0

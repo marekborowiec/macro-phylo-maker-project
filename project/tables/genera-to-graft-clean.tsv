@@ -1,0 +1,77 @@
+Subfamily	GraftedTip	Function	Sister	shape1	shape2	min_frac	max_frac	include_terminal	include_stem	Reference	DOI
+Ectatomminae	Poneracantha	graft sister to clade	Gnamptogenys,Typhlomyrmex	1	1	0.1	0.9	NA	NA	Camacho et al (2022)	https://doi.org/10.1093/isd/ixab026
+Ectatomminae	Alfaria	graft sister to tip	Poneracantha	1	1	0.1	0.9	NA	NA	Camacho et al (2022)	https://doi.org/10.1093/isd/ixab026
+Ectatomminae	Holcoponera	graft sister to tip	Alfaria	1	1	0.1	0.9	NA	NA	Camacho et al (2022)	https://doi.org/10.1093/isd/ixab026
+Ectatomminae	Stictoponera	graft sister to clade	Alfaria,Gnamptogenys	1	1	0.1	0.9	NA	NA	Camacho et al (2022)	https://doi.org/10.1093/isd/ixab026
+Ectatomminae	Bazboltonia	graft sister to clade	Acanthoponera,Heteroponera	1	1	0.1	0.9	NA	NA	Camacho et al (2022)	https://doi.org/10.1093/isd/ixab026
+Ectatomminae	Aulacopone	graft sister to tip	Heteroponera	1	1	0.1	0.9	NA	NA	Taylor (1980)	NA
+Formicinae	Uwari	graft sister to tip	Opisthopsis	1	1	0.1	0.9	NA	NA	Ward et al (2025)	https://doi.org/10.1111/syen.12678
+Formicinae	Overbeckia	graft sister to tip	Calomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2025)	https://doi.org/10.1111/syen.12678
+Formicinae	Lathidris	graft sister to clade	Dinomyrmex,Calomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2025)	https://doi.org/10.1111/syen.12678
+Formicinae	Retalimyrma	graft sister to clade	Camponotus,Calomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2025)	https://doi.org/10.1111/syen.12678
+Formicinae	Alloformica	graft sister to tip	Proformica	1	1	0.1	0.9	NA	NA	Agosti (1994)	NA
+Formicinae	Metalasius	graft sister to clade	Paraparatrechina,Paratrechina	1	1	0.1	0.9	NA	NA	Boudinot et al (2022)	https://doi.org/10.1111/syen.12522
+Formicinae	Bregmatomyrma	graft within clade random	Anoplolepis,Lepisiota	1	1	0.1	0.9	TRUE	TRUE	Bolton (2003)	NA
+Dolichoderinae	Chronoxenus	graft sister to tip	Bothriomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Arnoldius	graft sister to clade	Bothriomyrmex,Chronoxenus	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Loweriella	graft sister to clade	Arnoldius,Chronoxenus	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Ravavy	graft sister to tip	Loweriella	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Aptinoma	graft sister to tip	Tapinoma	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Nebothriomyrmex	graft sister to tip	Anonychomyrma	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Doleromyrma	graft sister to clade	Anonychomyrma,Nebothriomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Ecphorella	graft within clade random	Tapinoma,Technomyrmex	1	1	0.1	0.9	TRUE	TRUE	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Dolichoderinae	Anillidris	graft within clade random	Leptomyrmex,Froggattella	1	1	0.1	0.9	TRUE	TRUE	Ward et al (2010)	https://doi.org/10.1093/sysbio/syq012
+Agroecomyrmecinae	Ankylomyrma	graft sister to tip	Tatuidris	1	1	0.4	0.6	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Ponerine	Belonopelta	graft sister to tip	Thaumatomyrmex	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Wadeura	graft sister to tip	Parvaponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Sritoponera	graft sister to clade	Parvaponera,Wadeura	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Austroponera	graft sister to clade	Pseudoponera,Sritoponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Emeryopone	graft sister to clade	Cryptopone,Wadeura	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Ponera	graft sister to clade	Emeryopone,Wadeura	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Boloponera	graft sister to tip	Plectroctena	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Loboponera	graft sister to clade	Boloponera,Plectroctena	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Ophthalmopone	graft sister to tip	Megaponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Buniapone	graft sister to tip	Paltothyreus	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Promyopias	graft sister to tip	Buniapone	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Asphinctopone	graft sister to clade	Buniapone,Paltothyreus	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Corrieopone	graft sister to tip	Asphinctopone	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Subiridopone	graft sister to clade	Asphinctopone,Corrieopone	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Xiphopelta	graft sister to tip	Brachyponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Euponera	graft sister to tip	Hagensia	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Dolioponera	graft sister to tip	Euponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Boltonopone	graft sister to clade	Euponera,Dolioponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Feroponera	graft sister to clade	Boltonopone,Euponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Fisheropone	graft sister to clade	Feroponera,Euponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Makebapone	graft sister to clade	Fisheropone,Euponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Odontoponera	graft sister to clade	Brachyponera,Xiphopelta	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Streblognathus	graft sister to tip	Phrynoponera	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Bothroponera	graft sister to clade	Pseudoneoponera,Streblognathus	1	1	0.1	0.9	NA	NA	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Ponerine	Igaponera	graft within clade random	Simopelta,Neoponera	6	2	0.8	0.9	TRUE	TRUE	Fisher et al (2025)	https://doi.org/10.3897%2Fzookeys.1264.173399
+Proceratiinae	Probolomyrmex	graft sister to tip	Proceratium	1	1	0.1	0.9	NA	NA	Vizueta et al (2025)	https://doi.org/10.1016/j.cell.2025.05.030
+Myrmicinae	Diaphoromyrma	graft sister to clade	Allomerus,Lachnomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Phalacromyrmex	graft sister to tip	Pilotrochus	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Ishakidris	graft sister to tip	Phalacromyrmex	1	1	0.5	0.9	NA	NA	Bolton (1984)	NA
+Myrmicinae	Mesostruma	graft sister to tip	Epopostruma	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Talaridris	graft sister to tip	Eurhopalothrix	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Paramycetophylax	graft sister to tip	Cyphomyrmex	1	1	0.8	0.9	NA	NA	Hanish et al (2022)	https://doi.org/10.1093/isd/ixab029
+Myrmicinae	Secostruma	graft sister to tip	Dilobocondyla	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Formosimyrma	graft within clade random	Ocymyrmex,Leptothorax	6	2	0.8	0.9	TRUE	TRUE	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Peronomyrmex	graft sister to tip	Podomyrma	1	1	0.1	0.9	NA	NA	Taylor (1970)	NA
+Myrmicinae	Gaoligongidris	graft within clade random	Lasiomyrma,Propodilobus	6	2	0.1	0.9	TRUE	TRUE	Xu (2012)	NA
+Myrmicinae	Rostromyrmex	graft sister to clade	Ocymyrmex,Leptothorax	1	1	0.1	0.9	NA	NA	Blaimer et al (2018)	https://doi.org/10.1093/isd/ixy013
+Myrmicinae	Erromyrma	graft sister to tip	Monomorium	1	1	0.8	0.9	NA	NA	Sparks et al (2019)	https://doi.org/10.1071/IS16080
+Myrmicinae	Epelysidris	graft sister to tip	Erromyrma	1	1	0.8	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Tyrannomyrmex	graft sister to clade	Epelysidris,Erromyrma	1	1	0.8	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Unicumyrmex	graft sister to tip	Tyrannomyrmex	1	1	0.8	0.9	NA	NA	Chung et al (2025)	https://doi.org/10.25849/myrmecol.news_035:029
+Myrmicinae	Chelaner	graft sister to tip	Adelomyrmex	1	1	0.8	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Baracidris	graft sister to tip	Adelomyrmex	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Cryptomyrmex	graft within clade random	Adelomyrmex,Baracidris	1	1	0.1	0.9	TRUE	TRUE	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Austromorium	graft sister to tip	Oxyepoecus	1	1	0.8	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Bariamyrma	graft within clade random	Adelomyrmex,Rogeria	6	2	0.1	0.9	TRUE	TRUE	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Bondroitia	graft within clade random	Adelomyrmex,Stegomyrmex	1	1	0.1	0.9	TRUE	TRUE	Bolton (1987)	NA
+Myrmicinae	Kempfidris	graft sister to tip	Solenopsis	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Tropidomyrmex	graft sister to tip	Kempfidris	1	1	0.1	0.9	NA	NA	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Syllophopsis	graft within clade random	Adelomyrmex,Monomorium	1	1	0.1	0.9	TRUE	TRUE	Ward et al (2015)	https://doi.org/10.1111/syen.12090
+Myrmicinae	Chimaeridris	graft sister to tip	Pheidole	1	1	0.1	0.9	NA	NA	Wilson (1989)	NA
+Amblyoponinae	Xymmer	graft within clade random	Adetomyrma,Myopopone	6	2	0.8	0.9	TRUE	TRUE	Ward and Fisher (2016)	https://doi.org/10.1111%2Fsyen.12186
+Amblyoponinae	Mystrium	graft within clade random	Adetomyrma,Myopopone	6	2	0.8	0.9	TRUE	TRUE	Ward and Fisher (2016)	https://doi.org/10.1111%2Fsyen.12186
