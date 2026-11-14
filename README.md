@@ -1831,7 +1831,7 @@ Useful checks at this stage are:
 - Are the major donor clades present in the tree?
 - Did the graft log include one row for each intended clade-grafting operation?
 - Do any expected donor species appear in the final tip labels?
-- A PDF is written by default (`backbone-clade-grafted-2Aug2026.pdf`), does the placement of major clades look reasonable?
+- A PDF is written by default (`backbone-clade-grafted-2026-11-13.pdf`), does the placement of major clades look reasonable?
 
 ### Step 3. Reconstitute genera removed during clade grafting
 
@@ -1856,7 +1856,7 @@ run_tip_grafting(
 )
 ```
 
-This produces the reference tree for the final Chrono-STA-enabled species grafting step. It contains all valid ant taxa present in non-overlapping phylogenetic datasets included (3,387 in 2 August 2026 version).
+This produces the reference tree for the final Chrono-STA-enabled species grafting step. It contains all valid ant taxa present in non-overlapping phylogenetic datasets included (3,465 in 13 November 2026 version).
 
 #### Inspect Step 3 outputs
 
@@ -2021,27 +2021,37 @@ plot_tree_autosize(
   cex = 0.2
 )
 ```
+Following visual inspections we see that one species, `Aphaenogaster cardenai`, needs to be dropped because it was grafted well outside of its likely true position:
 
+```r
+chronosta_tree_reduced <- ape::drop.tip(chronosta_tree, "Aphaenogaster_cardenai")
+ape::write.tree(chronosta_tree_reduced, here::here("project", "results", "grafted", 
+  "chronosta_tree_final_2026-11-13.tre")
+)
+```
+
+As of 13 November 2026, this results in a tree with 4,322 tips.
 
 ### Step 5. Complete the tree with biogeography-aware TACT
 
-After Chrono-STA-enabled grafting, use TACT to add remaining species from the AntWiki taxonomy. This step retains valid binomials from `TaxonName`, omits malformed AntWiki rows where the genus fields disagree, optionally assigns species to biogeographic realms using type-locality country, and runs TACT to complete the tree.
+After Chrono-STA-enabled grafting, use TACT to add remaining species from the AntWiki taxonomy. This step retains valid binomials from `TaxonName`, omits malformed AntWiki rows where the genus fields disagree, and runs TACT to complete the tree.
 
 Be sure to follow Docker setup instructions for TACT before running this function.
+
 
 ```r
 res_tact <- run_tact_grafting(
   backbone_tree = here::here(
     "project", "results", "grafted",
-    "chronosta_gapfilled_final_tree_monophyletic.nwk"
+    "chronosta_tree_final_2026-11-13.tre"
   ),
   taxonomy = here::here(
     "project", "tables",
-    "antwiki-valid-species-2Aug2026.txt"
+    "antwiki-valid-species-2026-11-13-updated.txt"
   ),
   out_prefix = here::here(
     "project", "results", "tact",
-    "Formicidae-complete-tact-biogeo-4Aug2026"
+    "Formicidae-complete-tact-2026-11-13"
   ),
   taxonomy_format = "antwiki",
   tact_runner = "docker",
@@ -2054,15 +2064,7 @@ res_tact <- run_tact_grafting(
   species_code = "keep",
   drop_code_species_after_tact = TRUE,
   enforce_taxonomy_tip_count = FALSE,
-  biogeo = TRUE,
-  country_realm_map = here::here(
-    "project", "tables",
-    "country_udvardy_realm.tsv"
-  ),
-  biogeo_unknown_realm = "Unknown",
-  biogeo_apply_to_all_genera = TRUE,
-  write_biogeo_labelled_trees = TRUE,
-  keep_temp = TRUE
+  biogeo = FALSE
 )
 ```
 
@@ -2081,62 +2083,7 @@ res_tact$paths$cleaned_tree
 file.exists(res_tact$paths$cleaned_tree)
 ```
 
-Paths of the output files are written to screen and they can also be retrieved in R. The realm-labelled inspection tree paths are:
-
-```r
-res_tact$paths$backbone_biogeo_labels
-res_tact$paths$cleaned_tree_biogeo_labels
-```
-
-The primary analysis tree is the cleaned TACT tree without realm suffixes should have been written to:
-
-```text
-project/results/tact/Formicidae-complete-tact-biogeo-2Aug2026_tacted_cleaned.tre
-```
-
-The realm-labelled tree is an inspection tree:
-
-```text
-project/results/tact/Formicidae-complete-tact-biogeo-2Aug2026_tacted_cleaned_biogeo_labels.tre
-```
-
-Use the realm-labelled tree to visually check whether the biogeography-aware grafting behaved as expected, but use the cleaned tree for downstream comparative analyses unless realm suffixes are explicitly needed.
-
-#### Plot and inspect biogeography-aware placement
-
-To plot the realm-labelled TACT tree use:
-
-```r
-t <- ape::read.tree(
-  here::here(
-    "project", "results", "tact",
-    "Formicidae-complete-tact-biogeo-2Aug2026_tacted_cleaned_biogeo_labels.tre"
-  )
-)
-
-plot_tree_autosize(
-  t,
-  here::here("project", "results", "tact", "tact_biogeo.pdf"),
-  cex = 0.1
-)
-```
-
-You can also plot the clean final tree without realm suffixes:
-
-```r
-t_clean <- ape::read.tree(
-  here::here(
-    "project", "results", "tact",
-    "Formicidae-complete-tact-biogeo-2Aug2026_tacted_cleaned.tre"
-  )
-)
-
-plot_tree_autosize(
-  t_clean,
-  here::here("project", "results", "tact", "tact_cleaned.pdf"),
-  cex = 0.1
-)
-```
+Paths of the output files are written to screen and they can also be retrieved in R.
 
 Once confirmed this worked, we generate 100 replicates of TACT-completed trees:
 
@@ -2147,15 +2094,15 @@ for (seed_i in seeds) {
   run_tact_grafting(
     backbone_tree = here::here(
       "project", "results", "grafted",
-      "chronosta_gapfilled_final_tree_monophyletic.nwk"
+      "chronosta_tree_final_2026-11-13.tre"
     ),
     taxonomy = here::here(
       "project", "tables",
-      "antwiki-valid-species-2Aug2026.txt"
+      "antwiki-valid-species-2026-11-13-updated.txt"
     ),
     out_prefix = here::here(
       "project", "results", "tact",
-      sprintf("Formicidae-complete-tact-biogeo-4Aug2026_rep%03d", seed_i)
+      sprintf("Formicidae-complete-tact-2026-11-13_rep%03d", seed_i)
     ),
     taxonomy_format = "antwiki",
     tact_runner = "docker",
@@ -2167,20 +2114,14 @@ for (seed_i in seeds) {
     species_code = "keep",
     drop_code_species_after_tact = TRUE,
     enforce_taxonomy_tip_count = FALSE,
-    biogeo = TRUE,
-    country_realm_map = here::here(
-      "project", "tables",
-      "country_udvardy_realm.tsv"
-    ),
-    write_biogeo_labelled_trees = FALSE,
-    keep_temp = FALSE
+    biogeo = FALSE
   )
 }
 ```
 
 Then we combined these into a single tree outside of R:
 ```bash
-cat Formicidae-complete-tact-biogeo-4Aug2026_rep*_tacted_cleaned.tre > 100-tact-replicates.tre
+cat Formicidae-complete-tact-2026-11-13_rep*_tacted_cleaned.tre > 100-tact-replicates.tre
 ```
 
 #### Final output to use in downstream analyses
@@ -2188,7 +2129,7 @@ cat Formicidae-complete-tact-biogeo-4Aug2026_rep*_tacted_cleaned.tre > 100-tact-
 For most downstream analyses, use this file:
 
 ```text
-project/results/tact/Formicidae-complete-tact-biogeo-2Aug2026_tacted_cleaned.tre
+project/results/tact/Formicidae-complete-tact-2026-11-13_tacted_cleaned.tre
 ```
 
 or, within the same R session that ran TACT, use:
@@ -2212,6 +2153,7 @@ To update the tree when new source phylogenies become available:
    ```text
    project/tables/clades-to-graft-clean.tsv
    ```
+You also want to place it in both `project/published/` and `project/chronosta/source_trees/`.
 
 3. If it should be used only in the Chrono-STA gap-filling step, place it in:
 
